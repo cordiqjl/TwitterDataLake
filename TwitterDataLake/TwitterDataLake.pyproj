@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0083d24c-8843-4184-b6b6-dea5572a7ff6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TwitterDataLake.py</StartupFile>
+    <StartupFile>TwitterCrawler.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="TwitterDataLake.py" />
+    <Compile Include="ProcessData.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TwitterCrawler.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
