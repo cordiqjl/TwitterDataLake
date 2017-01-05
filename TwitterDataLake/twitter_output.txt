@@ -3959,3 +3959,6 @@
 #Copenhagen Dec 21 17:50 Temperature 4C overcast Wind SW 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
 #Copenhagen Dec 21 17:20 Temperature 4C overcast Wind S 20 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
 #Copenhagen Dec 21 16:50 Temperature 3C cloudy Wind S 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 12:20 Temperature -6C few clouds Wind NE 31 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 11:50 Temperature -6C few clouds Wind N 30 km/h  Humidity 45% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 11:20 Temperature -6C few clouds Wind NE 26 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
