@@ -1,0 +1,3898 @@
+Date;Temperature;Weather;Wind direction;Wind speed;Humidity
+Dec 21 16:20;3C;few clouds;S;20;85%
+Dec 21 15:50;3C;few clouds;SW;15;85%
+Dec 21 15:20;3C;cloudy;SW;22;85%
+Dec 21 14:50;3C;cloudy;SW;26;85%
+Dec 21 14:20;3C;overcast;SW;22;95%
+Dec 21 13:50;3C;cloudy haze;SW;20;85%
+Dec 21 13:20;2C;overcast haze;SW;22;95%
+Dec 21 12:50;2C;overcast haze;SW;24;95%
+Dec 21 12:20;2C;overcast haze;SW;26;95%
+Dec 21 11:50;2C;overcast;SW;24;85%
+Dec 21 11:20;2C;overcast;SW;30;85%
+Dec 21 10:50;2C;overcast;SW;24;85%
+Dec 21 10:20;2C;cloudy;S;22;80%
+Dec 21 09:50;1C;overcast;SW;22;85%
+Dec 21 09:20;1C;overcast;SW;19;85%
+Dec 21 08:50;1C;overcast;SW;20;85%
+Dec 21 08:20;1C;overcast;SW;19;85%
+Dec 21 07:50;1C;overcast;SW;19;85%
+Dec 21 07:20;1C;overcast;SW;22;85%
+Dec 21 07:00;0C;overcast;SW;22;87%
+Dec 21 06:50;1C;overcast;SW;20;85%
+Dec 21 06:20;1C;cloudy;SW;22;85%
+Dec 21 05:50;1C;cloudy;SW;22;85%
+Dec 21 05:20;2C;cloudy;S;22;80%
+Dec 21 04:50;2C;cloudy;S;26;85%
+Dec 21 04:20;2C;cloudy;S;22;85%
+Dec 21 03:50;2C;cloudy;S;26;85%
+Dec 21 03:20;2C;cloudy;S;22;85%
+Dec 21 02:50;2C;cloudy;S;28;85%
+Dec 21 00:50;3C;cloudy;S;35;95%
+Dec 21 00:20;4C;cloudy;SE;33;85%
+Dec 20 23:50;3C;cloudy;SE;30;95%
+Dec 20 23:20;3C;cloudy;SE;33;95%
+Dec 20 22:50;3C;overcast;SE;33;95%
+Dec 20 22:20;3C;overcast;SE;30;95%
+Dec 20 22:00;3C;cloudy;SE;22;91%
+Dec 20 21:50;3C;overcast;SE;22;95%
+Dec 20 21:20;3C;overcast;SE;24;95%
+Dec 20 20:50;3C;overcast;SE;24;95%
+Dec 20 20:20;3C;overcast;SE;20;95%
+Dec 20 19:50;3C;overcast;SE;22;95%
+Dec 20 19:20;3C;overcast;SE;22;85%
+Dec 20 18:50;3C;overcast;SE;20;85%
+Dec 20 18:20;3C;overcast;SE;19;85%
+Dec 20 17:50;3C;overcast;SE;19;85%
+Dec 20 17:20;3C;overcast;SE;17;85%
+Dec 20 16:50;3C;overcast;SE;17;85%
+Dec 20 16:20;3C;overcast;S;13;85%
+Dec 20 15:50;3C;overcast;S;15;85%
+Dec 20 15:20;3C;overcast;S;13;95%
+Dec 20 14:50;3C;overcast;S;15;85%
+Dec 20 14:20;3C;overcast;S;15;85%
+Dec 20 13:50;3C;overcast;S;11;95%
+Dec 20 13:20;4C;overcast;S;13;85%
+Dec 20 12:50;4C;overcast;S;15;85%
+Dec 20 12:20;4C;overcast;S;13;80%
+Dec 20 12:00;4C;overcast;S;13;85%
+Dec 20 11:50;4C;overcast;S;13;85%
+Dec 20 11:20;4C;overcast;S;9;85%
+Dec 20 10:50;4C;overcast;SW;9;85%
+Dec 20 10:20;4C;overcast;SW;7;85%
+Dec 20 09:50;4C;overcast;SW;9;85%
+Dec 20 09:20;4C;overcast;SW;9;80%
+Dec 20 08:50;3C;overcast;SW;6;85%
+Dec 20 08:20;3C;overcast;SW;7;85%
+Dec 20 07:50;3C;overcast;S;11;95%
+Dec 20 07:20;3C;overcast;S;9;85%
+Dec 20 06:50;3C;overcast;SW;4;85%
+Dec 20 06:20;4C;overcast;SW;6;80%
+Dec 20 05:50;4C;overcast;W;7;80%
+Dec 20 05:20;4C;overcast;W;6;80%
+Dec 20 04:50;3C;overcast;SW;6;95%
+Dec 20 04:20;3C;overcast;W;9;95%
+Dec 20 03:50;4C;overcast;SW;11;85%
+Dec 20 03:20;3C;overcast;SW;2;85%
+Dec 20 02:50;4C;overcast;W;4;85%
+Dec 20 00:50;4C;overcast;W;7;85%
+Dec 20 00:20;3C;overcast;W;6;95%
+Dec 19 23:50;3C;overcast;W;7;85%
+Dec 19 23:20;3C;overcast;W;9;85%
+Dec 19 22:50;3C;overcast;W;7;85%
+Dec 19 22:20;4C;overcast;W;7;85%
+Dec 19 21:50;4C;overcast;W;11;85%
+Dec 19 21:20;4C;overcast;W;15;85%
+Dec 19 20:50;4C;overcast;W;11;85%
+Dec 19 20:20;4C;overcast;SW;13;85%
+Dec 19 19:50;4C;overcast;SW;11;85%
+Dec 19 19:20;4C;overcast;SW;9;85%
+Dec 19 18:50;4C;overcast;SW;7;85%
+Dec 19 18:20;4C;overcast;W;6;85%
+Dec 19 17:50;4C;overcast;W;11;85%
+Dec 19 17:20;4C;overcast;W;13;85%
+Dec 19 16:50;4C;overcast;W;11;85%
+Dec 19 16:20;4C;overcast;W;11;85%
+Dec 19 15:50;4C;overcast;W;11;95%
+Dec 19 15:20;4C;overcast;SW;9;95%
+Dec 19 14:50;4C;overcast;SW;11;95%
+Dec 19 14:20;4C;overcast;W;11;95%
+Dec 19 13:50;4C;overcast;W;11;95%
+Dec 19 13:20;4C;overcast;W;11;95%
+Dec 19 12:50;4C;overcast;W;13;95%
+Dec 19 12:20;4C;overcast;W;13;85%
+Dec 19 11:50;4C;overcast;W;11;95%
+Dec 19 11:20;4C;overcast;W;15;85%
+Dec 19 10:50;3C;overcast;W;13;95%
+Dec 19 10:20;4C;overcast;SW;13;95%
+Dec 19 10:00;3C;overcast;W;13;91%
+Dec 19 09:50;4C;overcast;SW;11;95%
+Dec 19 09:20;4C;overcast;W;7;95%
+Dec 19 08:50;4C;overcast;W;9;85%
+Dec 19 08:20;4C;overcast;W;7;85%
+Dec 19 07:50;4C;overcast;W;13;85%
+Dec 19 07:20;4C;overcast;W;11;95%
+Dec 19 06:50;4C;overcast;W;13;85%
+Dec 19 06:20;4C;overcast;W;17;85%
+Dec 19 05:50;4C;overcast;W;13;85%
+Dec 19 05:20;4C;overcast;W;15;95%
+Dec 19 04:50;4C;overcast;W;17;95%
+Dec 19 04:00;4C;overcast;W;15;89%
+Dec 19 03:50;4C;overcast;W;15;95%
+Dec 19 03:20;4C;overcast;W;17;95%
+Dec 19 02:50;4C;overcast;SW;13;95%
+Dec 19 00:50;4C;overcast;SW;7;95%
+Dec 19 00:20;4C;overcast;W;7;85%
+Dec 18 23:50;4C;overcast;SW;6;95%
+Dec 18 23:20;4C;overcast;W;6;85%
+Dec 18 22:50;4C;overcast;SW;9;95%
+Dec 18 22:20;4C;overcast;W;11;95%
+Dec 18 21:50;4C;overcast;W;7;95%
+Dec 18 21:20;4C;overcast;W;7;95%
+Dec 18 20:50;4C;overcast;W;7;85%
+Dec 18 20:20;5C;overcast;W;9;85%
+Dec 18 19:50;5C;overcast;W;9;85%
+Dec 18 19:20;5C;overcast;W;9;85%
+Dec 18 18:50;5C;overcast;W;9;85%
+Dec 18 18:20;5C;overcast;VRB;2;85%
+Dec 18 17:50;5C;overcast;NW;7;85%
+Dec 18 17:20;5C;overcast;N;9;85%
+Dec 18 16:50;5C;overcast;N;6;95%
+Dec 18 16:20;5C;overcast;NE;7;95%
+Dec 18 15:50;6C;overcast;N;9;85%
+Dec 18 15:20;6C;overcast;N;6;85%
+Dec 18 15:00;5C;overcast;N;6;88%
+Dec 18 14:50;6C;cloudy;N;7;85%
+Dec 18 14:20;6C;cloudy;N;6;85%
+Dec 18 13:50;6C;cloudy;N;7;85%
+Dec 18 13:20;6C;cloudy;N;13;85%
+Dec 18 12:50;6C;cloudy;N;13;85%
+Dec 18 12:20;6C;cloudy;N;11;95%
+Dec 18 11:50;6C;cloudy;N;13;95%
+Dec 18 11:20;6C;cloudy;N;9;95%
+Dec 18 10:50;6C;cloudy;N;13;95%
+Dec 18 10:20;6C;cloudy;N;13;95%
+Dec 18 09:50;6C;cloudy haze;NW;7;95%
+Dec 18 09:20;6C;cloudy haze;NW;6;95%
+Dec 18 08:50;6C;cloudy;NW;7;95%
+Dec 18 08:20;6C;cloudy;NW;7;95%
+Dec 18 07:50;6C;cloudy haze;W;7;95%
+Dec 18 07:20;5C;cloudy haze;W;7;95%
+Dec 18 06:50;5C;overcast haze;SW;7;95%
+Dec 18 06:20;5C;cloudy;W;9;95%
+Dec 18 05:50;5C;cloudy;W;9;95%
+Dec 18 05:20;5C;cloudy haze;W;9;95%
+Dec 18 04:50;5C;cloudy haze;W;11;95%
+Dec 18 04:20;5C;clouds;W;9;95%
+Dec 18 03:50;5C;light rain;W;7;95%
+Dec 18 03:20;5C;light rain;W;9;95%
+Dec 18 02:50;6C;clouds;W;11;95%
+Dec 18 00:50;5C;cloudy haze;W;22;95%
+Dec 18 00:20;5C;cloudy haze;SW;19;95%
+Dec 17 23:50;5C;drizzle;W;19;95%
+Dec 17 23:20;5C;drizzle;SW;19;95%
+Dec 17 22:50;5C;drizzle;W;19;95%
+Dec 17 22:20;5C;cloudy haze;SW;17;95%
+Dec 17 21:50;5C;drizzle;SW;20;95%
+Dec 17 21:20;5C;drizzle;W;20;95%
+Dec 17 20:50;5C;drizzle;SW;19;85%
+Dec 17 20:20;5C;cloudy haze;W;19;95%
+Dec 17 19:50;4C;cloudy haze;SW;19;95%
+Dec 17 19:20;4C;cloudy;SW;15;95%
+Dec 17 18:50;4C;cloudy haze;SW;17;95%
+Dec 17 18:20;4C;cloudy haze;W;17;95%
+Dec 17 17:50;4C;cloudy haze;SW;17;95%
+Dec 17 17:20;4C;cloudy haze;SW;15;95%
+Dec 17 16:50;3C;cloudy haze;SW;13;95%
+Dec 17 16:20;3C;cloudy haze;SW;9;95%
+Dec 17 15:50;3C;cloudy haze;SW;9;95%
+Dec 17 15:20;2C;cloudy haze;SW;9;95%
+Dec 17 14:50;2C;cloudy haze;W;11;95%
+Dec 17 14:20;2C;cloudy haze;W;11;95%
+Dec 17 13:50;2C;overcast haze;W;11;95%
+Dec 17 13:20;1C;fog;SW;9;100%
+Dec 17 12:50;1C;fog;SW;4;95%
+Dec 17 12:20;0C;overcast haze;SW;6;95%
+Dec 17 11:50;0C;overcast haze;SW;6;95%
+Dec 17 11:20;0C;cloudy haze;SW;6;95%
+Dec 17 10:50;0C;cloudy haze;W;4;95%
+Dec 17 10:20;0C;cloudy haze;NW;4;95%
+Dec 17 09:50;0C;overcast;NW;9;95%
+Dec 17 09:20;0C;overcast;W;9;95%
+Dec 17 09:00;0C;cloudy;W;11;86%
+Dec 17 08:50;0C;overcast;W;9;85%
+Dec 17 08:20;0C;overcast;W;9;85%
+Dec 17 07:50;0C;overcast;W;7;85%
+Dec 17 07:20;0C;overcast;NW;7;85%
+Dec 17 06:50;0C;overcast;W;9;85%
+Dec 17 06:20;0C;overcast;W;9;85%
+Dec 17 05:50;0C;overcast;W;9;85%
+Dec 17 05:20;0C;overcast;W;7;85%
+Dec 17 04:50;1C;overcast;W;7;85%
+Dec 17 04:20;1C;overcast;W;7;85%
+Dec 17 03:50;1C;overcast;W;4;85%
+Dec 17 03:20;1C;overcast;W;9;85%
+Dec 17 02:50;1C;overcast;W;9;85%
+Dec 17 00:50;2C;overcast;W;7;80%
+Dec 17 00:20;2C;overcast;SW;6;85%
+Dec 16 23:50;3C;overcast;SW;7;75%
+Dec 16 23:20;3C;cloudy;S;7;75%
+Dec 16 22:50;2C;cloudy;SW;7;85%
+Dec 16 22:20;2C;cloudy;SW;6;80%
+Dec 16 21:50;3C;cloudy;SW;6;80%
+Dec 16 21:20;3C;cloudy;SW;9;75%
+Dec 16 20:50;3C;cloudy;S;9;80%
+Dec 16 20:20;3C;cloudy;S;9;75%
+Dec 16 19:50;3C;cloudy;S;9;80%
+Dec 16 19:20;3C;cloudy;S;13;80%
+Dec 16 18:50;3C;cloudy;S;11;80%
+Dec 16 18:20;3C;cloudy;S;9;80%
+Dec 16 17:50;3C;overcast;S;9;75%
+Dec 16 17:20;2C;overcast;S;13;80%
+Dec 16 16:50;3C;overcast;S;13;75%
+Dec 16 16:20;3C;overcast;S;15;80%
+Dec 16 15:50;3C;overcast;S;13;80%
+Dec 16 15:20;3C;overcast;S;15;75%
+Dec 16 14:50;3C;overcast;S;13;80%
+Dec 16 14:20;3C;overcast;S;13;80%
+Dec 16 13:50;3C;overcast;S;13;80%
+Dec 16 13:20;3C;overcast;S;15;80%
+Dec 16 12:50;3C;overcast;S;15;80%
+Dec 16 12:20;3C;overcast;S;15;80%
+Dec 16 11:50;3C;overcast;S;17;75%
+Dec 16 11:20;3C;overcast;S;17;75%
+Dec 16 10:50;3C;overcast;S;11;80%
+Dec 16 10:20;3C;overcast;S;11;75%
+Dec 16 09:50;3C;overcast;S;15;80%
+Dec 16 09:20;3C;overcast;S;7;80%
+Dec 16 08:50;2C;overcast;SW;6;85%
+Dec 16 08:20;2C;overcast;SW;7;85%
+Dec 16 07:50;2C;overcast;S;7;85%
+Dec 16 07:20;2C;overcast;S;13;85%
+Dec 16 06:50;2C;cloudy;S;15;85%
+Dec 16 06:20;2C;cloudy;S;17;85%
+Dec 16 05:50;3C;cloudy;S;20;80%
+Dec 16 05:20;3C;cloudy;S;20;80%
+Dec 16 04:50;3C;cloudy;S;20;80%
+Dec 16 04:20;3C;cloudy;S;24;80%
+Dec 16 03:50;3C;cloudy;S;22;80%
+Dec 16 03:20;3C;cloudy;S;20;75%
+Dec 16 02:50;3C;cloudy;S;20;75%
+Dec 16 00:50;3C;cloudy;S;17;75%
+Dec 16 00:20;3C;cloudy;S;20;80%
+Dec 15 23:50;3C;cloudy;S;19;80%
+Dec 15 23:20;3C;cloudy;S;19;80%
+Dec 15 22:50;3C;cloudy;S;17;80%
+Dec 15 22:20;4C;cloudy;S;19;75%
+Dec 15 21:50;4C;cloudy;S;17;75%
+Dec 15 21:20;4C;cloudy;S;20;75%
+Dec 15 20:50;4C;cloudy;S;19;75%
+Dec 15 20:20;4C;cloudy;S;20;75%
+Dec 15 19:50;4C;cloudy;S;17;75%
+Dec 15 19:20;4C;cloudy;S;17;75%
+Dec 15 18:50;4C;cloudy;S;20;75%
+Dec 15 18:20;4C;cloudy;S;20;80%
+Dec 15 17:50;4C;cloudy;S;20;80%
+Dec 15 17:20;4C;cloudy;S;17;80%
+Dec 15 16:50;3C;cloudy;S;17;80%
+Dec 15 16:00;3C;cloudy;S;13;82%
+Dec 15 15:50;3C;cloudy;S;15;85%
+Dec 15 15:20;3C;cloudy;S;13;80%
+Dec 15 14:50;4C;cloudy;S;15;80%
+Dec 15 14:20;4C;cloudy;S;15;80%
+Dec 15 13:50;4C;cloudy;S;15;80%
+Dec 15 13:20;4C;cloudy;S;17;80%
+Dec 15 12:50;4C;cloudy;S;17;80%
+Dec 15 12:20;4C;cloudy;S;15;85%
+Dec 15 11:50;4C;cloudy;S;11;85%
+Dec 15 11:20;4C;cloudy;S;13;80%
+Dec 15 10:50;3C;cloudy;S;9;95%
+Dec 15 10:20;3C;cloudy;S;7;95%
+Dec 15 09:50;3C;cloudy;S;9;95%
+Dec 15 09:20;3C;cloudy;S;9;85%
+Dec 15 08:50;3C;cloudy;S;9;95%
+Dec 15 08:20;3C;cloudy;S;7;95%
+Dec 15 07:50;2C;cloudy;S;7;95%
+Dec 15 07:21;1C;fog in patches;S;7;95%
+Dec 15 06:50;1C;fog in patches;S;6;95%
+Dec 15 06:20;0C;fog in patches;S;4;95%
+Dec 15 05:50;0C;few clouds;S;4;95%
+Dec 15 05:20;0C;cloudless;S;2;95%
+Dec 15 04:51;1C;cloudless;S;7;95%
+Dec 15 04:20;1C;no or few clouds;SE;9;95%
+Dec 15 03:50;1C;no or few clouds;SE;11;95%
+Dec 15 03:20;0C;no or few clouds;E;9;95%
+Dec 15 03:00;0C;cloudless;E;11;96%
+Dec 15 02:50;-2C;dry;E;11;95%
+Dec 15 00:50;-2C;no or few clouds;NE;4;95%
+Dec 15 00:20;-2C;no or few clouds;N;4;95%
+Dec 14 23:50;-3C;no or few clouds;NW;2;95%
+Dec 14 23:20;-1C;no or few clouds;N;2;95%
+Dec 14 22:50;-1C;no or few clouds;NW;2;95%
+Dec 14 22:20;0C;no or few clouds;NE;4;95%
+Dec 14 21:50;1C;no or few clouds;NE;6;85%
+Dec 14 21:20;1C;no or few clouds;NE;7;85%
+Dec 14 20:50;1C;no or few clouds;NE;9;85%
+Dec 14 20:20;1C;no or few clouds;NE;9;95%
+Dec 14 19:50;-1C;no or few clouds;NE;6;95%
+Dec 14 19:20;0C;no or few clouds;NE;6;95%
+Dec 14 18:50;0C;no or few clouds;N;4;95%
+Dec 14 18:20;1C;no or few clouds;N;6;95%
+Dec 14 17:50;2C;no or few clouds;NW;4;85%
+Dec 14 17:20;2C;no or few clouds;NW;6;85%
+Dec 14 16:50;2C;fair;N;7;85%
+Dec 14 16:20;2C;fair;N;9;95%
+Dec 14 15:50;4C;fair;N;11;80%
+Dec 14 15:20;3C;fair;N;11;85%
+Dec 14 14:50;4C;fair;N;11;80%
+Dec 14 14:20;4C;fair;N;11;80%
+Dec 14 13:50;4C;fair;N;15;80%
+Dec 14 13:20;5C;fair;N;19;75%
+Dec 14 12:50;5C;fair;N;17;75%
+Dec 14 12:20;5C;fair;N;17;80%
+Dec 14 11:50;4C;fair;N;15;85%
+Dec 14 11:20;4C;fair;N;17;85%
+Dec 14 10:50;4C;fair;N;13;80%
+Dec 14 10:20;3C;fair;N;11;85%
+Dec 14 09:50;2C;fair;N;15;85%
+Dec 14 09:20;2C;fair;N;17;85%
+Dec 14 08:50;2C;fair;N;15;80%
+Dec 14 08:20;3C;fair;N;13;80%
+Dec 14 07:50;2C;no or few clouds;N;17;85%
+Dec 14 07:20;3C;no or few clouds;N;15;85%
+Dec 14 07:00;2C;cloudless;N;15;90%
+Dec 14 06:50;2C;no or few clouds;N;15;95%
+Dec 14 06:20;2C;cloudless;NW;11;95%
+Dec 14 05:50;3C;cloudless;NW;9;95%
+Dec 14 05:20;3C;cloudless haze;NW;9;95%
+Dec 14 04:50;3C;cloudless haze;NW;9;95%
+Dec 14 04:20;4C;cloudless;NW;9;95%
+Dec 14 03:50;5C;few clouds;N;15;95%
+Dec 14 03:20;6C;cloudy haze;N;11;95%
+Dec 14 02:50;6C;cloudy haze;NW;9;95%
+Dec 14 00:50;5C;clouds haze;W;15;95%
+Dec 14 00:20;6C;overcast haze;W;15;95%
+Dec 13 23:50;6C;overcast haze;W;15;85%
+Dec 13 23:20;6C;overcast haze;W;13;85%
+Dec 13 23:00;5C;overcast;W;15;91%
+Dec 13 22:50;6C;clouds haze;W;15;95%
+Dec 13 22:20;6C;clouds haze;W;17;85%
+Dec 13 21:50;6C;cloudy haze;W;15;95%
+Dec 13 21:20;6C;overcast haze;W;13;85%
+Dec 13 20:50;6C;overcast haze;W;15;95%
+Dec 13 20:20;6C;cloudy haze;W;15;95%
+Dec 13 19:50;6C;overcast haze;W;19;95%
+Dec 13 19:20;6C;overcast haze;SW;20;95%
+Dec 13 18:50;6C;clouds haze;SW;19;95%
+Dec 13 18:20;6C;clouds haze;W;15;95%
+Dec 13 17:50;6C;cloudy haze;W;15;95%
+Dec 13 17:20;6C;cloudy haze;W;13;95%
+Dec 13 16:50;6C;cloudy haze;W;13;95%
+Dec 13 16:20;6C;overcast haze;W;11;95%
+Dec 13 15:50;6C;overcast haze;W;17;95%
+Dec 13 15:20;6C;overcast haze;W;15;95%
+Dec 13 14:50;6C;overcast haze;W;19;95%
+Dec 13 14:20;6C;drizzle;W;17;95%
+Dec 13 13:50;6C;drizzle;SW;17;95%
+Dec 13 13:20;6C;drizzle;SW;19;95%
+Dec 13 12:50;6C;drizzle;SW;17;95%
+Dec 13 12:20;5C;drizzle;SW;17;95%
+Dec 13 12:00;5C;overcast;SW;15;99%
+Dec 13 11:50;5C;drizzle;SW;15;95%
+Dec 13 11:20;5C;drizzle;SW;13;95%
+Dec 13 10:50;5C;drizzle;SW;11;95%
+Dec 13 10:20;5C;drizzle;S;9;95%
+Dec 13 09:50;4C;drizzle;S;7;95%
+Dec 13 09:20;4C;drizzle;S;7;95%
+Dec 13 08:50;4C;drizzle;SW;6;95%
+Dec 13 08:20;3C;drizzle;S;4;95%
+Dec 13 07:50;3C;drizzle;SW;7;95%
+Dec 13 07:20;3C;drizzle;SW;4;95%
+Dec 13 06:50;3C;drizzle;W;7;95%
+Dec 13 06:20;3C;cloudy;W;7;85%
+Dec 13 05:50;4C;cloudy;W;13;80%
+Dec 13 05:20;4C;cloudy;W;19;80%
+Dec 13 04:50;4C;cloudy;W;15;80%
+Dec 13 04:20;4C;overcast;W;20;80%
+Dec 13 03:50;4C;overcast;SW;17;85%
+Dec 13 03:20;4C;overcast;SW;19;85%
+Dec 13 02:50;4C;cloudy;SW;17;80%
+Dec 13 00:50;3C;cloudy;SW;19;85%
+Dec 13 00:20;3C;cloudy;SW;19;85%
+Dec 12 23:50;2C;clouds;SW;19;85%
+Dec 12 23:20;2C;clouds;SW;17;85%
+Dec 12 22:50;2C;few clouds;SW;17;80%
+Dec 12 22:20;2C;few clouds;SW;17;80%
+Dec 12 21:50;2C;few clouds;SW;17;80%
+Dec 12 21:20;2C;few clouds;SW;17;80%
+Dec 12 20:50;2C;few clouds;S;13;80%
+Dec 12 20:20;1C;few clouds;S;13;85%
+Dec 12 19:50;1C;few clouds;SW;11;75%
+Dec 12 19:20;0C;few clouds;S;11;80%
+Dec 12 18:50;2C;few clouds;S;13;75%
+Dec 12 18:20;2C;few clouds;S;11;75%
+Dec 12 18:00;1C;cloudless;S;11;75%
+Dec 12 17:50;1C;dry;S;11;80%
+Dec 12 17:20;1C;no or few clouds;SE;15;85%
+Dec 12 16:50;1C;fair;S;11;80%
+Dec 12 16:20;1C;few clouds;S;9;80%
+Dec 12 15:50;1C;few clouds;SE;13;80%
+Dec 12 15:20;2C;fair;SE;13;75%
+Dec 12 14:50;2C;fair;SE;13;70%
+Dec 12 14:20;2C;fair;SE;9;70%
+Dec 12 13:50;2C;fair;SE;9;75%
+Dec 12 13:20;2C;fair;E;7;70%
+Dec 12 12:50;2C;fair;E;9;75%
+Dec 12 12:20;2C;fair;E;11;75%
+Dec 12 11:50;2C;fair;E;17;75%
+Dec 12 11:20;2C;fair;E;19;75%
+Dec 12 10:50;1C;fair;E;19;80%
+Dec 12 10:20;1C;fair;E;19;80%
+Dec 12 10:00;0C;cloudless;E;19;81%
+Dec 12 09:50;1C;fair;E;17;80%
+Dec 12 09:20;1C;few clouds;E;17;80%
+Dec 12 08:50;1C;few clouds;NE;17;80%
+Dec 12 08:20;1C;few clouds;NE;17;75%
+Dec 12 07:50;1C;few clouds;E;19;80%
+Dec 12 07:20;1C;clouds;NE;17;80%
+Dec 12 06:50;1C;clouds;NE;17;80%
+Dec 12 06:20;2C;clouds;E;20;70%
+Dec 12 05:50;2C;clouds;NE;20;75%
+Dec 12 05:20;2C;clouds;NE;22;80%
+Dec 12 04:50;2C;drizzle;E;20;80%
+Dec 12 04:20;2C;drizzle;E;20;85%
+Dec 12 03:50;2C;cloudy;NE;22;85%
+Dec 12 03:20;3C;cloudy;E;24;80%
+Dec 12 03:00;3C;overcast;NE;24;89%
+Dec 12 02:50;3C;drizzle;E;24;85%
+Dec 12 00:50;6C;cloudy;N;19;85%
+Dec 12 00:20;6C;cloudy;N;20;85%
+Dec 11 23:50;6C;cloudy;N;20;85%
+Dec 11 23:20;6C;cloudy;NW;13;85%
+Dec 11 22:50;7C;cloudy;NW;17;80%
+Dec 11 22:20;7C;overcast;NW;17;85%
+Dec 11 21:50;7C;cloudy;NW;15;85%
+Dec 11 21:20;7C;cloudy;NW;13;85%
+Dec 11 21:00;6C;cloudy;NW;13;87%
+Dec 11 20:50;7C;cloudy;NW;15;85%
+Dec 11 20:20;7C;cloudy;NW;15;85%
+Dec 11 19:50;7C;few clouds;NW;15;85%
+Dec 11 19:20;7C;cloudy;NW;19;85%
+Dec 11 18:50;7C;cloudy;NW;22;85%
+Dec 11 18:20;7C;cloudy;W;19;85%
+Dec 11 17:50;7C;cloudy;W;22;85%
+Dec 11 17:20;7C;cloudy;W;22;85%
+Dec 11 16:50;7C;cloudy;W;20;85%
+Dec 11 16:20;7C;few clouds;W;20;85%
+Dec 11 15:50;7C;few clouds;W;17;85%
+Dec 11 15:20;7C;few clouds;W;22;85%
+Dec 11 14:50;8C;few clouds;W;24;80%
+Dec 11 14:20;8C;cloudy;W;24;85%
+Dec 11 13:50;8C;cloudy;NW;28;85%
+Dec 11 13:20;8C;cloudy;NW;26;85%
+Dec 11 12:50;8C;cloudy;W;19;85%
+Dec 11 12:20;8C;cloudy;W;19;95%
+Dec 11 11:50;8C;cloudy;W;17;85%
+Dec 11 11:20;7C;light showers;W;13;95%
+Dec 11 10:50;7C;light showers;W;13;95%
+Dec 11 10:20;7C;cloudy;W;15;95%
+Dec 11 09:50;7C;light showers;W;15;95%
+Dec 11 09:20;7C;light showers;W;15;85%
+Dec 11 08:50;7C;light showers;W;15;85%
+Dec 11 08:20;7C;clouds;W;15;85%
+Dec 11 07:50;7C;clouds;W;13;85%
+Dec 11 07:20;7C;clouds;W;15;85%
+Dec 11 06:50;7C;overcast;W;13;95%
+Dec 11 06:20;7C;overcast;W;13;95%
+Dec 11 05:50;7C;overcast;SW;13;95%
+Dec 11 05:20;7C;clouds;W;13;95%
+Dec 11 04:50;7C;clouds;W;13;95%
+Dec 11 04:20;7C;cloudy;W;13;95%
+Dec 11 04:00;7C;cloudy;W;15;93%
+Dec 11 03:50;7C;cloudy;W;15;95%
+Dec 11 03:20;7C;cloudy;W;15;95%
+Dec 11 02:50;7C;cloudy;W;15;95%
+Dec 11 00:50;7C;cloudy;W;19;95%
+Dec 11 00:20;7C;cloudy;W;19;95%
+Dec 10 23:50;7C;clouds;W;22;95%
+Dec 10 23:20;7C;clouds;W;20;95%
+Dec 10 22:50;7C;clouds;W;20;95%
+Dec 10 22:20;8C;clouds;W;19;85%
+Dec 10 21:50;8C;clouds;W;22;85%
+Dec 10 21:20;8C;few clouds;W;24;85%
+Dec 10 20:50;7C;few clouds;W;17;95%
+Dec 10 20:20;8C;dry;W;22;85%
+Dec 10 19:50;8C;dry;W;20;85%
+Dec 10 19:20;9C;dry;W;26;80%
+Dec 10 19:00;8C;cloudless;W;26;84%
+Dec 10 18:50;9C;dry;W;26;80%
+Dec 10 18:20;9C;dry;W;26;85%
+Dec 10 17:50;9C;cloudy;W;24;85%
+Dec 10 17:20;10C;cloudy;W;31;80%
+Dec 10 16:50;10C;cloudy;W;28;80%
+Dec 10 16:20;10C;cloudy;W;26;85%
+Dec 10 15:50;10C;cloudy;W;28;80%
+Dec 10 15:20;10C;few clouds;W;28;85%
+Dec 10 14:50;10C;cloudy;W;28;85%
+Dec 10 14:20;10C;cloudy;W;20;85%
+Dec 10 13:50;10C;cloudy;W;28;85%
+Dec 10 13:20;10C;cloudy;W;30;85%
+Dec 10 12:50;10C;cloudy;W;26;95%
+Dec 10 12:20;10C;cloudy;W;22;95%
+Dec 10 11:50;10C;cloudy;W;31;95%
+Dec 10 11:20;10C;cloudy;W;28;95%
+Dec 10 10:50;10C;cloudy;W;31;95%
+Dec 10 10:20;10C;cloudy;W;26;95%
+Dec 10 09:50;10C;cloudy;W;28;95%
+Dec 10 09:20;9C;cloudy;W;26;95%
+Dec 10 08:50;10C;light rain;W;28;95%
+Dec 10 08:20;10C;light rain;W;24;95%
+Dec 10 07:50;10C;light rain;W;24;95%
+Dec 10 07:20;11C;light rain;W;24;85%
+Dec 10 06:50;10C;light rain;W;26;95%
+Dec 10 06:20;10C;light rain;W;22;95%
+Dec 10 05:50;11C;light rain;W;22;95%
+Dec 10 05:20;10C;light rain;W;24;95%
+Dec 10 04:50;10C;light rain;W;22;95%
+Dec 10 04:20;10C;rain;W;20;95%
+Dec 10 03:50;10C;rain;W;20;95%
+Dec 10 03:20;10C;rain;W;20;95%
+Dec 10 03:00;9C;overcast;W;22;97%
+Dec 10 02:50;9C;rain;W;20;95%
+Dec 10 00:50;8C;rain;SW;24;95%
+Dec 10 00:20;8C;rain;SW;22;95%
+Dec 09 23:50;8C;rain;SW;22;95%
+Dec 09 23:20;8C;rain;SW;19;95%
+Dec 09 22:50;9C;rain;SW;17;95%
+Dec 09 22:20;9C;rain;SW;11;95%
+Dec 09 22:00;8C;overcast;SW;11;95%
+Dec 09 21:50;9C;drizzle;SW;11;95%
+Dec 09 21:20;9C;cloudy;SW;9;85%
+Dec 09 21:00;8C;cloudy;SW;11;90%
+Dec 09 20:50;8C;clouds;SW;11;95%
+Dec 09 20:20;9C;clouds;SW;7;85%
+Dec 09 19:50;9C;clouds;W;17;85%
+Dec 09 19:20;8C;clouds;W;17;95%
+Dec 09 18:50;9C;cloudy;W;20;85%
+Dec 09 18:20;9C;clouds;W;22;85%
+Dec 09 17:50;9C;cloudy;W;26;85%
+Dec 09 17:20;9C;cloudy;W;28;85%
+Dec 09 16:50;9C;cloudy;W;31;85%
+Dec 09 16:20;9C;cloudy;W;24;85%
+Dec 09 15:50;8C;cloudy;W;24;85%
+Dec 09 15:20;8C;cloudy;W;30;85%
+Dec 09 14:50;9C;cloudy;W;28;80%
+Dec 09 14:20;9C;cloudy;W;26;85%
+Dec 09 13:50;9C;few clouds;W;30;85%
+Dec 09 13:20;9C;few clouds;W;41;80%
+Dec 09 12:50;9C;few clouds;W;37;85%
+Dec 09 12:23;9C;few clouds;W;33;80%
+Dec 09 11:50;9C;cloudy;W;35;80%
+Dec 09 11:20;9C;cloudy;W;30;80%
+Dec 09 10:50;9C;cloudy;W;30;80%
+Dec 09 10:20;9C;overcast;W;31;80%
+Dec 09 09:50;9C;overcast;W;31;80%
+Dec 09 09:20;8C;overcast;W;30;85%
+Dec 09 08:50;9C;overcast;W;35;85%
+Dec 09 08:20;10C;cloudy;W;24;80%
+Dec 09 07:50;9C;cloudy;W;22;85%
+Dec 09 07:20;9C;cloudy;W;22;85%
+Dec 09 06:50;9C;cloudy;W;26;95%
+Dec 09 06:20;9C;cloudy;W;19;95%
+Dec 09 05:50;9C;cloudy;W;15;95%
+Dec 09 05:20;9C;cloudy;W;22;95%
+Dec 09 04:50;9C;cloudy;W;20;95%
+Dec 09 04:20;9C;cloudy;W;22;95%
+Dec 09 03:50;9C;cloudy;W;22;95%
+Dec 09 03:20;9C;cloudy;W;24;95%
+Dec 09 02:50;9C;cloudy;W;24;95%
+Dec 09 00:50;9C;cloudy;W;22;95%
+Dec 09 00:20;9C;cloudy;W;22;95%
+Dec 08 23:50;9C;cloudy;W;24;95%
+Dec 08 23:20;9C;cloudy;W;35;95%
+Dec 08 22:50;9C;cloudy;W;28;95%
+Dec 08 22:20;9C;few clouds;W;33;95%
+Dec 08 21:50;9C;few clouds;W;30;95%
+Dec 08 21:20;9C;few clouds;W;26;95%
+Dec 08 20:50;9C;few clouds;W;28;95%
+Dec 08 20:20;9C;clouds;W;30;95%
+Dec 08 19:50;9C;cloudy;W;24;95%
+Dec 08 19:20;9C;cloudy;W;19;95%
+Dec 08 18:50;9C;few clouds;W;22;95%
+Dec 08 18:20;9C;few clouds;W;15;95%
+Dec 08 17:50;9C;no or few clouds;W;20;95%
+Dec 08 17:20;9C;few clouds;W;22;95%
+Dec 08 16:50;9C;few clouds;W;26;95%
+Dec 08 16:20;10C;few clouds;W;20;85%
+Dec 08 15:50;10C;fair;W;19;85%
+Dec 08 15:20;10C;fair;W;20;85%
+Dec 08 14:50;11C;few clouds;W;24;80%
+Dec 08 14:20;11C;few clouds;W;26;85%
+Dec 08 13:50;12C;few clouds;W;26;75%
+Dec 08 13:20;12C;cloudy;W;31;80%
+Dec 08 12:50;12C;cloudy;W;33;80%
+Dec 08 12:20;12C;cloudy;W;33;80%
+Dec 08 12:00;11C;cloudy;W;30;84%
+Dec 08 11:50;12C;overcast;W;30;80%
+Dec 08 11:20;11C;overcast;W;31;95%
+Dec 08 10:50;11C;overcast;W;28;95%
+Dec 08 10:20;11C;overcast;W;31;85%
+Dec 08 09:50;10C;overcast;W;31;95%
+Dec 08 09:20;10C;overcast haze;W;30;95%
+Dec 08 08:50;10C;overcast haze;W;30;95%
+Dec 08 08:20;10C;overcast;W;28;95%
+Dec 08 07:50;10C;overcast;W;31;95%
+Dec 08 07:20;11C;overcast;W;30;95%
+Dec 08 06:50;10C;overcast;W;31;95%
+Dec 08 06:20;10C;overcast;W;30;95%
+Dec 08 05:50;10C;overcast;W;33;95%
+Dec 08 05:20;10C;overcast;W;33;95%
+Dec 08 04:50;10C;overcast;W;35;95%
+Dec 08 04:20;10C;overcast;W;31;95%
+Dec 08 03:50;10C;overcast;W;28;95%
+Dec 08 03:20;9C;overcast;W;28;95%
+Dec 08 02:50;9C;overcast;W;33;95%
+Dec 08 00:50;8C;overcast haze;SW;31;95%
+Dec 08 00:20;8C;overcast haze;SW;30;95%
+Dec 07 23:50;8C;overcast haze;SW;31;95%
+Dec 07 23:20;8C;overcast haze;W;28;95%
+Dec 07 23:00;7C;overcast;SW;30;94%
+Dec 07 22:50;8C;overcast haze;W;31;95%
+Dec 07 22:20;7C;overcast haze;W;24;95%
+Dec 07 21:50;7C;overcast haze;W;24;95%
+Dec 07 21:20;7C;overcast haze;SW;30;95%
+Dec 07 20:50;7C;overcast haze;SW;30;85%
+Dec 07 20:20;6C;overcast haze;SW;31;95%
+Dec 07 19:50;6C;overcast haze;SW;31;95%
+Dec 07 19:20;6C;overcast haze;SW;30;95%
+Dec 07 18:51;6C;light rain;SW;28;95%
+Dec 07 18:20;6C;light rain;SW;33;95%
+Dec 07 17:50;5C;light rain;SW;28;95%
+Dec 07 17:20;5C;light rain;SW;28;95%
+Dec 07 16:50;5C;drizzle;SW;28;95%
+Dec 07 16:20;5C;drizzle;SW;26;95%
+Dec 07 15:50;5C;drizzle;SW;24;95%
+Dec 07 15:20;4C;light rain;SW;26;95%
+Dec 07 15:00;4C;overcast;S;24;94%
+Dec 07 14:51;4C;light rain;S;24;95%
+Dec 07 14:20;5C;rain;S;26;95%
+Dec 07 13:51;4C;rain;S;26;95%
+Dec 07 13:21;4C;light rain;S;28;95%
+Dec 07 12:50;4C;light rain;S;22;95%
+Dec 07 12:20;4C;light rain;S;26;95%
+Dec 07 11:50;4C;light rain;S;24;85%
+Dec 07 11:25;5C;light rain;S;28;85%
+Dec 07 10:50;5C;clouds;S;30;80%
+Dec 07 10:20;5C;clouds;S;28;80%
+Dec 07 09:50;5C;clouds;S;30;85%
+Dec 07 09:20;5C;few clouds;S;26;85%
+Dec 07 08:50;4C;few clouds;S;24;95%
+Dec 07 08:20;4C;clouds;S;22;95%
+Dec 07 07:50;4C;cloudy;S;20;95%
+Dec 07 07:20;4C;cloudy;S;19;95%
+Dec 07 06:50;4C;cloudy;S;15;95%
+Dec 07 06:20;4C;cloudy;SW;19;95%
+Dec 07 05:50;4C;cloudy;SW;19;95%
+Dec 07 05:20;4C;cloudy;S;17;95%
+Dec 07 05:00;4C;overcast;S;15;95%
+Dec 07 04:50;4C;cloudy;S;17;95%
+Dec 07 04:20;4C;cloudy;SW;17;95%
+Dec 07 03:50;4C;cloudy;SW;17;95%
+Dec 07 03:20;4C;cloudy;SW;15;95%
+Dec 07 02:50;3C;cloudy;SW;11;95%
+Dec 07 00:50;-1C;no or few clouds;S;9;85%
+Dec 07 00:20;0C;no or few clouds;S;7;95%
+Dec 06 23:50;1C;no or few clouds;SE;13;95%
+Dec 06 23:20;1C;no or few clouds;S;11;85%
+Dec 06 22:50;1C;dry;S;9;85%
+Dec 06 22:20;2C;no or few clouds;S;7;80%
+Dec 06 21:50;1C;no or few clouds;SE;13;80%
+Dec 06 21:20;2C;no or few clouds;SE;7;80%
+Dec 06 20:50;3C;no or few clouds;S;4;80%
+Dec 06 20:20;0C;no or few clouds;E;4;95%
+Dec 06 19:50;1C;no or few clouds;VRB;2;85%
+Dec 06 19:20;0C;dry;80%
+Dec 06 19:00;1C;cloudless;SW;2;82%
+Dec 06 18:50;2C;no or few clouds;80%
+Dec 06 18:20;0C;no or few clouds;85%
+Dec 06 17:50;0C;no or few clouds;W;4;85%
+Dec 06 17:20;2C;no or few clouds;SW;2;80%
+Dec 06 16:50;2C;fair;NE;2;80%
+Dec 06 16:20;3C;fair;E;2;75%
+Dec 06 15:50;3C;fair;N;4;75%
+Dec 06 15:20;3C;fair;NE;4;75%
+Dec 06 14:50;4C;fair;NE;2;70%
+Dec 06 14:20;4C;fair;N;4;70%
+Dec 06 13:50;4C;fair;N;4;70%
+Dec 06 13:20;4C;fair;NE;6;70%
+Dec 06 12:50;4C;fair;N;7;70%
+Dec 06 12:20;5C;fair;N;7;65%
+Dec 06 11:50;4C;fair;N;7;70%
+Dec 06 11:20;4C;fair;N;11;75%
+Dec 06 10:50;4C;fair;N;9;80%
+Dec 06 10:20;4C;fair;NE;9;85%
+Dec 06 09:50;4C;fair;N;13;85%
+Dec 06 09:20;4C;fog in patches;N;13;85%
+Dec 06 08:50;2C;fog in patches;N;9;95%
+Dec 06 08:20;2C;fog in patches;N;9;95%
+Dec 06 07:50;3C;no or few clouds;N;7;95%
+Dec 06 07:20;2C;no or few clouds;N;11;95%
+Dec 06 06:50;3C;N;11;95%
+Dec 06 06:30;3C;cloudy haze;N;11;95%
+Dec 06 06:29;3C;cloudy haze;N;11;95%
+Dec 06 06:20;4C;cloudy;N;11;95%
+Dec 06 05:50;4C;cloudy;N;6;95%
+Dec 06 05:20;4C;cloudy;W;6;95%
+Dec 06 04:50;4C;cloudy;N;7;95%
+Dec 06 04:28;4C;cloudy;N;9;95%
+Dec 06 04:23;4C;cloudy;N;7;95%
+Dec 06 03:50;4C;few clouds;W;6;95%
+Dec 06 03:20;5C;cloudy;NW;9;85%
+Dec 06 02:50;6C;cloudy;W;9;85%
+Dec 06 00:50;6C;cloudy;W;15;85%
+Dec 06 00:20;6C;cloudy;W;15;85%
+Dec 05 23:50;6C;cloudy;W;15;85%
+Dec 05 23:20;6C;cloudy;W;15;85%
+Dec 05 22:50;6C;cloudy;W;15;80%
+Dec 05 22:20;6C;cloudy;W;19;85%
+Dec 05 21:50;6C;cloudy;W;19;80%
+Dec 05 21:20;6C;cloudy;W;22;85%
+Dec 05 20:50;6C;cloudy;W;24;80%
+Dec 05 20:20;6C;cloudy;W;20;85%
+Dec 05 19:50;6C;cloudy;W;17;80%
+Dec 05 19:20;6C;cloudy;W;19;80%
+Dec 05 18:50;6C;cloudy;W;22;85%
+Dec 05 18:20;7C;cloudy;W;20;80%
+Dec 05 17:50;6C;cloudy;W;22;85%
+Dec 05 17:20;6C;cloudy;W;22;85%
+Dec 05 16:50;6C;cloudy;W;24;85%
+Dec 05 16:20;6C;cloudy;W;24;85%
+Dec 05 15:50;7C;cloudy;W;26;80%
+Dec 05 15:20;7C;cloudy;W;26;80%
+Dec 05 14:50;7C;cloudy;W;26;75%
+Dec 05 14:20;7C;cloudy;W;26;80%
+Dec 05 13:50;7C;cloudy;W;28;80%
+Dec 05 13:20;7C;cloudy;W;24;80%
+Dec 05 12:50;6C;cloudy;W;19;85%
+Dec 05 12:20;6C;cloudy;W;19;85%
+Dec 05 11:50;6C;cloudy;W;20;85%
+Dec 05 11:20;5C;cloudy;W;19;95%
+Dec 05 10:50;5C;cloudy;W;19;95%
+Dec 05 10:20;5C;cloudy;W;20;95%
+Dec 05 09:50;5C;cloudy;W;19;85%
+Dec 05 09:20;5C;cloudy;W;24;85%
+Dec 05 08:50;4C;few clouds;W;22;95%
+Dec 05 08:20;5C;cloudy;W;22;95%
+Dec 05 07:50;5C;cloudy;W;24;85%
+Dec 05 07:20;4C;cloudy;W;24;95%
+Dec 05 06:50;4C;few clouds;W;22;95%
+Dec 05 06:20;4C;few clouds;W;24;95%
+Dec 05 05:50;4C;cloudy;W;24;95%
+Dec 05 05:20;4C;cloudy;W;19;95%
+Dec 05 04:50;4C;cloudy;W;19;95%
+Dec 05 04:20;4C;cloudy;W;17;95%
+Dec 05 03:50;4C;few clouds;W;17;95%
+Dec 05 03:20;4C;cloudy;W;20;95%
+Dec 05 02:50;4C;cloudy;W;15;95%
+Dec 05 00:50;4C;few clouds;W;17;95%
+Dec 05 00:20;4C;few clouds;W;19;95%
+Dec 04 23:50;3C;cloudy;W;15;95%
+Dec 04 23:20;3C;cloudy;W;15;95%
+Dec 04 22:50;3C;cloudy;W;13;95%
+Dec 04 22:20;4C;cloudy;W;17;95%
+Dec 04 21:50;4C;few clouds;W;19;95%
+Dec 04 21:20;4C;few clouds;W;20;95%
+Dec 04 20:50;4C;few clouds;W;20;95%
+Dec 04 20:20;4C;no or few clouds;W;20;95%
+Dec 04 19:50;4C;no or few clouds;W;17;95%
+Dec 04 19:20;4C;no or few clouds;W;19;95%
+Dec 04 18:50;4C;no or few clouds;W;19;95%
+Dec 04 18:20;4C;no or few clouds;W;17;85%
+Dec 04 17:50;4C;no or few clouds;W;19;95%
+Dec 04 17:20;4C;no or few clouds;W;20;95%
+Dec 04 16:50;4C;fair;W;19;95%
+Dec 04 16:20;5C;fair;W;17;95%
+Dec 04 15:50;5C;fair;W;15;95%
+Dec 04 15:20;5C;fair;W;13;95%
+Dec 04 14:50;6C;fair;W;17;85%
+Dec 04 14:20;6C;fair;W;17;85%
+Dec 04 13:50;6C;few clouds;W;15;85%
+Dec 04 13:20;6C;few clouds;W;15;85%
+Dec 04 12:50;6C;few clouds;W;17;95%
+Dec 04 12:20;6C;few clouds;W;17;85%
+Dec 04 11:50;6C;few clouds;W;15;85%
+Dec 04 11:20;5C;few clouds;W;15;95%
+Dec 04 10:50;4C;few clouds;W;13;95%
+Dec 04 10:20;4C;few clouds;W;15;95%
+Dec 04 09:50;3C;fair;W;9;95%
+Dec 04 09:20;3C;clouds;W;13;95%
+Dec 04 08:50;3C;fair;W;13;95%
+Dec 04 08:20;3C;clouds;W;13;95%
+Dec 04 07:50;4C;overcast;W;9;95%
+Dec 04 07:20;4C;overcast;W;13;95%
+Dec 04 06:50;4C;cloudy;SW;7;95%
+Dec 04 06:21;3C;cloudy;SW;9;95%
+Dec 04 05:50;3C;cloudy;SW;7;95%
+Dec 04 05:20;3C;cloudy;SW;7;95%
+Dec 04 04:50;3C;fog in patches;W;6;95%
+Dec 04 04:20;2C;fog in patches;SW;9;95%
+Dec 04 03:50;1C;cloudy;W;6;95%
+Dec 04 03:20;1C;cloudy;W;9;95%
+Dec 04 02:51;-1C;fog in patches;W;7;95%
+Dec 04 01:00;1C;cloudy;W;4;95%
+Dec 04 00:50;1C;no or few clouds;W;4;95%
+Dec 04 00:20;0C;no or few clouds;W;11;95%
+Dec 03 23:50;-1C;no or few clouds;W;7;95%
+Dec 03 23:20;-1C;no or few clouds;W;7;95%
+Dec 03 22:50;0C;no or few clouds;W;9;95%
+Dec 03 22:20;1C;no or few clouds;W;11;95%
+Dec 03 21:50;0C;no or few clouds;W;9;95%
+Dec 03 21:20;0C;no or few clouds;W;11;95%
+Dec 03 20:50;0C;no or few clouds;W;9;95%
+Dec 03 20:20;1C;no or few clouds;W;9;95%
+Dec 03 19:50;0C;no or few clouds;W;9;95%
+Dec 03 19:20;2C;no or few clouds;NW;11;95%
+Dec 03 18:50;2C;no or few clouds;NW;11;95%
+Dec 03 18:20;3C;no or few clouds;NW;13;80%
+Dec 03 17:50;2C;no or few clouds;W;9;85%
+Dec 03 17:20;3C;no or few clouds;W;15;80%
+Dec 03 16:50;3C;fair;W;15;75%
+Dec 03 16:20;3C;fair;W;17;75%
+Dec 03 15:50;3C;fair;W;17;75%
+Dec 03 15:20;4C;fair;W;15;70%
+Dec 03 14:50;4C;fair;W;15;70%
+Dec 03 14:20;4C;fair;W;19;70%
+Dec 03 13:50;5C;fair;W;13;65%
+Dec 03 13:20;4C;fair;W;11;70%
+Dec 03 13:00;4C;cloudless;W;15;68%
+Dec 03 12:50;4C;dry;W;11;70%
+Dec 03 12:20;4C;fair;W;11;70%
+Dec 03 11:50;4C;fair;W;11;75%
+Dec 03 11:20;3C;fair;W;9;80%
+Dec 03 10:50;2C;fair;W;9;85%
+Dec 03 10:20;1C;fair;W;11;95%
+Dec 03 09:50;0C;fair;W;11;85%
+Dec 03 09:20;-2C;fair;W;11;95%
+Dec 03 08:50;-2C;fair;W;9;95%
+Dec 03 08:20;-3C;fair;W;7;95%
+Dec 03 07:50;-3C;no or few clouds;W;7;95%
+Dec 03 07:20;-3C;no or few clouds;W;9;95%
+Dec 03 06:50;-5C;no or few clouds;W;9;95%
+Dec 03 06:20;-4C;no or few clouds;W;11;95%
+Dec 03 05:50;-4C;no or few clouds;W;9;85%
+Dec 03 05:20;-3C;no or few clouds;W;11;85%
+Dec 03 04:50;-3C;no or few clouds;W;11;85%
+Dec 03 04:20;-4C;no or few clouds;W;9;85%
+Dec 03 03:50;-2C;no or few clouds;NW;9;80%
+Dec 03 03:20;-3C;no or few clouds;W;7;85%
+Dec 03 02:50;-4C;no or few clouds;W;6;95%
+Dec 03 00:50;0C;no or few clouds;NW;11;75%
+Dec 03 00:20;0C;no or few clouds;NW;11;75%
+Dec 02 23:50;0C;no or few clouds;NW;9;75%
+Dec 02 23:20;0C;no or few clouds;NW;11;75%
+Dec 02 23:00;0C;cloudless;NW;7;73%
+Dec 02 22:50;0C;no or few clouds;NW;9;75%
+Dec 02 22:20;0C;no or few clouds;NW;11;75%
+Dec 02 21:50;1C;no or few clouds;NW;11;70%
+Dec 02 21:20;2C;no or few clouds;N;17;65%
+Dec 02 20:50;4C;no or few clouds;N;22;55%
+Dec 02 20:20;4C;no or few clouds;N;24;55%
+Dec 02 19:50;4C;no or few clouds;N;28;55%
+Dec 02 19:20;4C;no or few clouds;N;28;55%
+Dec 02 18:50;3C;no or few clouds;N;26;65%
+Dec 02 18:20;3C;no or few clouds;N;15;70%
+Dec 02 17:50;4C;no or few clouds;NW;17;70%
+Dec 02 17:20;4C;no or few clouds;NW;13;65%
+Dec 02 16:50;4C;few clouds;NW;17;65%
+Dec 02 16:20;4C;few clouds;N;19;60%
+Dec 02 15:50;4C;few clouds;NW;19;65%
+Dec 02 15:20;5C;few clouds;N;19;60%
+Dec 02 15:00;5C;cloudless;NW;20;58%
+Dec 02 14:50;6C;few clouds;N;24;55%
+Dec 02 14:20;6C;few clouds;N;22;55%
+Dec 02 13:50;6C;few clouds;N;39;55%
+Dec 02 13:20;6C;few clouds;N;24;55%
+Dec 02 12:50;6C;few clouds;N;20;55%
+Dec 02 12:20;6C;few clouds;NW;19;55%
+Dec 02 11:50;6C;few clouds;N;24;60%
+Dec 02 11:20;6C;few clouds;NW;19;65%
+Dec 02 10:50;6C;few clouds;NW;22;65%
+Dec 02 10:20;5C;fair;NW;19;60%
+Dec 02 09:50;4C;fair;NW;20;60%
+Dec 02 09:20;3C;fair;NW;17;65%
+Dec 02 08:50;3C;fair;NW;19;65%
+Dec 02 08:20;3C;fair;NW;24;65%
+Dec 02 07:50;3C;no or few clouds;NW;22;65%
+Dec 02 07:20;2C;dry;NW;22;70%
+Dec 02 06:50;2C;no or few clouds;NW;19;70%
+Dec 02 06:20;2C;dry;NW;19;70%
+Dec 02 05:50;2C;dry;NW;20;70%
+Dec 02 05:20;3C;no or few clouds;NW;20;65%
+Dec 02 04:50;3C;no or few clouds;NW;22;65%
+Dec 02 04:20;3C;few clouds;NW;24;65%
+Dec 02 03:50;3C;few clouds;N;24;65%
+Dec 02 03:20;3C;no or few clouds;NW;24;70%
+Dec 02 03:00;3C;cloudless;NW;28;67%
+Dec 02 02:50;3C;few clouds;N;30;70%
+Dec 02 00:50;5C;dry;NW;33;60%
+Dec 02 00:20;6C;no or few clouds;NW;30;55%
+Dec 01 23:50;6C;dry;NW;35;50%
+Dec 01 23:20;6C;no or few clouds;NW;28;60%
+Dec 01 22:50;6C;dry;NW;26;60%
+Dec 01 22:20;7C;dry;NW;30;55%
+Dec 01 21:50;7C;no or few clouds;NW;35;60%
+Dec 01 21:20;7C;few clouds;NW;35;60%
+Dec 01 21:00;7C;clouds;NW;39;69%
+Dec 01 20:51;8C;few clouds;NW;35;70%
+Dec 01 20:21;8C;clouds;NW;41;75%
+Dec 01 19:52;8C;cloudy;NW;41;80%
+Dec 01 19:21;8C;cloudy;NW;33;80%
+Dec 01 18:50;8C;cloudy;NW;35;80%
+Dec 01 18:20;9C;cloudy;NW;37;75%
+Dec 01 18:00;8C;cloudy;W;33;81%
+Dec 01 17:50;9C;cloudy;NW;35;80%
+Dec 01 17:20;9C;cloudy;NW;39;75%
+Dec 01 16:50;8C;cloudy;NW;33;80%
+Dec 01 16:20;8C;cloudy;NW;31;85%
+Dec 01 15:50;8C;cloudy;NW;28;85%
+Dec 01 15:20;8C;cloudy;W;35;85%
+Dec 01 15:00;8C;overcast;W;33;84%
+Dec 01 14:50;8C;cloudy;W;33;85%
+Dec 01 14:20;8C;cloudy;W;31;85%
+Dec 01 13:50;8C;drizzle;NW;30;95%
+Dec 01 13:20;8C;drizzle;NW;33;85%
+Dec 01 12:50;8C;cloudy;NW;33;85%
+Dec 01 12:20;8C;cloudy;NW;31;95%
+Dec 01 11:50;8C;light rain;W;31;95%
+Dec 01 11:20;8C;light rain;NW;30;95%
+Dec 01 10:50;8C;cloudy;W;28;95%
+Dec 01 10:20;8C;light rain;W;24;95%
+Dec 01 10:00;7C;overcast;W;26;92%
+Dec 01 09:50;8C;drizzle;W;26;95%
+Dec 01 09:20;8C;drizzle;W;26;95%
+Dec 01 08:50;8C;drizzle;W;28;95%
+Dec 01 08:20;8C;cloudy;W;26;95%
+Dec 01 07:50;8C;cloudy;W;28;95%
+Dec 01 07:20;8C;cloudy;W;24;95%
+Dec 01 06:50;8C;cloudy;W;28;95%
+Dec 01 06:20;7C;drizzle;W;22;95%
+Dec 01 05:50;7C;drizzle;W;13;95%
+Dec 01 05:20;7C;drizzle;W;15;95%
+Dec 01 04:50;6C;drizzle;W;15;95%
+Dec 01 04:20;7C;drizzle;W;13;95%
+Dec 01 03:50;7C;drizzle;W;17;95%
+Dec 01 03:20;7C;drizzle;W;17;95%
+Dec 01 03:00;6C;cloudy;W;15;94%
+Dec 01 02:50;7C;cloudy;W;13;95%
+Dec 01 00:50;6C;drizzle;W;11;95%
+Dec 01 00:20;6C;drizzle;W;11;95%
+Nov 30 23:50;6C;drizzle;NW;15;95%
+Nov 30 23:20;7C;cloudy;NW;17;85%
+Nov 30 22:50;7C;drizzle;W;19;85%
+Nov 30 22:20;7C;cloudy;W;22;85%
+Nov 30 21:50;7C;cloudy;W;19;85%
+Nov 30 21:20;7C;cloudy;W;20;85%
+Nov 30 20:50;7C;cloudy;W;19;85%
+Nov 30 20:20;6C;cloudy;W;15;95%
+Nov 30 19:50;6C;cloudy;W;15;85%
+Nov 30 19:20;6C;cloudy;W;15;85%
+Nov 30 18:50;6C;cloudy;W;17;85%
+Nov 30 18:20;5C;few clouds;W;19;85%
+Nov 30 17:50;6C;few clouds;W;24;80%
+Nov 30 17:20;6C;no or few clouds;W;22;80%
+Nov 30 16:50;6C;clouds;NW;26;80%
+Nov 30 16:20;6C;few clouds;NW;28;85%
+Nov 30 15:50;6C;cloudy;NW;24;85%
+Nov 30 15:20;7C;cloudy;NW;28;75%
+Nov 30 14:50;7C;few clouds;NW;31;70%
+Nov 30 14:20;7C;few clouds;W;31;70%
+Nov 30 13:50;7C;few clouds;NW;35;75%
+Nov 30 13:20;7C;drizzle;W;33;75%
+Nov 30 12:50;7C;drizzle;W;30;75%
+Nov 30 12:20;7C;drizzle;W;28;75%
+Nov 30 11:50;7C;drizzle;W;28;75%
+Nov 30 11:20;7C;few clouds;W;31;80%
+Nov 30 10:50;7C;few clouds;W;33;75%
+Nov 30 10:20;7C;few clouds;W;33;75%
+Nov 30 09:50;6C;few clouds;W;30;80%
+Nov 30 09:20;6C;few clouds;W;30;80%
+Nov 30 08:50;6C;few clouds;W;22;80%
+Nov 30 08:20;6C;few clouds;W;30;80%
+Nov 30 08:00;5C;cloudless;W;28;83%
+Nov 30 07:50;6C;few clouds;W;30;80%
+Nov 30 07:20;6C;few clouds;W;30;80%
+Nov 30 06:20;6C;cloudy;W;28;85%
+Nov 30 05:50;6C;cloudy;W;22;85%
+Nov 30 05:20;6C;cloudy;W;26;85%
+Nov 30 04:50;7C;cloudy;W;26;80%
+Nov 30 04:20;7C;cloudy;W;24;80%
+Nov 30 03:50;6C;cloudy;W;24;85%
+Nov 30 03:20;6C;cloudy;W;30;85%
+Nov 30 03:00;6C;overcast;W;28;89%
+Nov 30 02:50;6C;light rain;W;28;95%
+Nov 30 00:50;6C;overcast;W;30;80%
+Nov 30 00:20;6C;overcast;W;30;75%
+Nov 29 23:50;6C;cloudy;W;26;80%
+Nov 29 23:20;6C;cloudy;W;28;85%
+Nov 29 22:50;6C;clouds;W;26;80%
+Nov 29 22:20;6C;clouds;W;24;85%
+Nov 29 21:50;6C;dry;W;26;85%
+Nov 29 21:20;6C;no or few clouds;W;28;85%
+Nov 29 20:50;6C;clouds;W;28;85%
+Nov 29 20:20;5C;clouds;W;22;95%
+Nov 29 19:50;5C;light showers;SW;24;95%
+Nov 29 19:20;5C;light showers;W;24;95%
+Nov 29 18:50;5C;light showers;W;24;85%
+Nov 29 18:20;5C;clouds;SW;22;95%
+Nov 29 17:50;5C;cloudy;SW;22;85%
+Nov 29 17:20;5C;clouds;W;19;95%
+Nov 29 16:50;5C;cloudy;W;20;85%
+Nov 29 16:20;5C;clouds;W;20;85%
+Nov 29 15:50;6C;clouds;W;19;75%
+Nov 29 15:20;6C;clouds;W;19;80%
+Nov 29 14:50;6C;clouds;W;20;75%
+Nov 29 14:20;6C;clouds;W;22;75%
+Nov 29 13:50;6C;clouds;W;22;75%
+Nov 29 13:20;6C;clouds;W;22;75%
+Nov 29 12:50;6C;clouds;W;20;75%
+Nov 29 12:20;6C;clouds;W;22;75%
+Nov 29 11:50;6C;few clouds;W;22;75%
+Nov 29 11:20;5C;clouds;W;19;80%
+Nov 29 10:50;5C;clouds;W;19;80%
+Nov 29 10:20;5C;clouds;W;19;80%
+Nov 29 09:50;4C;clouds;W;15;80%
+Nov 29 09:20;4C;cloudy;W;13;80%
+Nov 29 08:50;3C;cloudy;W;15;85%
+Nov 29 08:20;2C;clouds;W;17;85%
+Nov 29 07:50;2C;clouds;W;15;95%
+Nov 29 07:20;2C;clouds;W;13;85%
+Nov 29 06:50;2C;clouds;W;15;85%
+Nov 29 06:20;1C;clouds;W;15;95%
+Nov 29 05:50;1C;clouds;W;15;85%
+Nov 29 05:20;1C;clouds;W;15;85%
+Nov 29 04:50;1C;few clouds;W;15;85%
+Nov 29 04:20;2C;few clouds;W;22;80%
+Nov 29 03:50;2C;few clouds;W;22;80%
+Nov 29 03:20;1C;no or few clouds;W;22;95%
+Nov 29 02:50;1C;no or few clouds;W;17;85%
+Nov 29 00:50;0C;no or few clouds;W;17;85%
+Nov 29 00:20;0C;no or few clouds;W;15;85%
+Nov 28 23:50;0C;dry;W;15;85%
+Nov 28 23:20;0C;no or few clouds;W;15;80%
+Nov 28 22:50;0C;no or few clouds;W;17;80%
+Nov 28 22:20;0C;no or few clouds;W;17;80%
+Nov 28 22:00;0C;cloudless;W;17;81%
+Nov 28 21:50;0C;no or few clouds;W;17;80%
+Nov 28 21:20;0C;no or few clouds;W;15;80%
+Nov 28 20:50;-1C;no or few clouds;W;13;80%
+Nov 28 20:20;-2C;no or few clouds;W;7;85%
+Nov 28 19:50;-2C;dry;W;9;80%
+Nov 28 19:20;-3C;no or few clouds;W;9;75%
+Nov 28 18:50;-1C;no or few clouds;W;11;75%
+Nov 28 18:20;1C;no or few clouds;NW;11;65%
+Nov 28 17:50;0C;no or few clouds;W;9;70%
+Nov 28 17:20;1C;no or few clouds;NW;9;65%
+Nov 28 16:50;1C;fair;NW;11;60%
+Nov 28 16:20;1C;fair;NW;11;60%
+Nov 28 15:50;1C;fair;NW;11;55%
+Nov 28 15:20;1C;fair;NW;11;45%
+Nov 28 14:50;2C;fair;NW;11;40%
+Nov 28 14:20;3C;fair;N;13;40%
+Nov 28 13:50;3C;fair;N;17;40%
+Nov 28 13:20;2C;fair;N;17;50%
+Nov 28 12:50;2C;fair;N;22;50%
+Nov 28 12:20;2C;fair;N;22;50%
+Nov 28 11:50;2C;fair;N;28;50%
+Nov 28 11:20;2C;fair;N;26;50%
+Nov 28 10:50;2C;fair;N;30;50%
+Nov 28 10:20;1C;fair;N;30;50%
+Nov 28 09:50;1C;fair;N;30;50%
+Nov 28 09:20;1C;fair;N;26;50%
+Nov 28 08:50;1C;fair;N;28;55%
+Nov 28 08:20;1C;fair;N;30;50%
+Nov 28 07:50;1C;no or few clouds;N;33;55%
+Nov 28 07:20;1C;no or few clouds;N;31;55%
+Nov 28 06:50;0C;no or few clouds;N;31;60%
+Nov 28 06:20;1C;no or few clouds;N;35;55%
+Nov 28 05:50;1C;no or few clouds;N;35;55%
+Nov 28 05:20;1C;no or few clouds;N;35;60%
+Nov 28 04:50;1C;no or few clouds;N;33;60%
+Nov 28 04:20;1C;no or few clouds;N;35;60%
+Nov 28 03:50;1C;no or few clouds;N;41;60%
+Nov 28 03:20;1C;no or few clouds;N;41;60%
+Nov 28 02:50;2C;no or few clouds;N;41;55%
+Nov 28 00:50;2C;few clouds;N;43;55%
+Nov 28 00:20;2C;few clouds;N;46;55%
+Nov 27 23:50;2C;no or few clouds;N;48;50%
+Nov 27 23:20;3C;no or few clouds;N;46;50%
+Nov 27 22:50;3C;no or few clouds;N;44;50%
+Nov 27 22:20;3C;no or few clouds;N;48;50%
+Nov 27 21:50;3C;no or few clouds;N;46;50%
+Nov 27 21:20;3C;few clouds;N;44;50%
+Nov 27 20:50;4C;few clouds;N;44;50%
+Nov 27 20:20;4C;few clouds;N;44;50%
+Nov 27 19:50;4C;few clouds;N;52;50%
+Nov 27 19:20;4C;few clouds;N;48;45%
+Nov 27 18:50;4C;no or few clouds;N;48;50%
+Nov 27 18:20;5C;no or few clouds;N;46;45%
+Nov 27 17:50;4C;few clouds;N;48;50%
+Nov 27 17:20;5C;few clouds;N;46;50%
+Nov 27 16:50;5C;few clouds;N;31;50%
+Nov 27 16:20;4C;few clouds;N;26;55%
+Nov 27 15:50;5C;fair;NW;28;55%
+Nov 27 15:20;5C;fair;NW;31;50%
+Nov 27 14:50;5C;fair;N;28;50%
+Nov 27 14:20;5C;fair;N;35;50%
+Nov 27 13:50;5C;few clouds;N;30;50%
+Nov 27 13:20;5C;few clouds;N;30;50%
+Nov 27 12:50;6C;few clouds;N;33;50%
+Nov 27 12:20;6C;few clouds;N;35;50%
+Nov 27 11:50;6C;few clouds;N;44;50%
+Nov 27 11:20;6C;few clouds;N;48;50%
+Nov 27 10:50;6C;few clouds;N;44;50%
+Nov 27 10:20;6C;few clouds;N;48;50%
+Nov 27 09:50;6C;few clouds;N;33;50%
+Nov 27 09:20;6C;few clouds;N;41;50%
+Nov 27 08:50;5C;few clouds;N;35;50%
+Nov 27 08:20;5C;few clouds;N;26;60%
+Nov 27 07:50;5C;few clouds;N;31;55%
+Nov 27 07:20;6C;few clouds;N;28;50%
+Nov 27 06:50;6C;no or few clouds;N;28;55%
+Nov 27 06:20;6C;no or few clouds;N;28;60%
+Nov 27 05:50;6C;dry;NW;20;65%
+Nov 27 05:20;6C;no or few clouds;N;26;60%
+Nov 27 04:50;6C;dry;NW;24;65%
+Nov 27 04:20;4C;dry;W;13;80%
+Nov 27 03:50;3C;dry;W;13;95%
+Nov 27 03:20;3C;dry;W;15;95%
+Nov 27 02:50;4C;no or few clouds;W;15;85%
+Nov 27 00:50;5C;dry;W;22;80%
+Nov 27 00:20;5C;no or few clouds;W;22;80%
+Nov 26 23:50;5C;dry;W;24;80%
+Nov 26 23:20;5C;dry;W;22;80%
+Nov 26 22:50;5C;dry;W;24;80%
+Nov 26 22:20;6C;few clouds;W;24;75%
+Nov 26 21:50;6C;few clouds;W;26;80%
+Nov 26 21:20;6C;few clouds;W;26;75%
+Nov 26 20:50;7C;few clouds;W;28;75%
+Nov 26 20:20;7C;few clouds;NW;30;75%
+Nov 26 19:50;7C;few clouds;W;30;80%
+Nov 26 19:20;8C;cloudy;NW;30;75%
+Nov 26 18:50;8C;cloudy;NW;35;75%
+Nov 26 18:20;8C;cloudy;W;35;75%
+Nov 26 17:50;8C;few clouds;W;39;75%
+Nov 26 17:20;9C;cloudy;W;41;75%
+Nov 26 16:50;9C;cloudy;W;44;80%
+Nov 26 16:20;10C;cloudy;W;43;80%
+Nov 26 15:56;10C;cloudy;W;39;80%
+Nov 26 15:20;10C;cloudy;W;43;80%
+Nov 26 14:50;10C;drizzle;W;41;80%
+Nov 26 14:20;10C;drizzle;W;46;85%
+Nov 26 13:50;10C;cloudy;W;48;85%
+Nov 26 13:20;9C;cloudy;W;39;95%
+Nov 26 12:50;9C;cloudy;W;41;85%
+Nov 26 12:20;8C;cloudy;W;33;95%
+Nov 26 11:50;7C;cloudy;W;33;95%
+Nov 26 11:20;7C;cloudy;W;30;95%
+Nov 26 10:50;7C;cloudy;W;31;95%
+Nov 26 10:20;7C;cloudy;W;30;95%
+Nov 26 09:50;7C;cloudy;W;28;85%
+Nov 26 09:20;7C;cloudy;W;30;85%
+Nov 26 08:50;7C;cloudy;W;28;85%
+Nov 26 08:20;7C;cloudy;W;28;85%
+Nov 26 07:50;7C;cloudy;W;30;85%
+Nov 26 07:20;6C;cloudy;W;31;85%
+Nov 26 06:50;6C;cloudy;W;31;85%
+Nov 26 06:20;6C;clouds;W;31;85%
+Nov 26 05:50;6C;cloudy;W;35;85%
+Nov 26 05:20;6C;cloudy;W;31;85%
+Nov 26 04:50;6C;cloudy;W;33;85%
+Nov 26 04:20;6C;cloudy;W;26;85%
+Nov 26 03:50;5C;cloudy;W;26;95%
+Nov 26 03:20;5C;cloudy;W;24;95%
+Nov 26 02:50;5C;cloudy;W;26;95%
+Nov 26 00:50;4C;no or few clouds;W;24;95%
+Nov 26 00:20;5C;no or few clouds;W;24;95%
+Nov 25 23:50;5C;dry;W;22;95%
+Nov 25 23:20;5C;no or few clouds;W;28;85%
+Nov 25 22:50;5C;no or few clouds;W;26;95%
+Nov 25 22:20;5C;no or few clouds;W;26;95%
+Nov 25 21:50;5C;no or few clouds;W;28;95%
+Nov 25 21:20;5C;dry;W;26;95%
+Nov 25 20:50;5C;no or few clouds;W;26;95%
+Nov 25 20:20;5C;no or few clouds;W;28;95%
+Nov 25 19:50;5C;no or few clouds;W;24;95%
+Nov 25 19:20;5C;dry;W;20;95%
+Nov 25 18:50;5C;no or few clouds;W;19;95%
+Nov 25 18:20;5C;few clouds;SW;19;95%
+Nov 25 17:50;5C;no or few clouds;W;15;95%
+Nov 25 17:20;5C;few clouds;SW;15;95%
+Nov 25 16:50;5C;few clouds;SW;9;95%
+Nov 25 16:20;5C;few clouds;W;13;95%
+Nov 25 15:50;6C;cloudy;SW;15;95%
+Nov 25 15:20;6C;cloudy;W;13;95%
+Nov 25 14:50;6C;cloudy;W;15;95%
+Nov 25 14:20;7C;cloudy;W;19;85%
+Nov 25 13:50;7C;cloudy;W;15;85%
+Nov 25 13:20;7C;cloudy;W;13;85%
+Nov 25 12:50;7C;cloudy;W;13;85%
+Nov 25 12:20;7C;overcast;W;11;85%
+Nov 25 11:50;6C;overcast;W;15;95%
+Nov 25 11:20;6C;overcast;W;15;95%
+Nov 25 10:50;6C;overcast;W;11;95%
+Nov 25 10:20;6C;overcast;W;15;95%
+Nov 25 09:50;6C;overcast;W;15;95%
+Nov 25 09:20;6C;overcast haze;W;11;95%
+Nov 25 08:50;5C;overcast haze;W;9;95%
+Nov 25 08:20;5C;overcast haze;W;7;95%
+Nov 25 07:50;5C;overcast haze;W;13;95%
+Nov 25 07:20;5C;overcast haze;W;13;95%
+Nov 25 06:50;5C;fog;W;9;100%
+Nov 25 06:20;5C;fog in patches;W;11;100%
+Nov 25 05:50;5C;fog;W;7;100%
+Nov 25 05:20;5C;fog;W;4;100%
+Nov 25 04:50;5C;overcast haze;W;7;95%
+Nov 25 04:20;5C;overcast haze;NW;7;95%
+Nov 25 03:50;5C;overcast haze;NW;6;95%
+Nov 25 03:20;5C;fog;NW;7;100%
+Nov 25 02:50;5C;fog;NW;7;100%
+Nov 25 00:50;4C;fog;W;11;100%
+Nov 25 00:20;2C;fog in patches;W;7;95%
+Nov 24 23:50;4C;fog in patches;W;11;95%
+Nov 24 23:20;4C;fog in patches;W;9;95%
+Nov 24 22:50;5C;fog in patches;NW;7;95%
+Nov 24 22:20;5C;no or few clouds;W;9;95%
+Nov 24 21:50;5C;clouds;NW;9;95%
+Nov 24 21:20;5C;clouds;W;9;95%
+Nov 24 20:50;5C;no or few clouds;NW;13;95%
+Nov 24 20:20;5C;no or few clouds;W;13;95%
+Nov 24 19:50;5C;no or few clouds;W;11;95%
+Nov 24 19:20;5C;no or few clouds;W;11;95%
+Nov 24 18:50;6C;no or few clouds;NW;13;85%
+Nov 24 18:20;6C;no or few clouds;NW;17;85%
+Nov 24 17:50;6C;no or few clouds;NW;17;85%
+Nov 24 17:20;6C;no or few clouds;NW;13;85%
+Nov 24 16:50;5C;fair;W;9;85%
+Nov 24 16:20;4C;fair;W;7;85%
+Nov 24 15:50;6C;fair;W;9;80%
+Nov 24 15:20;7C;fair;NW;13;75%
+Nov 24 14:50;7C;fair;NW;13;75%
+Nov 24 14:20;8C;fair;NW;15;70%
+Nov 24 13:50;7C;fair;W;13;75%
+Nov 24 13:20;7C;dry;NW;15;70%
+Nov 24 12:50;7C;fair;W;13;70%
+Nov 24 12:20;7C;fair;NW;11;75%
+Nov 24 11:50;6C;fair;VRB;15;80%
+Nov 24 11:20;6C;fair;W;9;85%
+Nov 24 10:50;5C;fair;W;13;95%
+Nov 24 10:20;4C;fair;W;13;95%
+Nov 24 09:50;3C;fair;W;13;95%
+Nov 24 09:20;2C;fair;SW;9;95%
+Nov 24 08:50;2C;fair;W;9;95%
+Nov 24 08:20;2C;fair;W;9;95%
+Nov 24 07:50;1C;no or few clouds;W;6;95%
+Nov 24 07:20;2C;no or few clouds;NW;9;95%
+Nov 24 06:50;3C;no or few clouds;NW;9;95%
+Nov 24 06:20;3C;no or few clouds;W;11;85%
+Nov 24 05:50;3C;no or few clouds;W;11;95%
+Nov 24 05:20;3C;no or few clouds;NW;13;95%
+Nov 24 04:50;4C;no or few clouds;NW;15;85%
+Nov 24 04:20;4C;no or few clouds;NW;13;85%
+Nov 24 03:50;4C;no or few clouds;NW;19;85%
+Nov 24 03:20;5C;no or few clouds;NW;20;80%
+Nov 24 02:50;5C;no or few clouds;NW;20;80%
+Nov 24 00:50;6C;no or few clouds;NW;19;80%
+Nov 24 00:20;7C;no or few clouds;NW;19;80%
+Nov 23 23:50;7C;no or few clouds;NW;17;85%
+Nov 23 23:20;8C;no or few clouds;NW;17;80%
+Nov 23 22:50;8C;no or few clouds;NW;17;85%
+Nov 23 22:20;8C;no or few clouds;NW;15;85%
+Nov 23 21:50;8C;no or few clouds;W;13;85%
+Nov 23 21:20;7C;no or few clouds;W;11;95%
+Nov 23 20:50;7C;W;11;95%
+Nov 23 20:20;7C;no or few clouds;SW;9;95%
+Nov 23 19:50;8C;no or few clouds;W;9;85%
+Nov 23 19:20;8C;no or few clouds;W;9;95%
+Nov 23 18:50;9C;no or few clouds;SW;9;85%
+Nov 23 18:20;8C;no or few clouds;SW;9;95%
+Nov 23 17:50;8C;no or few clouds;SW;7;95%
+Nov 23 17:20;8C;no or few clouds;SW;6;95%
+Nov 23 16:50;10C;fair;W;6;80%
+Nov 23 16:20;10C;fair;W;7;80%
+Nov 23 15:50;9C;fair;W;4;85%
+Nov 23 15:20;9C;fair;W;6;85%
+Nov 23 14:50;9C;fair;SW;6;85%
+Nov 23 14:20;9C;fair;W;6;85%
+Nov 23 13:50;9C;fair;SW;9;85%
+Nov 23 13:20;10C;fair;SW;9;80%
+Nov 23 12:50;10C;fair;SW;7;80%
+Nov 23 12:20;10C;fair;SW;7;80%
+Nov 23 11:50;10C;fair;SW;9;80%
+Nov 23 11:20;9C;fair;W;7;85%
+Nov 23 10:50;9C;fair;W;7;85%
+Nov 23 10:20;8C;fair;SW;6;95%
+Nov 23 09:50;7C;fair;SW;4;95%
+Nov 23 09:20;6C;fair;W;6;95%
+Nov 23 08:50;6C;W;2;95%
+Nov 23 08:20;5C;SW;7;95%
+Nov 23 07:50;4C;SW;6;95%
+Nov 23 07:20;6C;SW;6;95%
+Nov 23 06:50;5C;SW;4;95%
+Nov 23 06:20;5C;SW;6;95%
+Nov 23 05:50;6C;SW;7;95%
+Nov 23 05:20;5C;SW;11;95%
+Nov 23 04:50;7C;SW;9;95%
+Nov 23 04:20;7C;no or few clouds;SW;9;95%
+Nov 23 03:50;7C;SW;7;95%
+Nov 23 03:20;6C;SW;7;95%
+Nov 23 02:50;6C;S;6;95%
+Nov 23 00:50;6C;S;4;95%
+Nov 23 00:20;6C;S;4;95%
+Nov 22 23:50;5C;SW;6;95%
+Nov 22 23:20;6C;S;2;95%
+Nov 22 22:50;6C;no or few clouds;SW;4;95%
+Nov 22 22:20;7C;no or few clouds;SW;4;95%
+Nov 22 21:50;8C;no or few clouds;SW;6;95%
+Nov 22 21:20;7C;no or few clouds;S;6;95%
+Nov 22 20:50;7C;SW;2;95%
+Nov 22 20:20;7C;S;4;95%
+Nov 22 19:50;7C;S;6;95%
+Nov 22 19:20;8C;S;6;95%
+Nov 22 18:20;8C;S;9;95%
+Nov 22 17:50;7C;S;9;95%
+Nov 22 17:20;8C;S;11;95%
+Nov 22 16:50;8C;- haze;S;9;95%
+Nov 22 16:20;9C;- haze;SE;9;95%
+Nov 22 15:50;8C;- haze;S;11;95%
+Nov 22 15:20;9C;S;13;95%
+Nov 22 14:50;9C;S;13;95%
+Nov 22 14:20;9C;SE;15;95%
+Nov 22 13:50;9C;S;13;95%
+Nov 22 13:20;9C;SE;13;95%
+Nov 22 12:50;9C;dry;S;15;95%
+Nov 22 12:20;9C;dry;S;15;95%
+Nov 22 11:50;10C;fair;S;20;85%
+Nov 22 11:20;10C;drizzle;SE;19;85%
+Nov 22 10:51;9C;drizzle;S;22;95%
+Nov 22 10:20;10C;dry;S;11;85%
+Nov 22 09:50;10C;fair;S;9;80%
+Nov 22 09:20;9C;dry;SE;22;95%
+Nov 22 08:50;10C;fair;SE;22;80%
+Nov 22 08:20;9C;dry;SE;19;85%
+Nov 22 07:50;9C;SE;17;85%
+Nov 22 07:20;9C;SE;17;85%
+Nov 22 06:50;8C;SE;15;95%
+Nov 22 06:20;9C;SE;17;85%
+Nov 22 05:50;8C;- haze;SE;19;95%
+Nov 22 05:20;8C;- haze;SE;19;95%
+Nov 22 04:50;8C;- haze;SE;24;95%
+Nov 22 04:20;9C;- haze;SE;26;85%
+Nov 22 03:50;8C;- haze;SE;22;95%
+Nov 22 03:20;9C;- haze;SE;26;85%
+Nov 22 02:50;9C;- haze;SE;24;85%
+Nov 22 00:50;9C;SE;22;85%
+Nov 22 00:20;8C;SE;24;95%
+Nov 21 23:50;9C;SE;22;85%
+Nov 21 23:20;9C;dry;SE;24;85%
+Nov 21 22:50;9C;dry;SE;22;85%
+Nov 21 22:20;9C;dry;SE;20;85%
+Nov 21 21:50;9C;dry;SE;20;85%
+Nov 21 21:20;9C;dry;SE;20;85%
+Nov 21 20:50;9C;dry;SE;20;85%
+Nov 21 20:20;9C;dry;SE;17;85%
+Nov 21 19:50;9C;dry;E;17;85%
+Nov 21 19:20;10C;dry;SE;20;80%
+Nov 21 18:50;9C;dry;SE;17;85%
+Nov 21 18:20;9C;dry;SE;13;85%
+Nov 21 17:50;9C;dry;S;13;85%
+Nov 21 17:20;9C;dry;SE;11;80%
+Nov 21 16:50;9C;dry;S;17;80%
+Nov 21 16:20;9C;fair;S;17;80%
+Nov 21 15:50;9C;dry;S;11;80%
+Nov 21 15:20;9C;dry;S;17;80%
+Nov 21 14:50;9C;dry;S;22;80%
+Nov 21 14:20;9C;dry;SE;19;80%
+Nov 21 13:50;9C;dry;SE;19;75%
+Nov 21 13:20;10C;dry;SE;20;75%
+Nov 21 12:50;9C;dry;SE;20;80%
+Nov 21 12:20;9C;dry;SE;20;85%
+Nov 21 11:50;9C;clouds;SE;19;85%
+Nov 21 11:21;9C;light showers;SE;17;80%
+Nov 21 10:50;9C;dry;SE;15;80%
+Nov 21 10:20;9C;fair;SE;17;80%
+Nov 21 09:52;8C;dry;SE;13;85%
+Nov 21 09:20;9C;clouds;SE;13;80%
+Nov 21 08:50;9C;cloudy;S;19;85%
+Nov 21 08:20;9C;cloudy;S;20;85%
+Nov 21 07:50;9C;cloudy;S;11;85%
+Nov 21 07:20;9C;cloudy;S;11;85%
+Nov 21 06:50;9C;clouds;S;13;85%
+Nov 21 06:20;9C;clouds;S;20;80%
+Nov 21 05:50;8C;no or few clouds;S;17;85%
+Nov 21 05:20;9C;dry;S;20;80%
+Nov 21 04:50;8C;clouds;S;22;85%
+Nov 21 04:20;9C;clouds;S;22;80%
+Nov 21 03:50;9C;clouds;S;22;80%
+Nov 21 03:20;9C;clouds;S;22;75%
+Nov 21 02:50;10C;clouds;S;26;70%
+Nov 21 00:50;10C;clouds;SW;31;70%
+Nov 21 00:20;10C;no or few clouds;S;30;75%
+Nov 20 23:50;10C;dry;S;30;75%
+Nov 20 23:20;10C;no or few clouds;S;35;75%
+Nov 20 22:50;10C;clouds;S;31;75%
+Nov 20 22:20;10C;dry;S;39;75%
+Nov 20 21:50;10C;no or few clouds;S;43;75%
+Nov 20 21:20;9C;dry;S;37;80%
+Nov 20 20:50;9C;dry;S;39;75%
+Nov 20 20:20;9C;dry;S;41;75%
+Nov 20 19:50;9C;dry;S;41;75%
+Nov 20 19:20;9C;dry;S;39;75%
+Nov 20 18:50;8C;dry;S;37;80%
+Nov 20 18:20;8C;dry;S;44;80%
+Nov 20 17:50;8C;clouds;S;46;75%
+Nov 20 17:20;8C;clouds;SE;44;75%
+Nov 20 16:50;7C;light rain;SE;48;80%
+Nov 20 16:20;7C;light rain;SE;46;80%
+Nov 20 15:50;7C;light rain;SE;46;80%
+Nov 20 15:20;7C;light rain;SE;46;80%
+Nov 20 14:50;7C;dry;SE;50;80%
+Nov 20 14:20;7C;light rain;SE;46;80%
+Nov 20 13:50;7C;dry;SE;41;75%
+Nov 20 13:20;7C;dry;SE;41;80%
+Nov 20 12:50;7C;dry;SE;37;75%
+Nov 20 12:20;6C;few clouds;SE;33;80%
+Nov 20 11:50;6C;few clouds;SE;35;85%
+Nov 20 11:20;7C;few clouds;SE;33;80%
+Nov 20 10:50;7C;few clouds;SE;26;75%
+Nov 20 10:20;6C;few clouds;SE;28;85%
+Nov 20 09:50;6C;few clouds;S;31;80%
+Nov 20 09:20;6C;few clouds;S;30;85%
+Nov 20 08:50;6C;dry;S;26;85%
+Nov 20 08:20;5C;few clouds;S;20;85%
+Nov 20 07:50;5C;few clouds;S;22;85%
+Nov 20 07:20;5C;few clouds;S;22;85%
+Nov 20 06:50;5C;few clouds;S;24;85%
+Nov 20 06:20;5C;few clouds;S;22;85%
+Nov 20 05:50;4C;few clouds;S;19;95%
+Nov 20 05:20;3C;few clouds;S;15;95%
+Nov 20 04:50;3C;few clouds;S;13;95%
+Nov 20 04:20;3C;few clouds;SW;19;95%
+Nov 20 03:50;4C;cloudy;SW;17;85%
+Nov 20 03:20;5C;cloudy;SW;20;85%
+Nov 20 02:50;5C;cloudy;SW;19;85%
+Nov 20 00:50;4C;dry;SW;20;85%
+Nov 20 00:20;4C;dry;SW;19;95%
+Nov 19 23:50;4C;dry;SW;19;95%
+Nov 19 23:20;4C;few clouds;SW;20;95%
+Nov 19 22:50;5C;few clouds;SW;20;85%
+Nov 19 22:20;5C;few clouds;SW;15;85%
+Nov 19 21:50;5C;few clouds;SW;19;85%
+Nov 19 21:20;6C;clouds;SW;20;80%
+Nov 19 20:50;6C;clouds;SW;22;80%
+Nov 19 20:20;6C;clouds;S;20;80%
+Nov 19 19:50;6C;clouds;S;24;80%
+Nov 19 19:20;7C;clouds;S;20;75%
+Nov 19 18:50;7C;clouds;S;20;80%
+Nov 19 18:20;7C;clouds;S;19;80%
+Nov 19 17:50;7C;clouds;S;19;80%
+Nov 19 17:20;7C;clouds;S;22;80%
+Nov 19 16:50;7C;clouds;S;22;80%
+Nov 19 16:20;6C;few clouds;S;22;85%
+Nov 19 15:50;7C;few clouds;S;24;80%
+Nov 19 15:20;6C;few clouds;S;24;85%
+Nov 19 14:50;7C;few clouds;S;24;80%
+Nov 19 14:20;7C;few clouds;S;28;80%
+Nov 19 13:50;7C;dry;S;26;80%
+Nov 19 13:20;7C;few clouds;S;28;80%
+Nov 19 12:50;7C;clouds;S;28;80%
+Nov 19 12:20;7C;few clouds;S;24;80%
+Nov 19 11:50;7C;few clouds;S;24;80%
+Nov 19 11:20;7C;few clouds;S;26;80%
+Nov 19 10:50;7C;few clouds;S;26;80%
+Nov 19 10:20;6C;few clouds;S;24;80%
+Nov 19 09:50;6C;few clouds;S;24;80%
+Nov 19 09:20;5C;few clouds;S;28;85%
+Nov 19 08:50;5C;few clouds;S;30;85%
+Nov 19 08:20;4C;few clouds;S;26;95%
+Nov 19 07:50;4C;few clouds;SW;28;95%
+Nov 19 07:20;4C;few clouds;SW;28;95%
+Nov 19 06:50;4C;cloudy;SW;28;85%
+Nov 19 06:20;4C;cloudy;SW;26;95%
+Nov 19 05:50;4C;cloudy;SW;28;85%
+Nov 19 05:20;5C;cloudy;SW;26;80%
+Nov 19 04:50;4C;few clouds;SW;26;95%
+Nov 19 04:20;5C;few clouds;SW;30;80%
+Nov 19 03:50;4C;few clouds;SW;24;85%
+Nov 19 03:20;4C;few clouds;SW;24;95%
+Nov 19 02:50;4C;shower;SW;28;95%
+Nov 19 00:50;6C;clouds;S;31;80%
+Nov 19 00:20;6C;clouds;SW;31;80%
+Nov 18 23:50;6C;clouds;S;30;80%
+Nov 18 23:20;6C;cloudy;SW;26;85%
+Nov 18 22:50;6C;cloudy;S;26;80%
+Nov 18 22:00;5C;nearly cloudless;SW;31;81%
+Nov 18 21:50;6C;few clouds;SW;30;80%
+Nov 18 21:20;6C;few clouds;SW;26;85%
+Nov 18 20:50;6C;few clouds;SW;30;80%
+Nov 18 20:00;5C;cloudless;S;30;85%
+Nov 18 19:50;6C;few clouds;SW;30;80%
+Nov 18 19:20;6C;few clouds;S;28;80%
+Nov 18 18:50;6C;few clouds;SW;30;80%
+Nov 18 18:20;6C;few clouds;SW;28;80%
+Nov 18 17:50;6C;few clouds;SW;28;80%
+Nov 18 17:20;6C;clouds;S;26;85%
+Nov 18 16:50;6C;clouds;SW;28;85%
+Nov 18 16:20;7C;cloudy;SW;22;85%
+Nov 18 15:50;7C;clouds;SW;26;85%
+Nov 18 15:20;7C;clouds;SW;24;80%
+Nov 18 14:50;7C;clouds;SW;28;80%
+Nov 18 14:20;7C;cloudy;SW;30;80%
+Nov 18 13:50;6C;cloudy;SW;30;95%
+Nov 18 13:20;7C;cloudy;SW;24;85%
+Nov 18 12:50;7C;cloudy;SW;24;85%
+Nov 18 12:20;6C;light rain;SW;22;95%
+Nov 18 11:50;6C;cloudy;SW;19;85%
+Nov 18 11:20;6C;cloudy;SW;17;95%
+Nov 18 10:50;6C;cloudy;SW;20;95%
+Nov 18 10:20;7C;clouds;SW;19;85%
+Nov 18 09:50;7C;clouds;S;20;85%
+Nov 18 09:20;7C;light rain;S;28;85%
+Nov 18 08:50;7C;rain;S;30;85%
+Nov 18 08:20;7C;rain;SW;22;85%
+Nov 18 07:50;7C;light rain;S;20;95%
+Nov 18 07:20;7C;clouds;S;20;95%
+Nov 18 06:50;7C;clouds;S;24;95%
+Nov 18 06:20;7C;clouds;S;24;85%
+Nov 18 05:50;7C;clouds;S;20;95%
+Nov 18 05:22;7C;cloudy;S;22;95%
+Nov 18 04:50;7C;clouds;S;30;95%
+Nov 18 04:21;8C;light showers;S;31;85%
+Nov 18 03:50;8C;shower;SW;30;85%
+Nov 18 03:22;8C;drizzle;S;22;95%
+Nov 18 02:50;8C;cloudy;S;35;95%
+Nov 18 00:50;8C;cloudy;S;39;85%
+Nov 18 00:20;8C;clouds;S;37;85%
+Nov 17 23:50;8C;clouds;S;37;85%
+Nov 17 23:20;8C;clouds;S;30;85%
+Nov 17 22:50;7C;clouds;S;26;95%
+Nov 17 22:20;7C;dry;S;26;95%
+Nov 17 21:50;7C;dry;S;24;85%
+Nov 17 21:20;7C;dry;S;26;85%
+Nov 17 20:50;7C;dry;S;22;85%
+Nov 17 20:20;7C;dry;S;20;85%
+Nov 17 19:50;7C;few clouds;S;24;85%
+Nov 17 19:20;7C;few clouds;S;24;85%
+Nov 17 19:00;6C;few clouds;S;22;91%
+Nov 17 18:50;7C;few clouds;S;24;85%
+Nov 17 18:20;7C;clouds;S;24;85%
+Nov 17 17:50;7C;clouds;S;20;85%
+Nov 17 17:20;7C;clouds;S;20;85%
+Nov 17 16:50;7C;clouds;S;19;95%
+Nov 17 16:20;7C;clouds;S;19;95%
+Nov 17 15:50;7C;clouds;S;20;85%
+Nov 17 15:20;7C;cloudy;S;19;85%
+Nov 17 14:50;7C;cloudy;S;20;95%
+Nov 17 14:20;7C;cloudy;S;20;85%
+Nov 17 13:50;7C;cloudy;S;19;95%
+Nov 17 13:20;8C;cloudy;S;15;85%
+Nov 17 12:50;8C;few clouds;SW;17;85%
+Nov 17 12:20;7C;cloudy;S;22;95%
+Nov 17 11:50;8C;few clouds;S;17;85%
+Nov 17 11:20;8C;few clouds;SW;19;85%
+Nov 17 10:50;7C;few clouds;SW;17;95%
+Nov 17 10:20;7C;few clouds;SW;15;85%
+Nov 17 09:50;6C;few clouds;SW;17;95%
+Nov 17 09:20;6C;clouds;SW;22;95%
+Nov 17 08:50;6C;few clouds;SW;19;95%
+Nov 17 08:20;5C;few clouds;SW;15;95%
+Nov 17 07:50;5C;few clouds;SW;17;95%
+Nov 17 07:20;5C;few clouds;SW;19;95%
+Nov 17 06:50;5C;dry;SW;17;95%
+Nov 17 06:20;5C;dry;SW;19;95%
+Nov 17 05:50;5C;dry;SW;17;95%
+Nov 17 05:20;5C;dry;SW;17;95%
+Nov 17 04:50;5C;few clouds;SW;15;95%
+Nov 17 04:20;5C;few clouds;SW;17;95%
+Nov 17 03:50;5C;dry;SW;15;95%
+Nov 17 03:20;5C;few clouds;SW;15;95%
+Nov 17 02:50;5C;dry;SW;17;95%
+Nov 17 00:50;7C;dry;W;20;95%
+Nov 17 00:20;8C;few clouds;W;22;85%
+Nov 16 23:50;7C;few clouds;SW;19;95%
+Nov 16 23:20;7C;dry;SW;20;95%
+Nov 16 22:50;8C;clouds;SW;22;95%
+Nov 16 22:20;8C;few clouds;SW;20;95%
+Nov 16 21:50;8C;light rain;SW;24;95%
+Nov 16 21:20;9C;clouds;SW;28;95%
+Nov 16 20:50;9C;light rain;SW;22;95%
+Nov 16 20:20;9C;cloudy;SW;22;95%
+Nov 16 19:50;8C;clouds;SW;20;95%
+Nov 16 19:20;8C;clouds;SW;19;95%
+Nov 16 18:50;8C;cloudy;SW;22;95%
+Nov 16 18:20;8C;light rain;SW;28;95%
+Nov 16 17:50;8C;light rain;SW;28;95%
+Nov 16 17:20;7C;light rain;SW;26;95%
+Nov 16 16:50;7C;cloudy;S;24;95%
+Nov 16 16:20;7C;light rain;S;19;95%
+Nov 16 15:50;7C;light rain;S;26;95%
+Nov 16 15:20;7C;cloudy haze;S;24;95%
+Nov 16 14:50;7C;cloudy haze;S;24;95%
+Nov 16 14:20;7C;cloudy;SW;22;95%
+Nov 16 13:50;7C;cloudy;S;24;95%
+Nov 16 13:20;7C;clouds;S;19;95%
+Nov 16 12:50;7C;cloudy;S;19;95%
+Nov 16 12:20;7C;clouds;S;17;95%
+Nov 16 11:50;6C;clouds;SW;13;95%
+Nov 16 11:20;6C;cloudy;SW;11;95%
+Nov 16 10:50;6C;cloudy haze;SW;13;95%
+Nov 16 10:20;6C;cloudy haze;SW;13;95%
+Nov 16 09:50;6C;cloudy haze;SW;13;95%
+Nov 16 09:20;5C;fog;SW;13;100%
+Nov 16 08:50;5C;fog;SW;17;100%
+Nov 16 08:20;5C;fog;SW;11;100%
+Nov 16 07:50;4C;fog;W;11;100%
+Nov 16 07:20;4C;fog;W;13;100%
+Nov 16 06:50;3C;fog in patches;W;13;95%
+Nov 16 06:20;4C;cloudy;W;13;95%
+Nov 16 05:50;3C;cloudy haze;W;13;95%
+Nov 16 05:20;2C;few clouds mist;W;13;95%
+Nov 16 04:50;5C;W;11;95%
+Nov 16 04:20;5C;W;15;95%
+Nov 16 03:50;5C;W;20;95%
+Nov 16 03:20;5C;NW;22;95%
+Nov 16 02:50;5C;W;20;95%
+Nov 16 00:50;6C;dry;W;19;85%
+Nov 16 00:20;6C;dry;W;20;95%
+Nov 15 23:50;6C;dry;NW;22;95%
+Nov 15 23:20;6C;dry;W;22;95%
+Nov 15 22:50;6C;dry;W;22;95%
+Nov 15 22:20;6C;dry;W;20;95%
+Nov 15 22:00;6C;cloudless;W;22;93%
+Nov 15 21:50;6C;no or few clouds;W;22;95%
+Nov 15 21:20;7C;dry;W;24;85%
+Nov 15 20:50;7C;dry;W;24;95%
+Nov 15 20:20;7C;few clouds;W;24;95%
+Nov 15 19:50;8C;few clouds;W;24;95%
+Nov 15 19:20;9C;few clouds;W;22;85%
+Nov 15 18:50;9C;few clouds;NW;24;85%
+Nov 15 18:20;10C;cloudy;W;30;85%
+Nov 15 17:50;9C;drizzle;W;20;95%
+Nov 15 17:20;8C;drizzle;W;20;95%
+Nov 15 16:50;7C;drizzle;W;20;95%
+Nov 15 16:20;7C;drizzle;SW;20;100%
+Nov 15 15:50;7C;fog;SW;20;100%
+Nov 15 15:20;7C;drizzle;SW;19;95%
+Nov 15 14:50;7C;overcast haze;SW;26;95%
+Nov 15 14:20;7C;cloudy;SW;28;95%
+Nov 15 13:50;7C;drizzle;SW;26;95%
+Nov 15 13:20;6C;drizzle;SW;28;95%
+Nov 15 12:50;6C;drizzle;SW;30;95%
+Nov 15 12:20;6C;cloudy;SW;30;95%
+Nov 15 11:50;6C;drizzle;SW;30;95%
+Nov 15 11:20;6C;drizzle;SW;31;95%
+Nov 15 10:50;6C;drizzle;SW;31;95%
+Nov 15 10:20;6C;drizzle;SW;30;95%
+Nov 15 09:50;5C;drizzle;SW;30;95%
+Nov 15 09:20;5C;drizzle;SW;31;95%
+Nov 15 08:50;5C;drizzle;SW;30;95%
+Nov 15 08:20;5C;drizzle;SW;30;95%
+Nov 15 07:50;5C;drizzle;SW;24;95%
+Nov 15 07:20;5C;drizzle;SW;24;95%
+Nov 15 06:50;5C;drizzle;SW;24;95%
+Nov 15 06:20;5C;drizzle;SW;28;95%
+Nov 15 05:50;4C;drizzle;SW;26;95%
+Nov 15 05:20;4C;drizzle;SW;28;95%
+Nov 15 04:50;4C;cloudy;SW;31;95%
+Nov 15 04:20;4C;drizzle;SW;30;95%
+Nov 15 03:50;4C;drizzle;SW;30;95%
+Nov 15 03:20;4C;drizzle;SW;31;95%
+Nov 15 02:50;4C;drizzle;SW;31;95%
+Nov 15 00:50;4C;drizzle;SW;24;95%
+Nov 15 00:20;4C;drizzle;SW;24;95%
+Nov 14 23:50;4C;drizzle;SW;22;95%
+Nov 14 23:20;3C;drizzle;SW;22;95%
+Nov 14 22:50;3C;drizzle;SW;24;95%
+Nov 14 22:20;3C;rain;SW;24;95%
+Nov 14 21:50;3C;rain;SW;24;95%
+Nov 14 21:20;3C;rain;SW;26;85%
+Nov 14 20:50;3C;light rain;SW;26;85%
+Nov 14 20:20;3C;light rain;SW;28;85%
+Nov 14 19:50;3C;light rain;SW;26;85%
+Nov 14 19:00;3C;overcast;SW;26;82%
+Nov 14 18:50;3C;light rain;SW;28;85%
+Nov 14 18:20;3C;SW;24;85%
+Nov 14 17:50;3C;SW;24;85%
+Nov 14 17:20;3C;dry;SW;22;85%
+Nov 14 16:50;3C;fair;SW;24;80%
+Nov 14 16:20;3C;fair;SW;20;80%
+Nov 14 15:50;3C;fair;SW;20;80%
+Nov 14 15:20;3C;fair;SW;22;80%
+Nov 14 14:50;4C;fair;SW;22;75%
+Nov 14 14:20;4C;few clouds;SW;24;75%
+Nov 14 13:50;4C;dry;SW;26;70%
+Nov 14 13:20;4C;fair;SW;26;75%
+Nov 14 13:00;4C;cloudless;SW;22;70%
+Nov 14 12:50;4C;fair;SW;24;70%
+Nov 14 12:20;4C;dry;SW;28;70%
+Nov 14 11:50;4C;fair;SW;24;70%
+Nov 14 11:20;4C;dry;SW;24;75%
+Nov 14 10:50;3C;fair;SW;22;85%
+Nov 14 10:20;3C;fair;SW;20;80%
+Nov 14 09:50;3C;fair;SW;17;80%
+Nov 14 09:20;2C;fair;SW;17;85%
+Nov 14 08:50;1C;few clouds;SW;17;95%
+Nov 14 08:20;1C;few clouds;SW;15;85%
+Nov 14 07:50;0C;few clouds;SW;15;95%
+Nov 14 07:20;0C;few clouds;SW;15;95%
+Nov 14 07:00;0C;cloudless;SW;19;90%
+Nov 14 06:50;0C;no or few clouds;SW;17;95%
+Nov 14 06:20;0C;no or few clouds;SW;17;95%
+Nov 14 05:50;1C;no or few clouds;SW;19;85%
+Nov 14 05:20;1C;no or few clouds;SW;17;85%
+Nov 14 04:50;0C;no or few clouds;SW;15;95%
+Nov 14 04:20;0C;no or few clouds;SW;15;85%
+Nov 14 03:50;0C;dry;SW;15;85%
+Nov 14 03:20;0C;no or few clouds;SW;15;85%
+Nov 14 02:50;0C;no or few clouds;SW;15;85%
+Nov 14 00:50;2C;no or few clouds;SW;22;80%
+Nov 14 00:20;3C;no or few clouds;SW;20;75%
+Nov 13 23:50;2C;no or few clouds;SW;20;80%
+Nov 13 23:20;3C;no or few clouds;SW;22;75%
+Nov 13 22:50;2C;no or few clouds;SW;20;80%
+Nov 13 22:20;2C;no or few clouds;SW;20;80%
+Nov 13 21:50;3C;no or few clouds;SW;22;70%
+Nov 13 21:20;3C;no or few clouds;SW;20;70%
+Nov 13 20:50;2C;no or few clouds;SW;19;75%
+Nov 13 20:20;1C;no or few clouds;SW;15;80%
+Nov 13 19:50;1C;no or few clouds;SW;15;80%
+Nov 13 19:20;1C;no or few clouds;SW;13;80%
+Nov 13 19:00;0C;cloudless;SW;13;82%
+Nov 13 18:50;0C;no or few clouds;SW;13;75%
+Nov 13 18:20;1C;no or few clouds;SW;13;70%
+Nov 13 17:50;0C;no or few clouds;SW;13;80%
+Nov 13 17:20;-1C;no or few clouds;SW;9;80%
+Nov 13 16:50;0C;fair;SW;11;75%
+Nov 13 16:20;1C;fair;SW;11;75%
+Nov 13 15:50;3C;fair;SW;15;65%
+Nov 13 15:20;4C;fair;SW;17;65%
+Nov 13 14:50;4C;fair;SW;17;65%
+Nov 13 14:20;4C;fair;SW;19;65%
+Nov 13 13:50;4C;fair;S;19;65%
+Nov 13 13:20;5C;fair;S;20;60%
+Nov 13 12:50;4C;fair;SW;19;70%
+Nov 13 12:20;4C;fair;SW;17;70%
+Nov 13 11:50;4C;fair;SW;13;70%
+Nov 13 11:20;4C;fair;SW;11;70%
+Nov 13 10:50;3C;fair;SW;11;80%
+Nov 13 10:20;3C;fair;SW;15;75%
+Nov 13 09:50;3C;fair;SW;11;80%
+Nov 13 09:20;2C;fair;SW;11;80%
+Nov 13 08:50;1C;fair;SW;9;85%
+Nov 13 08:20;0C;fair;SW;7;80%
+Nov 13 07:50;0C;no or few clouds;SW;7;80%
+Nov 13 07:20;0C;no or few clouds;SW;9;85%
+Nov 13 06:50;0C;no or few clouds;SW;11;85%
+Nov 13 06:20;-1C;no or few clouds;SW;9;95%
+Nov 13 05:50;-1C;no or few clouds;SW;9;85%
+Nov 13 05:20;0C;no or few clouds;SW;7;95%
+Nov 13 04:50;-1C;no or few clouds;SW;7;95%
+Nov 13 04:20;-2C;no or few clouds;SW;7;95%
+Nov 13 03:50;-2C;clouds;SW;6;95%
+Nov 13 03:20;-1C;no or few clouds;SW;6;85%
+Nov 13 02:50;-2C;no or few clouds;SW;6;95%
+Nov 13 00:50;-1C;no or few clouds;SW;7;85%
+Nov 13 00:20;-2C;no or few clouds;SW;9;85%
+Nov 12 23:50;-2C;SW;7;95%
+Nov 12 23:20;-2C;SW;9;95%
+Nov 12 22:50;-2C;SW;7;95%
+Nov 12 22:20;0C;SW;6;95%
+Nov 12 21:50;-1C;no or few clouds;SW;7;85%
+Nov 12 21:20;0C;no or few clouds;SW;9;85%
+Nov 12 20:50;0C;no or few clouds;SW;9;85%
+Nov 12 20:20;0C;no or few clouds;SW;9;80%
+Nov 12 19:50;-1C;no or few clouds;SW;11;80%
+Nov 12 19:20;-1C;no or few clouds;SW;9;75%
+Nov 12 18:50;0C;no or few clouds;SW;9;70%
+Nov 12 18:20;1C;no or few clouds;SW;11;70%
+Nov 12 17:50;0C;no or few clouds;SW;11;75%
+Nov 12 17:20;0C;no or few clouds;SW;9;75%
+Nov 12 16:50;1C;fair;SW;9;75%
+Nov 12 16:20;1C;fair;SW;9;80%
+Nov 12 15:50;2C;fair;SW;11;75%
+Nov 12 15:20;3C;fair;SW;11;75%
+Nov 12 14:50;4C;fair;SW;19;70%
+Nov 12 14:20;5C;fair;SW;15;65%
+Nov 12 13:50;5C;fair;SW;17;60%
+Nov 12 13:20;5C;fair;SW;15;60%
+Nov 12 13:00;5C;cloudless;SW;13;59%
+Nov 12 12:50;5C;fair;SW;15;60%
+Nov 12 12:20;5C;fair;SW;11;60%
+Nov 12 11:50;5C;fair;SW;11;70%
+Nov 12 11:20;5C;dry;SW;9;75%
+Nov 12 10:50;5C;few clouds;SW;7;80%
+Nov 12 10:20;5C;few clouds;S;4;80%
+Nov 12 09:50;4C;few clouds;S;4;85%
+Nov 12 09:20;3C;few clouds;E;7;95%
+Nov 12 08:50;3C;few clouds;SE;7;95%
+Nov 12 08:20;1C;few clouds;E;7;95%
+Nov 12 07:50;0C;few clouds;E;4;95%
+Nov 12 07:20;0C;few clouds;E;6;95%
+Nov 12 07:00;0C;cloudless;E;7;100%
+Nov 12 06:50;0C;E;7;95%
+Nov 12 06:20;0C;fog in patches;E;9;95%
+Nov 12 05:50;-2C;few clouds;E;7;95%
+Nov 12 05:20;-2C;fog in patches;NE;4;95%
+Nov 12 04:50;-1C;fog in patches;NE;4;95%
+Nov 12 04:20;0C;fog in patches;N;6;95%
+Nov 12 03:50;-2C;fog in patches;N;2;95%
+Nov 12 03:20;-3C;fog in patches;NE;2;95%
+Nov 12 02:50;-2C;fog in patches;95%
+Nov 12 01:00;0C;cloudless;NE;2;96%
+Nov 12 00:50;1C;fog in patches;E;4;95%
+Nov 12 00:20;0C;cloudless;NE;2;95%
+Nov 11 23:50;-1C;cloudless;E;4;95%
+Nov 11 23:20;1C;no or few clouds;E;6;85%
+Nov 11 22:50;-1C;no or few clouds;E;4;95%
+Nov 11 22:20;1C;no or few clouds;E;6;85%
+Nov 11 21:50;2C;no or few clouds;E;7;85%
+Nov 11 21:20;2C;no or few clouds;E;7;85%
+Nov 11 20:50;1C;no or few clouds;NE;7;85%
+Nov 11 20:20;1C;no or few clouds;NE;9;85%
+Nov 11 19:50;1C;no or few clouds;NE;9;85%
+Nov 11 19:20;1C;no or few clouds;E;9;80%
+Nov 11 19:00;1C;cloudless;NE;11;83%
+Nov 11 18:50;2C;no or few clouds;NE;9;80%
+Nov 11 18:20;2C;no or few clouds;NE;7;80%
+Nov 11 17:50;2C;few clouds;NE;11;80%
+Nov 11 17:20;1C;few clouds;NE;11;85%
+Nov 11 16:50;2C;few clouds;NE;9;80%
+Nov 11 16:20;1C;few clouds;NE;9;85%
+Nov 11 15:50;2C;few clouds;NE;11;80%
+Nov 11 15:20;3C;fair;NE;11;75%
+Nov 11 14:50;3C;fair;NE;9;80%
+Nov 11 14:20;3C;few clouds;NE;13;80%
+Nov 11 13:50;3C;few clouds;NE;15;80%
+Nov 11 13:20;3C;few clouds;NE;13;80%
+Nov 11 13:00;2C;cloudless;N;13;81%
+Nov 11 12:50;3C;few clouds;NE;15;75%
+Nov 11 12:20;3C;few clouds;NE;17;80%
+Nov 11 11:50;2C;few clouds;NE;13;85%
+Nov 11 11:20;2C;few clouds;NE;19;85%
+Nov 11 10:50;2C;few clouds;NE;19;85%
+Nov 11 10:20;1C;few clouds;NE;17;85%
+Nov 11 09:50;1C;few clouds;NE;19;85%
+Nov 11 09:20;1C;few clouds;NE;17;85%
+Nov 11 08:50;1C;few clouds;NE;22;85%
+Nov 11 08:20;0C;few clouds;NE;22;95%
+Nov 11 07:50;0C;few clouds;NE;20;95%
+Nov 11 07:20;0C;no or few clouds;NE;17;85%
+Nov 11 06:50;1C;no or few clouds;NE;22;85%
+Nov 11 06:20;1C;no or few clouds;E;24;80%
+Nov 11 05:55;1C;no or few clouds;E;22;85%
+Nov 11 05:21;1C;no or few clouds;NE;24;85%
+Nov 11 04:50;1C;no or few clouds;NE;26;85%
+Nov 11 04:20;1C;no or few clouds;E;24;95%
+Nov 11 03:50;1C;no or few clouds;NE;24;95%
+Nov 11 03:20;1C;no or few clouds;NE;24;95%
+Nov 11 03:00;1C;cloudless;NE;20;89%
+Nov 11 02:50;1C;no or few clouds;E;24;95%
+Nov 11 01:00;1C;cloudless;NE;19;91%
+Nov 11 00:50;1C;dry;NE;19;95%
+Nov 11 00:20;2C;few clouds;NE;19;95%
+Nov 10 23:50;1C;few clouds;NE;15;95%
+Nov 10 23:20;2C;clouds;NE;17;85%
+Nov 10 22:50;2C;cloudy;NE;19;85%
+Nov 10 22:20;3C;light showers;E;20;85%
+Nov 10 21:50;3C;light showers;E;20;95%
+Nov 10 21:20;3C;cloudy;E;20;95%
+Nov 10 20:50;2C;cloudy;E;20;95%
+Nov 10 20:20;3C;cloudy;NE;17;85%
+Nov 10 19:50;3C;cloudy;E;15;85%
+Nov 10 19:20;2C;cloudy;NE;15;95%
+Nov 10 18:50;2C;cloudy;NE;15;95%
+Nov 10 18:20;2C;cloudy;NE;13;85%
+Nov 10 17:50;1C;cloudy;NE;11;95%
+Nov 10 17:20;1C;cloudy;NE;11;95%
+Nov 10 16:50;1C;cloudy;NE;13;95%
+Nov 10 16:20;1C;cloudy;NE;13;95%
+Nov 10 15:50;1C;cloudy;NE;13;95%
+Nov 10 15:20;1C;cloudy;NE;15;95%
+Nov 10 14:50;2C;cloudy;NE;15;85%
+Nov 10 14:20;2C;cloudy;NE;15;95%
+Nov 10 13:50;2C;cloudy;NE;13;95%
+Nov 10 13:20;2C;few clouds;NE;17;95%
+Nov 10 12:50;2C;few clouds;NE;17;95%
+Nov 10 12:20;2C;few clouds;NE;17;95%
+Nov 10 11:50;2C;few clouds;NE;15;85%
+Nov 10 11:20;1C;few clouds;NE;13;95%
+Nov 10 10:50;1C;cloudy;NE;15;95%
+Nov 10 10:20;1C;cloudy;NE;13;95%
+Nov 10 09:50;0C;cloudy;NE;9;95%
+Nov 10 09:20;0C;cloudy;NE;11;95%
+Nov 10 08:50;0C;cloudy;NE;13;95%
+Nov 10 08:20;0C;cloudy;NE;15;95%
+Nov 10 07:50;-1C;cloudy;NE;13;95%
+Nov 10 07:20;0C;cloudy;NE;11;95%
+Nov 10 07:00;0C;cloudy;NE;13;97%
+Nov 10 06:50;0C;cloudy;NE;13;95%
+Nov 10 06:20;0C;cloudy;NE;15;95%
+Nov 10 05:50;-1C;cloudy;NE;11;95%
+Nov 10 05:20;0C;cloudy;E;13;95%
+Nov 10 04:50;0C;dry;E;13;95%
+Nov 10 04:20;0C;dry;E;13;95%
+Nov 10 03:50;0C;dry;E;13;95%
+Nov 10 03:20;0C;dry;NE;13;95%
+Nov 10 02:50;1C;dry;NE;13;95%
+Nov 10 00:50;1C;cloudy;E;15;95%
+Nov 10 00:20;1C;few clouds;E;13;95%
+Nov 09 23:50;1C;few clouds;E;15;95%
+Nov 09 23:20;1C;few clouds;E;13;95%
+Nov 09 22:50;1C;few clouds;E;17;95%
+Nov 09 22:20;1C;few clouds;E;13;95%
+Nov 09 21:50;2C;clouds;E;13;95%
+Nov 09 21:20;2C;clouds;E;15;85%
+Nov 09 20:50;3C;clouds;E;15;75%
+Nov 09 20:20;2C;clouds;E;9;75%
+Nov 09 19:50;2C;clouds;S;2;80%
+Nov 09 19:20;2C;cloudy;N;7;75%
+Nov 09 18:50;2C;cloudy;NW;6;80%
+Nov 09 18:20;2C;cloudy;NW;4;80%
+Nov 09 17:50;2C;cloudy;NW;4;75%
+Nov 09 17:20;2C;clouds;W;4;75%
+Nov 09 16:50;2C;clouds;W;2;80%
+Nov 09 16:20;1C;few clouds;W;6;80%
+Nov 09 15:50;2C;few clouds;SW;7;80%
+Nov 09 15:20;2C;few clouds;SW;9;80%
+Nov 09 14:50;3C;few clouds;SW;13;75%
+Nov 09 14:20;3C;few clouds;SW;15;80%
+Nov 09 13:50;3C;few clouds;SW;17;80%
+Nov 09 13:20;3C;clouds;SW;19;80%
+Nov 09 12:50;3C;few clouds;S;22;80%
+Nov 09 12:20;4C;clouds;SW;19;80%
+Nov 09 11:50;3C;clouds;SW;15;85%
+Nov 09 11:20;3C;light rain;SW;17;95%
+Nov 09 10:50;3C;drizzle;S;19;85%
+Nov 09 10:20;4C;cloudy;S;17;80%
+Nov 09 09:50;3C;cloudy;E;22;95%
+Nov 09 09:20;3C;cloudy;E;22;95%
+Nov 09 08:50;3C;light rain;E;20;95%
+Nov 09 08:20;2C;cloudy;E;22;95%
+Nov 09 07:50;2C;cloudy;E;22;95%
+Nov 09 07:20;2C;cloudy;E;24;95%
+Nov 09 07:00;1C;cloudy;E;28;95%
+Nov 09 06:50;2C;cloudy;E;24;95%
+Nov 09 06:20;2C;drizzle;E;24;95%
+Nov 09 05:50;1C;light rain;E;26;95%
+Nov 09 05:20;1C;light rain;E;26;95%
+Nov 09 04:50;2C;snowy rain;E;28;95%
+Nov 09 04:20;1C;snowy rain;E;33;95%
+Nov 09 03:50;2C;light rain;E;30;95%
+Nov 09 03:20;2C;light rain;E;26;95%
+Nov 09 02:50;2C;snowy rain;E;28;95%
+Nov 09 01:00;1C;cloudy;E;28;92%
+Nov 09 00:50;1C;snowy rain;E;28;95%
+Nov 09 00:20;1C;snowy rain;E;26;95%
+Nov 08 23:50;2C;drizzle;E;30;85%
+Nov 08 23:20;1C;drizzle;E;30;95%
+Nov 08 22:50;0C;light snow;NE;26;95%
+Nov 08 22:21;0C;light snow;NE;26;95%
+Nov 08 21:50;0C;light snow;NE;24;95%
+Nov 08 21:20;0C;light snow;NE;20;95%
+Nov 08 20:50;-1C;snowy rain;NE;20;95%
+Nov 08 19:20;0C;clouds;NE;19;70%
+Nov 08 18:50;-1C;clouds;NE;20;70%
+Nov 08 18:20;-1C;dry;NE;22;70%
+Nov 08 17:50;0C;dry;NE;19;65%
+Nov 08 17:20;0C;cloudy;NE;15;65%
+Nov 08 16:50;-1C;clouds;NE;15;70%
+Nov 08 16:20;-1C;clouds;NE;11;70%
+Nov 08 15:50;-1C;clouds;NE;11;70%
+Nov 08 15:21;-1C;few clouds;NE;11;65%
+Nov 08 14:50;-1C;few clouds;NE;11;65%
+Nov 08 14:20;-1C;few clouds;NE;13;65%
+Nov 08 13:50;-1C;few clouds;NE;11;60%
+Nov 08 13:20;-1C;few clouds;NE;13;60%
+Nov 08 12:50;-1C;few clouds;NE;13;65%
+Nov 08 12:20;-1C;few clouds;NE;15;55%
+Nov 08 11:50;-1C;few clouds;NE;13;65%
+Nov 08 11:20;-1C;few clouds;NE;15;65%
+Nov 08 10:50;-1C;few clouds;NE;13;60%
+Nov 08 10:20;-1C;few clouds;NE;15;65%
+Nov 08 09:50;-2C;few clouds;NE;15;70%
+Nov 08 09:20;-2C;few clouds;NE;15;70%
+Nov 08 08:50;-2C;few clouds;NE;17;75%
+Nov 08 08:20;-2C;cloudy;NE;13;70%
+Nov 08 07:50;-2C;few clouds;NE;15;75%
+Nov 08 07:20;-3C;cloudy;NE;15;75%
+Nov 08 06:50;-2C;cloudy;N;15;75%
+Nov 08 06:20;-2C;few clouds;N;15;70%
+Nov 08 05:50;-2C;cloudy;N;11;70%
+Nov 08 05:20;-2C;cloudy;N;11;70%
+Nov 08 04:50;-1C;cloudy;N;11;65%
+Nov 08 04:20;-1C;cloudy;N;13;65%
+Nov 08 03:50;-1C;cloudy;N;13;65%
+Nov 08 03:20;-1C;overcast;N;13;65%
+Nov 08 02:50;-1C;overcast;NE;11;70%
+Nov 08 00:50;-1C;overcast;N;13;65%
+Nov 08 00:20;-1C;overcast;N;7;70%
+Nov 07 23:50;-1C;overcast;N;11;65%
+Nov 07 23:20;-1C;overcast;NE;9;65%
+Nov 07 22:50;-1C;cloudy;NE;9;65%
+Nov 07 22:20;-1C;cloudy;N;13;60%
+Nov 07 21:50;-1C;cloudy;N;11;60%
+Nov 07 21:20;0C;cloudy;N;15;60%
+Nov 07 20:50;-1C;cloudy;NE;11;65%
+Nov 07 20:20;0C;cloudy;N;15;60%
+Nov 07 19:50;-1C;cloudy;N;15;65%
+Nov 07 19:20;-1C;cloudy;N;19;65%
+Nov 07 19:00;0C;cloudy;N;22;62%
+Nov 07 18:50;0C;cloudy;N;24;60%
+Nov 07 18:20;0C;cloudy;N;24;65%
+Nov 07 17:50;0C;cloudy;N;26;65%
+Nov 07 17:20;1C;cloudy;N;22;60%
+Nov 07 16:50;1C;cloudy;N;24;65%
+Nov 07 16:20;1C;cloudy;N;20;65%
+Nov 07 15:50;1C;cloudy;N;20;65%
+Nov 07 15:20;1C;clouds;N;22;70%
+Nov 07 14:50;1C;clouds;N;24;70%
+Nov 07 14:20;2C;few clouds;N;22;65%
+Nov 07 13:50;2C;few clouds;N;19;65%
+Nov 07 13:20;2C;clouds;N;17;70%
+Nov 07 13:00;2C;cloudy;N;19;72%
+Nov 07 12:50;2C;clouds;N;19;70%
+Nov 07 12:20;2C;clouds;N;20;70%
+Nov 07 11:50;2C;clouds;N;20;70%
+Nov 07 11:20;2C;clouds;NE;24;75%
+Nov 07 10:50;2C;light snow;N;24;70%
+Nov 07 10:20;1C;light snow;NE;24;75%
+Nov 07 09:50;1C;light snow;NE;26;75%
+Nov 07 09:20;1C;clouds;N;28;75%
+Nov 07 08:50;1C;clouds;N;26;75%
+Nov 07 08:20;0C;clouds;N;30;80%
+Nov 07 07:50;0C;clouds;NE;28;80%
+Nov 07 07:20;1C;clouds;N;31;75%
+Nov 07 06:50;0C;few clouds;N;33;80%
+Nov 07 06:20;0C;few clouds;NE;28;80%
+Nov 07 05:59;0C;few clouds;N;31;80%
+Nov 07 05:50;0C;few clouds;NE;30;80%
+Nov 07 05:20;0C;few clouds;N;33;80%
+Nov 07 04:50;0C;few clouds;N;33;80%
+Nov 07 04:20;0C;few clouds;N;30;80%
+Nov 07 03:50;1C;clouds;NE;26;75%
+Nov 07 03:20;1C;clouds;NE;30;80%
+Nov 07 02:50;1C;clouds;NE;30;75%
+Nov 07 00:50;1C;light snow showers;NE;31;80%
+Nov 07 00:20;1C;few clouds;NE;30;75%
+Nov 06 23:50;1C;cloudy;NE;30;75%
+Nov 06 23:20;2C;cloudy;NE;30;75%
+Nov 06 22:50;1C;cloudy;NE;31;75%
+Nov 06 22:20;2C;cloudy;NE;33;75%
+Nov 06 21:50;2C;cloudy;NE;31;75%
+Nov 06 21:20;2C;clouds;NE;33;75%
+Nov 06 20:50;2C;clouds;NE;33;75%
+Nov 06 20:20;2C;clouds;NE;33;80%
+Nov 06 19:50;2C;cloudy;NE;35;80%
+Nov 06 19:20;2C;cloudy;NE;31;80%
+Nov 06 18:50;3C;cloudy;NE;33;75%
+Nov 06 18:20;3C;cloudy;NE;35;80%
+Nov 06 17:50;3C;cloudy;NE;33;80%
+Nov 06 17:20;3C;cloudy;NE;35;80%
+Nov 06 16:50;3C;cloudy;NE;33;80%
+Nov 06 16:20;4C;cloudy;NE;31;80%
+Nov 06 15:50;4C;cloudy;NE;35;80%
+Nov 06 15:20;4C;cloudy;NE;33;80%
+Nov 06 14:50;4C;light showers;NE;30;80%
+Nov 06 14:20;4C;light showers;NE;28;85%
+Nov 06 13:50;5C;cloudy;NE;30;80%
+Nov 06 13:20;4C;cloudy;NE;28;85%
+Nov 06 12:50;4C;cloudy;NE;31;80%
+Nov 06 12:20;4C;cloudy;NE;31;85%
+Nov 06 11:50;4C;cloudy;NE;30;85%
+Nov 06 11:20;4C;light showers;E;24;85%
+Nov 06 10:50;4C;light showers;NE;28;85%
+Nov 06 10:20;5C;cloudy;NE;28;85%
+Nov 06 09:50;5C;clouds;E;28;85%
+Nov 06 09:20;5C;cloudy;E;28;85%
+Nov 06 08:54;5C;cloudy;NE;28;85%
+Nov 06 08:20;5C;cloudy;NE;26;85%
+Nov 06 07:50;5C;cloudy;NE;22;85%
+Nov 06 07:20;5C;cloudy;NE;22;95%
+Nov 06 06:50;5C;cloudy;NE;22;95%
+Nov 06 06:20;6C;cloudy;NE;20;85%
+Nov 06 05:50;5C;cloudy;NE;15;95%
+Nov 06 05:20;5C;cloudy;NE;15;95%
+Nov 06 04:50;6C;cloudy;NE;11;95%
+Nov 06 04:20;6C;cloudy;E;13;95%
+Nov 06 03:50;6C;clouds;E;13;95%
+Nov 06 03:20;6C;cloudy;NE;15;95%
+Nov 06 02:50;6C;clouds;VRB;6;95%
+Nov 06 00:50;6C;clouds;NW;4;95%
+Nov 06 00:20;6C;cloudy;N;6;95%
+Nov 05 23:50;6C;cloudy;N;6;95%
+Nov 05 23:20;6C;cloudy;N;4;95%
+Nov 05 22:50;6C;clouds;NW;2;95%
+Nov 05 22:21;6C;clouds;NW;4;95%
+Nov 05 21:50;6C;clouds;N;4;95%
+Nov 05 21:20;6C;light rain;95%
+Nov 05 20:50;6C;light rain;SW;4;95%
+Nov 05 20:20;6C;clouds;NW;2;95%
+Nov 05 19:50;6C;cloudy;SW;2;95%
+Nov 05 19:20;6C;light rain;SW;7;95%
+Nov 05 18:50;6C;light rain;S;13;95%
+Nov 05 18:20;6C;rain;SE;19;95%
+Nov 05 17:50;6C;rain;E;19;95%
+Nov 05 17:20;6C;light rain;SE;20;95%
+Nov 05 16:50;6C;light rain;SE;24;85%
+Nov 05 16:20;6C;light rain;SE;30;85%
+Nov 05 15:50;6C;rain;SE;31;95%
+Nov 05 15:20;7C;rain;SE;30;85%
+Nov 05 14:50;7C;drizzle;SE;33;85%
+Nov 05 14:20;7C;drizzle;SE;28;85%
+Nov 05 13:50;7C;drizzle;SE;22;85%
+Nov 05 13:20;7C;drizzle;SE;26;85%
+Nov 05 12:50;8C;drizzle;SE;30;85%
+Nov 05 12:20;8C;cloudy;SE;30;80%
+Nov 05 11:50;8C;cloudy;SE;31;80%
+Nov 05 11:20;8C;cloudy;SE;31;80%
+Nov 05 10:50;8C;cloudy;SE;26;80%
+Nov 05 10:20;8C;cloudy;SE;24;80%
+Nov 05 09:50;8C;cloudy;SE;22;80%
+Nov 05 09:20;8C;cloudy;SE;22;80%
+Nov 05 08:50;8C;clouds;SE;24;80%
+Nov 05 08:20;8C;clouds;SE;19;80%
+Nov 05 07:50;8C;clouds;SE;20;80%
+Nov 05 07:20;8C;clouds;SE;22;80%
+Nov 05 06:50;8C;cloudy;SE;22;85%
+Nov 05 06:20;8C;cloudy;S;22;85%
+Nov 05 05:50;8C;cloudy;S;20;85%
+Nov 05 05:20;8C;cloudy;S;17;95%
+Nov 05 04:50;8C;clouds;S;11;85%
+Nov 05 04:20;7C;clouds;S;11;85%
+Nov 05 03:50;7C;clouds;S;9;85%
+Nov 05 03:20;7C;clouds;S;11;95%
+Nov 05 02:50;7C;clouds;S;11;95%
+Nov 05 00:50;8C;light rain;SW;11;85%
+Nov 05 00:20;8C;light rain;SW;15;85%
+Nov 04 23:50;8C;light rain;SW;15;85%
+Nov 04 23:00;7C;overcast;SW;15;90%
+Nov 04 22:50;8C;light rain;SW;17;85%
+Nov 04 22:20;8C;cloudy;SW;15;85%
+Nov 04 21:50;7C;cloudy;SW;15;95%
+Nov 04 21:20;7C;clouds;SW;17;95%
+Nov 04 20:50;8C;clouds;SW;17;95%
+Nov 04 20:20;8C;drizzle;SW;19;95%
+Nov 04 19:50;8C;drizzle;SW;19;95%
+Nov 04 19:20;8C;cloudy;SW;15;95%
+Nov 04 19:00;7C;overcast;SW;15;94%
+Nov 04 18:50;8C;cloudy;SW;15;95%
+Nov 04 18:20;8C;cloudy;SW;17;95%
+Nov 04 17:50;8C;drizzle;SW;19;95%
+Nov 04 17:20;8C;drizzle;SW;15;95%
+Nov 04 16:50;8C;light rain;SW;17;95%
+Nov 04 16:20;8C;drizzle;SW;19;95%
+Nov 04 15:50;8C;light rain;S;19;95%
+Nov 04 15:20;8C;light rain;S;19;95%
+Nov 04 14:50;8C;rain;S;15;95%
+Nov 04 14:20;7C;rain;S;19;95%
+Nov 04 13:50;8C;rain;S;15;95%
+Nov 04 13:20;8C;rain;S;15;95%
+Nov 04 12:50;8C;rain;S;17;95%
+Nov 04 12:20;8C;rain;S;17;95%
+Nov 04 11:50;8C;rain;S;13;95%
+Nov 04 11:20;8C;rain;S;13;95%
+Nov 04 10:50;7C;light rain;S;7;95%
+Nov 04 10:20;7C;light rain;S;6;95%
+Nov 04 09:50;7C;light rain;S;6;95%
+Nov 04 09:20;7C;light rain;S;9;95%
+Nov 04 08:50;7C;light rain;SW;11;95%
+Nov 04 08:20;7C;light rain;S;11;85%
+Nov 04 07:51;7C;light rain;S;9;85%
+Nov 04 07:21;6C;light rain;S;9;95%
+Nov 04 06:50;6C;light rain;S;7;95%
+Nov 04 06:20;6C;light rain;S;7;95%
+Nov 04 05:50;6C;light rain;SW;9;95%
+Nov 04 05:20;6C;rain;SW;11;95%
+Nov 04 04:50;6C;rain;SW;11;95%
+Nov 04 04:20;7C;drizzle;S;13;95%
+Nov 04 03:50;7C;cloudy;S;17;85%
+Nov 04 03:20;6C;cloudy;S;24;95%
+Nov 04 02:50;6C;cloudy;SE;24;85%
+Nov 04 00:50;5C;light rain;S;13;85%
+Nov 04 00:20;5C;light rain;S;15;85%
+Nov 03 23:50;5C;light rain;SW;17;80%
+Nov 03 23:20;5C;no or few clouds;SW;15;75%
+Nov 03 22:50;5C;no or few clouds;SW;13;75%
+Nov 03 22:20;5C;dry;SW;11;70%
+Nov 03 21:50;5C;no or few clouds;SW;9;75%
+Nov 03 21:20;5C;no or few clouds;SW;9;75%
+Nov 03 20:50;5C;no or few clouds;S;7;70%
+Nov 03 20:20;4C;no or few clouds;S;9;75%
+Nov 03 19:50;4C;no or few clouds;S;6;75%
+Nov 03 19:20;4C;dry;S;4;75%
+Nov 03 19:00;4C;cloudy;S;2;74%
+Nov 03 18:20;4C;clouds;SW;4;80%
+Nov 03 17:50;5C;clouds;W;7;75%
+Nov 03 17:20;5C;clouds;W;7;75%
+Nov 03 16:50;5C;clouds;W;7;75%
+Nov 03 16:20;5C;clouds;W;9;75%
+Nov 03 15:50;6C;clouds;W;9;65%
+Nov 03 15:20;6C;clouds;W;9;65%
+Nov 03 14:50;6C;clouds;W;11;70%
+Nov 03 14:20;6C;clouds;W;13;60%
+Nov 03 13:50;7C;few clouds;W;13;55%
+Nov 03 13:20;6C;few clouds;W;9;55%
+Nov 03 12:50;6C;few clouds;NW;13;55%
+Nov 03 12:20;6C;few clouds;NW;13;55%
+Nov 03 11:50;6C;few clouds;NW;11;60%
+Nov 03 11:20;6C;few clouds;N;11;60%
+Nov 03 10:50;5C;few clouds;N;11;65%
+Nov 03 10:20;5C;few clouds;N;13;65%
+Nov 03 09:50;5C;few clouds;N;13;65%
+Nov 03 09:20;4C;few clouds;NW;13;70%
+Nov 03 08:50;3C;few clouds;NW;13;75%
+Nov 03 08:20;2C;few clouds;NW;13;80%
+Nov 03 07:50;2C;few clouds;NW;13;80%
+Nov 03 07:20;1C;few clouds;NW;13;85%
+Nov 03 06:50;2C;few clouds;NW;11;80%
+Nov 03 06:20;1C;few clouds;NW;13;85%
+Nov 03 05:50;1C;few clouds;NW;11;85%
+Nov 03 05:20;2C;few clouds;NW;13;80%
+Nov 03 04:50;0C;few clouds;NW;9;95%
+Nov 03 04:20;0C;few clouds;W;13;85%
+Nov 03 03:50;1C;few clouds;W;13;85%
+Nov 03 03:20;2C;few clouds;NW;11;80%
+Nov 03 02:50;2C;few clouds;NW;17;80%
+Nov 03 00:50;2C;few clouds;NW;17;75%
+Nov 03 00:20;4C;few clouds;N;28;70%
+Nov 02 23:50;4C;few clouds;N;28;65%
+Nov 02 23:20;4C;few clouds;N;33;70%
+Nov 02 22:50;4C;few clouds;N;33;70%
+Nov 02 22:20;4C;few clouds;N;33;70%
+Nov 02 21:50;4C;few clouds;N;33;70%
+Nov 02 21:20;4C;few clouds;N;37;70%
+Nov 02 20:50;4C;few clouds;N;41;70%
+Nov 02 20:20;4C;few clouds;N;33;65%
+Nov 02 19:50;4C;few clouds;N;39;70%
+Nov 02 19:20;4C;cloudy;N;37;75%
+Nov 02 18:50;3C;cloudy;NW;22;80%
+Nov 02 18:20;3C;clouds;NW;24;85%
+Nov 01 12:20;10C;cloudy;W;26;75%
+Nov 01 11:50;10C;cloudy;W;31;80%
+Nov 01 11:20;10C;clouds;W;26;80%
+Nov 01 10:50;10C;cloudy;W;28;85%
+Nov 01 10:20;11C;cloudy;NW;28;85%
+Nov 01 09:50;11C;cloudy;W;26;95%
+Nov 01 09:20;11C;drizzle;W;22;95%
+Nov 01 08:50;12C;cloudy;W;22;85%
+Nov 01 08:20;11C;few clouds;W;17;95%
+Nov 01 07:50;11C;cloudy haze;W;19;95%
+Nov 01 07:20;11C;drizzle;SW;19;95%
+Nov 01 06:50;11C;cloudy haze;SW;22;95%
+Nov 01 06:20;11C;cloudy haze;SW;24;95%
+Nov 01 05:50;11C;cloudy haze;SW;22;95%
+Nov 01 05:20;11C;overcast;SW;22;95%
+Nov 01 04:50;11C;light rain;SW;20;95%
+Nov 01 04:20;11C;light rain;SW;19;95%
+Nov 01 03:50;11C;light rain;SW;20;95%
+Nov 01 03:20;11C;overcast;SW;19;95%
+Nov 01 02:50;11C;overcast;SW;19;95%
+Nov 01 00:50;10C;light rain;SW;17;95%
+Nov 01 00:20;10C;light rain;SW;15;95%
+Oct 31 23:50;10C;light rain;SW;11;95%
+Oct 31 23:20;10C;light rain;SW;13;95%
+Oct 31 22:50;10C;light rain;SW;7;95%
+Oct 31 22:20;10C;overcast;SW;7;95%
+Oct 31 21:50;10C;overcast;SW;9;95%
+Oct 31 21:20;10C;overcast;W;6;95%
+Oct 31 20:50;10C;overcast;W;7;95%
+Oct 31 20:20;11C;overcast;W;7;95%
+Oct 31 19:50;11C;overcast;NW;13;95%
+Oct 31 19:20;11C;drizzle;W;9;95%
+Oct 31 18:50;11C;drizzle;W;9;95%
+Oct 31 18:20;11C;drizzle;W;9;95%
+Oct 31 17:50;11C;light rain;W;9;95%
+Oct 31 17:20;11C;drizzle;W;7;95%
+Oct 31 16:50;11C;drizzle;W;9;95%
+Oct 31 16:20;11C;drizzle;W;11;95%
+Oct 31 15:50;11C;drizzle;W;11;95%
+Oct 31 15:20;11C;drizzle;W;11;95%
+Oct 31 14:50;11C;drizzle;W;11;95%
+Oct 31 14:20;11C;drizzle;NW;13;95%
+Oct 31 13:50;11C;drizzle;W;15;95%
+Oct 31 13:20;11C;overcast;W;15;95%
+Oct 31 12:50;11C;overcast;NW;15;95%
+Oct 31 12:20;11C;cloudy;W;17;95%
+Oct 31 11:50;11C;cloudy;W;13;85%
+Oct 31 11:20;11C;cloudy;W;13;95%
+Oct 31 10:50;11C;few clouds;W;13;85%
+Oct 31 10:20;11C;few clouds;W;13;85%
+Oct 31 09:50;10C;clouds;W;7;95%
+Oct 31 09:20;9C;clouds;W;7;95%
+Oct 31 08:50;9C;clouds;W;7;95%
+Oct 31 08:20;9C;clouds;W;7;95%
+Oct 31 07:50;8C;cloudy;W;9;95%
+Oct 31 07:20;8C;clouds;W;11;95%
+Oct 31 06:50;8C;clouds;W;9;95%
+Oct 31 06:20;8C;clouds;W;9;85%
+Oct 31 05:50;7C;clouds;SW;7;95%
+Oct 31 05:20;7C;clouds;SW;7;95%
+Oct 31 04:50;7C;no or few clouds;W;7;95%
+Oct 31 04:20;7C;no or few clouds;W;6;95%
+Oct 31 03:50;7C;no or few clouds;W;7;85%
+Oct 31 03:20;6C;no or few clouds;W;4;95%
+Oct 31 02:50;6C;no or few clouds;W;6;95%
+Oct 31 00:50;5C;no or few clouds;W;2;95%
+Oct 31 00:20;5C;no or few clouds;W;2;95%
+Oct 30 23:50;6C;no or few clouds;W;7;95%
+Oct 30 23:20;7C;no or few clouds;W;9;95%
+Oct 30 22:50;6C;dry;W;6;95%
+Oct 30 22:20;6C;no or few clouds;W;6;95%
+Oct 30 21:50;6C;no or few clouds;W;7;95%
+Oct 30 21:20;6C;clouds;W;6;95%
+Oct 30 20:50;7C;few clouds;W;7;95%
+Oct 30 20:20;7C;no or few clouds;W;9;95%
+Oct 30 19:50;7C;no or few clouds;W;7;85%
+Oct 30 19:20;8C;no or few clouds;NW;6;80%
+Oct 30 18:50;8C;no or few clouds;NW;7;80%
+Oct 30 18:20;8C;no or few clouds;NW;7;75%
+Oct 30 17:50;8C;no or few clouds;NW;9;75%
+Oct 30 17:20;9C;no or few clouds;NW;9;70%
+Oct 30 16:50;9C;fair;NW;11;65%
+Oct 30 16:20;9C;fair;NW;9;65%
+Oct 30 15:50;10C;fair;NW;15;60%
+Oct 30 15:20;10C;fair;NW;13;60%
+Oct 30 14:50;10C;fair;N;13;60%
+Oct 30 14:20;10C;fair;NW;15;60%
+Oct 30 13:50;11C;fair;NW;17;55%
+Oct 30 13:20;11C;fair;NW;17;55%
+Oct 30 12:50;11C;fair;NW;17;60%
+Oct 30 12:20;11C;fair;NW;17;60%
+Oct 30 11:50;10C;few clouds;N;13;60%
+Oct 30 11:20;10C;fair;N;15;60%
+Oct 30 10:50;10C;fair;N;17;60%
+Oct 30 10:20;10C;fair;N;17;60%
+Oct 30 09:50;9C;fair;N;13;70%
+Oct 30 09:20;9C;fair;NW;13;70%
+Oct 30 08:50;7C;fair;NW;15;85%
+Oct 30 08:20;6C;fair;NW;11;95%
+Oct 30 07:50;6C;no or few clouds;NW;11;85%
+Oct 30 07:20;6C;no or few clouds;NW;11;85%
+Oct 30 06:50;5C;no or few clouds;NW;11;95%
+Oct 30 06:20;6C;no or few clouds;W;13;85%
+Oct 30 05:50;6C;no or few clouds;W;13;85%
+Oct 30 05:20;6C;no or few clouds;W;17;95%
+Oct 30 04:50;5C;no or few clouds;NW;11;95%
+Oct 30 04:20;6C;no or few clouds;W;13;95%
+Oct 30 03:00;6C;cloudless;W;13;90%
+Oct 30 02:50;6C;no or few clouds;NW;13;85%
+Oct 30 02:20;7C;no or few clouds;NW;13;85%
+Oct 30 01:50;7C;no or few clouds;NW;17;85%
+Oct 30 00:50;7C;no or few clouds;W;15;85%
+Oct 30 00:20;7C;dry;W;15;85%
+Oct 29 23:50;7C;no or few clouds;W;13;85%
+Oct 29 23:20;7C;no or few clouds;W;13;85%
+Oct 29 22:50;7C;no or few clouds;W;13;85%
+Oct 29 22:20;8C;few clouds;W;17;80%
+Oct 29 21:50;8C;few clouds;NW;17;75%
+Oct 29 21:20;8C;few clouds;NW;15;75%
+Oct 29 20:50;7C;few clouds;W;15;75%
+Oct 29 20:20;8C;few clouds;W;17;70%
+Oct 29 19:50;8C;few clouds;NW;15;70%
+Oct 29 19:20;9C;few clouds;NW;15;65%
+Oct 29 18:50;9C;few clouds;NW;24;65%
+Oct 29 18:20;9C;few clouds;NW;19;65%
+Oct 29 17:50;10C;few clouds;NW;19;65%
+Oct 29 17:20;10C;few clouds;NW;24;65%
+Oct 29 16:50;10C;few clouds;NW;26;65%
+Oct 29 16:20;10C;few clouds;NW;35;60%
+Oct 29 15:50;10C;few clouds;NW;30;60%
+Oct 29 15:20;10C;few clouds;NW;31;60%
+Oct 29 14:50;10C;few clouds;NW;30;55%
+Oct 29 14:25;10C;few clouds;NW;31;55%
+Oct 29 14:20;10C;few clouds;NW;35;55%
+Oct 29 13:50;11C;few clouds;NW;35;60%
+Oct 29 13:20;11C;few clouds;NW;41;60%
+Oct 29 12:50;11C;few clouds;NW;31;60%
+Oct 29 12:20;10C;few clouds;NW;35;60%
+Oct 29 11:50;11C;few clouds;NW;35;65%
+Oct 29 11:20;10C;few clouds;NW;31;70%
+Oct 29 10:50;10C;few clouds;NW;30;65%
+Oct 29 10:20;10C;few clouds;NW;30;70%
+Oct 29 09:50;10C;few clouds;NW;30;70%
+Oct 29 09:20;9C;few clouds;NW;26;70%
+Oct 29 08:50;9C;few clouds;NW;24;70%
+Oct 29 08:20;9C;few clouds;NW;26;70%
+Oct 29 07:50;9C;few clouds;W;30;75%
+Oct 29 07:20;9C;few clouds;W;26;75%
+Oct 29 06:50;9C;few clouds;W;28;75%
+Oct 29 06:20;9C;few clouds;W;26;75%
+Oct 29 05:50;9C;few clouds;W;30;75%
+Oct 29 05:20;9C;few clouds;W;30;75%
+Oct 29 04:50;9C;cloudy;W;30;75%
+Oct 29 04:20;9C;few clouds;W;30;75%
+Oct 29 03:50;9C;few clouds;W;31;75%
+Oct 29 03:20;9C;few clouds;W;28;75%
+Oct 29 02:50;9C;few clouds;W;33;75%
+Oct 29 02:20;9C;few clouds;W;33;75%
+Oct 29 01:50;9C;no or few clouds;W;31;75%
+Oct 29 00:50;9C;no or few clouds;W;30;75%
+Oct 29 00:20;9C;no or few clouds;W;28;80%
+Oct 28 23:50;9C;few clouds;W;30;75%
+Oct 28 23:20;9C;few clouds;W;30;75%
+Oct 28 22:50;9C;few clouds;W;31;75%
+Oct 28 22:20;9C;few clouds;W;33;75%
+Oct 28 21:50;9C;few clouds;W;31;75%
+Oct 28 21:20;9C;few clouds;W;30;70%
+Oct 28 20:50;9C;few clouds;W;24;80%
+Oct 28 20:20;10C;few clouds;W;24;70%
+Oct 28 19:50;10C;few clouds;W;22;70%
+Oct 28 19:20;9C;few clouds;W;22;75%
+Oct 28 18:50;10C;few clouds;W;20;70%
+Oct 28 18:20;10C;few clouds;W;26;70%
+Oct 28 17:50;10C;few clouds;W;26;70%
+Oct 28 17:20;11C;few clouds;W;31;65%
+Oct 28 16:50;11C;few clouds;W;31;65%
+Oct 28 16:20;12C;few clouds;W;31;60%
+Oct 28 15:50;12C;few clouds;W;31;65%
+Oct 28 15:20;12C;clouds;W;33;60%
+Oct 28 14:50;12C;few clouds;W;37;60%
+Oct 28 14:20;12C;few clouds;W;37;60%
+Oct 28 13:50;12C;few clouds;NW;33;60%
+Oct 28 13:20;12C;few clouds;W;41;60%
+Oct 28 12:50;12C;few clouds;NW;41;60%
+Oct 28 12:20;12C;few clouds;NW;41;60%
+Oct 28 11:50;12C;fair;NW;33;70%
+Oct 28 11:20;13C;clouds;NW;31;75%
+Oct 28 10:50;13C;drizzle;W;26;95%
+Oct 28 10:20;12C;cloudy;W;28;95%
+Oct 28 09:50;12C;drizzle;SW;28;95%
+Oct 28 09:20;12C;cloudy;SW;26;95%
+Oct 28 08:50;12C;drizzle;SW;24;95%
+Oct 28 08:20;12C;drizzle;SW;22;95%
+Oct 28 07:50;12C;cloudy;SW;24;95%
+Oct 28 07:20;12C;drizzle;SW;26;95%
+Oct 28 06:50;11C;drizzle;SW;28;95%
+Oct 28 06:20;12C;cloudy;SW;28;85%
+Oct 28 05:50;12C;clouds;SW;28;95%
+Oct 28 05:20;11C;rain;SW;30;95%
+Oct 28 04:50;11C;light rain;SW;26;95%
+Oct 28 04:20;11C;light rain;SW;28;95%
+Oct 28 03:50;11C;light rain;SW;30;95%
+Oct 28 03:20;11C;light rain;SW;30;95%
+Oct 28 02:50;11C;light rain;SW;33;95%
+Oct 28 02:20;11C;drizzle;SW;33;95%
+Oct 28 01:50;12C;cloudy;SW;33;85%
+Oct 28 00:50;12C;clouds;SW;31;85%
+Oct 28 00:20;12C;clouds;SW;30;95%
+Oct 27 23:50;12C;clouds;SW;30;85%
+Oct 27 23:20;12C;clouds;SW;30;95%
+Oct 27 22:50;12C;clouds;SW;28;95%
+Oct 27 22:20;12C;clouds;SW;22;95%
+Oct 27 21:50;11C;clouds;S;17;95%
+Oct 27 21:20;11C;clouds;SW;19;95%
+Oct 27 20:50;10C;few clouds;SW;20;95%
+Oct 27 20:20;11C;few clouds;SW;20;85%
+Oct 27 19:50;11C;clouds;SW;17;85%
+Oct 27 19:20;11C;few clouds;SW;17;85%
+Oct 27 18:50;11C;dry;SW;19;95%
+Oct 27 18:20;11C;cloudy;SW;15;95%
+Oct 27 17:50;12C;clouds;S;13;85%
+Oct 27 17:20;11C;cloudy;SW;11;85%
+Oct 27 16:50;12C;few clouds;SW;13;80%
+Oct 27 16:20;13C;few clouds;W;15;75%
+Oct 27 15:50;13C;few clouds;SW;17;75%
+Oct 27 15:20;14C;few clouds;W;20;70%
+Oct 27 14:50;14C;few clouds;W;22;70%
+Oct 27 14:20;14C;few clouds;W;20;75%
+Oct 27 13:50;14C;few clouds;W;17;75%
+Oct 27 13:20;14C;few clouds;W;19;75%
+Oct 27 12:50;14C;cloudy;W;20;80%
+Oct 27 12:20;13C;few clouds;W;20;90%
+Oct 27 11:50;13C;cloudy;W;19;90%
+Oct 27 11:20;12C;cloudy;W;19;95%
+Oct 27 10:50;12C;cloudy;W;19;95%
+Oct 27 10:20;11C;overcast haze;W;17;95%
+Oct 27 09:50;11C;overcast haze;W;17;95%
+Oct 27 09:20;11C;overcast haze;W;19;95%
+Oct 27 08:50;10C;overcast haze;W;22;95%
+Oct 27 08:20;10C;cloudy haze;W;20;95%
+Oct 27 07:50;10C;cloudy haze;W;20;95%
+Oct 27 07:20;10C;cloudy haze;W;22;95%
+Oct 27 06:50;9C;light rain;SW;20;95%
+Oct 27 06:20;9C;light rain;SW;20;95%
+Oct 27 05:50;9C;cloudy haze;SW;20;95%
+Oct 27 05:23;9C;cloudy haze;SW;17;95%
+Oct 27 04:50;8C;light rain;SW;19;95%
+Oct 27 04:20;8C;light rain;SW;20;95%
+Oct 27 03:50;8C;light rain;SW;19;95%
+Oct 27 03:20;8C;light rain;SW;19;95%
+Oct 27 02:50;8C;light rain;SW;22;85%
+Oct 27 02:20;8C;clouds;SW;22;85%
+Oct 27 01:50;8C;clouds;SW;20;85%
+Oct 27 00:50;8C;clouds haze;S;20;85%
+Oct 27 00:20;8C;clouds haze;SW;17;85%
+Oct 26 23:50;8C;cloudy;SW;20;85%
+Oct 26 23:20;8C;clouds;SW;22;85%
+Oct 26 22:50;8C;overcast;SW;20;85%
+Oct 26 22:20;8C;overcast;SW;20;85%
+Oct 26 22:00;7C;cloudy;SW;20;87%
+Oct 26 21:20;8C;overcast;SW;20;85%
+Oct 26 20:50;8C;clouds;SW;20;85%
+Oct 26 20:20;8C;clouds;SW;17;85%
+Oct 26 19:50;8C;no or few clouds;SW;15;85%
+Oct 26 19:20;8C;overcast;SW;13;85%
+Oct 26 18:50;8C;overcast;SW;13;85%
+Oct 26 18:20;8C;clouds;SW;15;80%
+Oct 26 17:50;8C;clouds;SW;15;80%
+Oct 26 17:20;8C;clouds;SW;13;80%
+Oct 26 16:50;9C;cloudy;SW;13;80%
+Oct 26 16:20;9C;cloudy;SW;13;80%
+Oct 26 15:50;9C;few clouds;SW;15;80%
+Oct 26 15:20;9C;few clouds;S;15;75%
+Oct 26 14:50;9C;few clouds;SW;11;75%
+Oct 26 14:20;9C;few clouds;SW;11;75%
+Oct 26 13:50;9C;few clouds;SW;9;75%
+Oct 26 13:20;9C;few clouds;SW;9;75%
+Oct 26 12:50;9C;few clouds;S;9;75%
+Oct 26 12:20;9C;few clouds;S;11;75%
+Oct 26 11:50;9C;few clouds;S;9;80%
+Oct 26 11:20;9C;clouds;S;6;80%
+Oct 26 10:50;8C;clouds;SW;4;85%
+Oct 26 10:20;7C;clouds;S;2;95%
+Oct 26 09:50;6C;fair;95%
+Oct 26 09:20;5C;fair;SW;2;95%
+Oct 26 08:50;5C;fair;W;2;95%
+Oct 26 08:20;5C;clouds;W;2;95%
+Oct 26 07:50;4C;clouds;SW;2;95%
+Oct 26 07:20;3C;overcast;SW;4;95%
+Oct 26 06:50;2C;clouds;S;4;95%
+Oct 26 06:20;4C;few clouds;SW;2;95%
+Oct 26 05:50;4C;no or few clouds;W;2;95%
+Oct 26 05:20;3C;few clouds;95%
+Oct 26 04:50;2C;few clouds;S;2;95%
+Oct 26 04:20;3C;few clouds;S;2;95%
+Oct 26 03:50;2C;few clouds;SW;2;95%
+Oct 26 03:20;2C;cloudy;95%
+Oct 26 02:50;2C;cloudy;NW;2;95%
+Oct 26 02:20;1C;few clouds;N;2;95%
+Oct 26 01:50;1C;no or few clouds;95%
+Oct 26 00:50;4C;no or few clouds;E;6;95%
+Oct 26 00:20;3C;no or few clouds;E;9;95%
+Oct 25 23:50;3C;no or few clouds;95%
+Oct 25 23:20;3C;no or few clouds;95%
+Oct 25 22:50;3C;no or few clouds;W;6;95%
+Oct 25 22:20;3C;no or few clouds;NW;6;95%
+Oct 25 21:50;4C;no or few clouds;NW;7;95%
+Oct 25 21:20;5C;no or few clouds;NW;7;85%
+Oct 25 20:50;6C;no or few clouds;NW;9;85%
+Oct 25 20:20;6C;no or few clouds;NW;9;85%
+Oct 25 19:50;6C;no or few clouds;NW;7;85%
+Oct 25 19:20;6C;no or few clouds;NW;11;80%
+Oct 25 18:50;6C;no or few clouds;NW;9;85%
+Oct 25 18:20;7C;no or few clouds;NW;11;80%
+Oct 25 17:50;7C;few clouds;N;11;80%
+Oct 25 17:20;8C;few clouds;N;17;75%
+Oct 25 16:50;9C;few clouds;N;17;75%
+Oct 25 16:20;9C;few clouds;N;17;75%
+Oct 25 15:50;9C;few clouds;N;17;80%
+Oct 25 15:20;9C;few clouds;N;15;80%
+Oct 25 14:50;9C;few clouds;N;13;80%
+Oct 25 14:20;8C;few clouds;N;11;80%
+Oct 25 14:00;8C;few clouds;N;13;85%
+Oct 25 13:50;8C;cloudy;N;15;80%
+Oct 25 13:20;8C;cloudy;N;13;85%
+Oct 25 12:50;8C;clouds;N;13;85%
+Oct 25 12:20;8C;clouds;N;11;85%
+Oct 25 11:50;8C;light showers;N;11;85%
+Oct 25 11:20;8C;light showers;N;11;85%
+Oct 25 10:50;7C;light showers;N;11;95%
+Oct 25 10:20;7C;light showers;NE;15;95%
+Oct 25 09:50;8C;light showers;NE;13;95%
+Oct 25 09:20;8C;light showers;NE;11;85%
+Oct 25 08:50;8C;cloudy;NE;11;85%
+Oct 25 08:20;8C;cloudy;NE;13;85%
+Oct 25 07:50;8C;cloudy;NE;13;95%
+Oct 25 07:20;8C;cloudy;NE;13;95%
+Oct 25 06:50;8C;cloudy;NE;13;95%
+Oct 25 06:20;8C;cloudy;NE;13;95%
+Oct 25 05:50;8C;cloudy;NE;13;95%
+Oct 25 05:20;8C;cloudy;NE;13;95%
+Oct 25 04:50;8C;cloudy;NE;13;95%
+Oct 25 04:20;8C;cloudy;NE;15;95%
+Oct 25 03:50;8C;clouds;NE;15;95%
+Oct 25 03:20;8C;clouds;NE;15;95%
+Oct 25 02:50;8C;clouds;NE;13;95%
+Oct 25 02:20;8C;cloudy;NE;13;95%
+Oct 25 01:50;8C;cloudy;NE;9;95%
+Oct 25 00:50;7C;clouds;NE;11;95%
+Oct 25 00:20;8C;clouds;NE;13;95%
+Oct 24 23:50;8C;clouds;NE;13;95%
+Oct 24 23:20;8C;clouds;NE;11;95%
+Oct 24 22:50;8C;no or few clouds;NE;13;95%
+Oct 24 22:20;8C;no or few clouds;NE;9;95%
+Oct 24 21:50;8C;no or few clouds;NE;13;95%
+Oct 24 21:20;7C;no or few clouds;NE;9;95%
+Oct 24 20:50;8C;dry;NE;11;95%
+Oct 24 20:20;8C;no or few clouds;NE;11;85%
+Oct 24 19:50;8C;clouds;NE;11;95%
+Oct 24 19:20;8C;few clouds;NE;13;85%
+Oct 24 18:50;8C;few clouds;NE;15;85%
+Oct 24 18:20;8C;few clouds;NE;13;85%
+Oct 24 17:50;9C;cloudy;NE;17;80%
+Oct 24 17:20;9C;cloudy;NE;17;80%
+Oct 24 16:50;9C;few clouds;N;17;80%
+Oct 24 16:20;9C;few clouds;N;15;80%
+Oct 24 15:50;9C;few clouds;N;15;80%
+Oct 24 15:20;9C;few clouds;NE;13;80%
+Oct 24 14:50;9C;few clouds;NE;15;80%
+Oct 24 14:20;10C;few clouds;NE;15;80%
+Oct 24 13:50;10C;few clouds;NE;11;80%
+Oct 24 13:20;10C;fair;NE;13;80%
+Oct 24 12:50;9C;fair;NE;13;85%
+Oct 24 12:20;9C;fair;NE;13;80%
+Oct 24 11:50;9C;fair;NE;15;85%
+Oct 24 11:20;8C;fair;NE;17;85%
+Oct 24 10:50;8C;fair;NE;17;85%
+Oct 24 10:20;8C;fair;NE;17;85%
+Oct 24 09:50;8C;clouds;NE;13;85%
+Oct 24 09:20;8C;clouds;E;9;95%
+Oct 24 08:50;8C;clouds;E;11;95%
+Oct 24 08:20;7C;clouds;E;13;95%
+Oct 24 07:50;7C;clouds;E;15;95%
+Oct 24 07:20;8C;clouds;E;17;95%
+Oct 24 07:00;7C;cloudy;NE;15;94%
+Oct 24 06:50;7C;clouds;NE;17;95%
+Oct 24 06:20;7C;clouds;NE;15;95%
+Oct 24 05:50;8C;drizzle;E;15;80%
+Oct 24 05:20;7C;clouds;E;19;85%
+Oct 24 04:50;7C;clouds;E;13;95%
+Oct 24 04:20;7C;light showers;E;17;95%
+Oct 24 03:50;7C;cloudy;E;19;95%
+Oct 24 03:20;7C;clouds;NE;17;95%
+Oct 24 02:50;7C;clouds;NE;19;95%
+Oct 24 02:20;7C;light showers;NE;15;95%
+Oct 24 02:00;7C;cloudy;E;15;93%
+Oct 24 01:50;7C;cloudy;NE;17;95%
+Oct 24 00:50;7C;light showers;E;9;95%
+Oct 24 00:20;8C;light rain;E;17;85%
+Oct 23 23:50;7C;clouds;E;13;95%
+Oct 23 23:20;8C;clouds;E;13;85%
+Oct 23 23:00;7C;cloudy;E;15;88%
+Oct 23 22:50;8C;light showers;E;15;85%
+Oct 23 22:20;8C;light showers;E;13;80%
+Oct 23 21:50;7C;light showers;E;13;95%
+Oct 23 21:20;8C;clouds;E;6;75%
+Oct 23 20:50;8C;light showers;SE;9;80%
+Oct 23 20:20;8C;clouds;SE;22;80%
+Oct 23 19:50;8C;clouds;E;11;85%
+Oct 23 19:20;8C;clouds;E;9;80%
+Oct 23 18:50;9C;clouds;SE;9;75%
+Oct 23 18:20;8C;clouds;SE;11;80%
+Oct 23 17:50;8C;light showers;SE;17;75%
+Oct 23 17:20;9C;clouds;SE;19;80%
+Oct 23 16:50;9C;clouds;SE;11;75%
+Oct 23 16:20;9C;clouds;SE;15;80%
+Oct 23 15:50;9C;light showers;SE;9;75%
+Oct 23 15:20;8C;light showers;SE;19;85%
+Oct 23 14:50;9C;clouds;SE;19;85%
+Oct 23 14:35;9C;clouds;SE;13;85%
+Oct 23 14:20;9C;light showers;SE;7;85%
+Oct 23 14:00;8C;cloudy;E;7;87%
+Oct 23 13:50;8C;light showers;E;7;95%
+Oct 23 13:20;8C;clouds;E;7;85%
+Oct 23 12:50;8C;clouds;E;7;95%
+Oct 23 12:20;8C;clouds;E;9;95%
+Oct 23 11:50;7C;cloudy;E;9;95%
+Oct 23 11:20;7C;cloudy;E;11;95%
+Oct 23 10:50;7C;light rain;E;9;85%
+Oct 23 10:20;7C;light rain;E;11;85%
+Oct 23 09:50;6C;cloudy;E;11;95%
+Oct 23 09:20;6C;cloudy;NE;9;95%
+Oct 23 08:50;6C;cloudy;NE;11;95%
+Oct 23 08:20;6C;cloudy;E;9;95%
+Oct 23 07:50;6C;cloudy;NE;11;95%
+Oct 23 07:20;6C;cloudy;NE;13;85%
+Oct 23 06:50;6C;cloudy;NE;15;85%
+Oct 23 06:20;6C;cloudy;NE;15;85%
+Oct 23 05:50;6C;cloudy;NE;13;85%
+Oct 23 05:20;6C;cloudy;NE;13;95%
+Oct 23 04:50;6C;cloudy;E;17;95%
+Oct 23 04:20;6C;cloudy;E;19;95%
+Oct 23 03:50;6C;cloudy;E;19;95%
+Oct 23 03:20;6C;cloudy;E;20;95%
+Oct 23 02:50;6C;cloudy;E;22;95%
+Oct 23 02:20;7C;cloudy;E;20;85%
+Oct 23 01:50;7C;cloudy;E;26;85%
+Oct 23 00:50;7C;light showers;E;24;95%
+Oct 23 00:20;8C;cloudy;E;28;85%
+Oct 22 23:50;8C;cloudy;NE;24;95%
+Oct 22 23:20;8C;clouds;NE;19;95%
+Oct 22 22:50;8C;few clouds;E;15;95%
+Oct 22 22:20;8C;clouds;NE;13;95%
+Oct 22 21:50;8C;few clouds;E;11;95%
+Oct 22 21:20;8C;few clouds;E;11;95%
+Oct 22 20:50;8C;clouds;E;15;95%
+Oct 22 20:20;8C;clouds;E;15;95%
+Oct 22 19:50;8C;clouds;E;15;95%
+Oct 22 19:20;8C;clouds;E;15;95%
+Oct 22 18:50;8C;light showers;NE;17;85%
+Oct 22 18:20;7C;clouds;NE;19;95%
+Oct 22 17:50;7C;cloudy;NE;17;95%
+Oct 22 17:20;7C;light rain;NE;24;95%
+Oct 22 16:50;7C;cloudy;NE;24;95%
+Oct 22 16:20;7C;cloudy;NE;22;95%
+Oct 22 15:50;6C;cloudy;NE;22;95%
+Oct 22 15:20;6C;light rain;NE;20;95%
+Oct 22 14:50;6C;light rain;NE;20;95%
+Oct 22 14:20;6C;light rain;NE;20;85%
+Oct 22 13:50;6C;light rain;NE;22;85%
+Oct 22 13:20;5C;light rain;NE;24;95%
+Oct 22 12:50;5C;light rain;NE;22;85%
+Oct 22 12:20;5C;drizzle;NE;22;95%
+Oct 22 12:00;4C;overcast;NE;24;89%
+Oct 22 11:50;5C;drizzle;NE;22;85%
+Oct 22 11:20;5C;cloudy;NE;22;85%
+Oct 22 10:50;5C;cloudy;NE;22;85%
+Oct 22 10:20;5C;cloudy;NE;24;85%
+Oct 22 09:50;5C;light rain;NE;24;85%
+Oct 22 09:20;5C;light rain;NE;24;95%
+Oct 22 08:50;5C;light rain;NE;26;95%
+Oct 22 08:20;6C;light rain;NE;24;85%
+Oct 22 07:50;6C;light rain;NE;20;85%
+Oct 22 07:20;7C;cloudy;NE;24;80%
+Oct 22 06:50;7C;cloudy;NE;26;80%
+Oct 22 06:20;7C;cloudy;NE;22;85%
+Oct 22 05:50;7C;cloudy;NE;24;85%
+Oct 22 05:20;7C;cloudy;NE;22;85%
+Oct 22 04:50;7C;cloudy;NE;22;85%
+Oct 22 04:20;7C;cloudy;NE;20;85%
+Oct 22 03:50;8C;cloudy;NE;20;85%
+Oct 22 03:20;8C;cloudy;NE;22;85%
+Oct 22 02:50;8C;drizzle;NE;22;85%
+Oct 22 02:20;8C;drizzle;NE;19;85%
+Oct 22 01:50;8C;drizzle;NE;20;85%
+Oct 22 00:50;8C;clouds;NE;24;95%
+Oct 22 00:20;8C;clouds;NE;26;85%
+Oct 21 23:50;8C;clouds;NE;26;85%
+Oct 21 23:20;8C;clouds;NE;28;95%
+Oct 21 22:50;8C;cloudy;E;22;95%
+Oct 21 22:20;8C;cloudy;NE;19;95%
+Oct 21 21:50;8C;cloudy;NE;22;95%
+Oct 21 21:20;8C;cloudy;NE;20;95%
+Oct 21 20:50;8C;cloudy;NE;20;95%
+Oct 21 20:20;8C;clouds;NE;22;95%
+Oct 21 19:50;8C;rain;NE;24;95%
+Oct 21 19:20;8C;light rain;NE;26;95%
+Oct 21 19:00;8C;cloudy;NE;22;93%
+Oct 21 18:50;8C;light rain;NE;22;95%
+Oct 21 17:20;8C;cloudy;NE;24;95%
+Oct 21 16:50;8C;light rain;NE;22;95%
+Oct 21 16:20;8C;light rain;NE;22;95%
+Oct 21 15:50;8C;rain;E;24;95%
+Oct 21 15:20;9C;light rain;E;28;85%
+Oct 21 14:50;8C;rain;E;24;95%
+Oct 21 14:20;9C;light rain;E;24;85%
+Oct 21 13:50;9C;light rain;E;26;85%
+Oct 21 13:20;9C;light rain;E;26;85%
+Oct 21 12:50;9C;light rain;E;24;85%
+Oct 21 12:20;9C;drizzle;E;30;85%
+Oct 21 11:50;9C;light rain;E;28;85%
+Oct 21 11:20;9C;light rain;E;26;85%
+Oct 21 10:50;9C;light rain;E;24;85%
+Oct 21 10:20;9C;light rain;E;26;85%
+Oct 21 09:50;9C;light rain;E;26;85%
+Oct 21 09:20;8C;light rain;E;26;95%
+Oct 21 08:50;9C;light rain;NE;28;80%
+Oct 21 08:20;9C;light rain;NE;26;85%
+Oct 21 07:50;9C;light rain;NE;26;85%
+Oct 21 07:20;9C;light rain;E;28;85%
+Oct 21 06:50;9C;light rain;E;24;85%
+Oct 21 06:20;9C;light rain;E;20;95%
+Oct 21 05:50;9C;rain;E;26;85%
+Oct 21 05:20;9C;rain;NE;28;95%
+Oct 21 04:50;9C;rain;NE;28;95%
+Oct 21 04:20;9C;light rain;NE;33;95%
+Oct 21 04:00;9C;overcast;N;33;92%
+Oct 21 03:50;9C;light rain;NE;31;95%
+Oct 21 03:20;9C;light rain;N;33;95%
+Oct 21 02:50;9C;light rain;N;28;95%
+Oct 21 02:20;9C;light rain;N;26;95%
+Oct 21 01:50;9C;light rain;NE;22;95%
+Oct 21 00:50;9C;light rain;NE;17;95%
+Oct 21 00:20;9C;drizzle;NE;13;95%
+Oct 20 23:50;9C;drizzle;NE;20;95%
+Oct 20 23:20;9C;drizzle;NE;15;95%
+Oct 20 22:50;9C;no or few clouds;NE;17;85%
+Oct 20 22:20;9C;clouds;NE;15;85%
+Oct 20 21:50;9C;clouds;E;15;85%
+Oct 20 21:20;9C;few clouds;E;19;85%
+Oct 20 20:50;9C;few clouds;E;17;85%
+Oct 20 20:20;9C;no or few clouds;E;17;85%
+Oct 20 19:50;10C;no or few clouds;E;15;80%
+Oct 20 19:20;10C;no or few clouds;E;15;80%
+Oct 20 18:50;10C;no or few clouds;E;15;80%
+Oct 20 18:20;10C;no or few clouds;E;15;75%
+Oct 20 17:50;10C;few clouds;NE;13;80%
+Oct 20 17:20;11C;few clouds;E;11;70%
+Oct 20 16:50;11C;few clouds;E;13;75%
+Oct 20 16:20;12C;clouds;E;15;65%
+Oct 20 15:50;12C;few clouds;E;13;65%
+Oct 20 15:20;12C;few clouds;E;15;65%
+Oct 20 14:50;12C;few clouds;E;15;70%
+Oct 20 14:20;12C;few clouds;E;17;70%
+Oct 20 13:50;12C;few clouds;E;17;70%
+Oct 20 13:20;12C;few clouds;E;17;75%
+Oct 20 12:50;11C;few clouds;E;15;80%
+Oct 20 12:20;11C;few clouds;NE;17;75%
+Oct 20 11:50;11C;few clouds;E;15;75%
+Oct 20 11:20;11C;clouds;E;11;80%
+Oct 20 10:50;10C;few clouds;E;17;80%
+Oct 20 10:20;9C;few clouds;E;13;85%
+Oct 20 09:50;9C;few clouds;E;15;85%
+Oct 20 09:20;9C;few clouds;E;17;85%
+Oct 20 08:50;9C;few clouds;E;17;85%
+Oct 20 08:20;8C;few clouds;E;15;95%
+Oct 20 07:50;8C;few clouds;E;15;95%
+Oct 20 07:20;9C;few clouds;E;15;85%
+Oct 20 06:50;8C;no or few clouds;E;13;95%
+Oct 20 06:20;9C;few clouds;E;13;85%
+Oct 20 05:50;9C;few clouds;E;13;85%
+Oct 20 05:20;9C;clouds;E;11;95%
+Oct 20 04:50;9C;few clouds;E;11;95%
+Oct 20 04:20;10C;clouds;SE;15;80%
+Oct 20 03:50;9C;clouds;SE;20;95%
+Oct 20 03:20;10C;cloudy;SE;24;85%
+Oct 20 02:50;10C;clouds;E;24;85%
+Oct 20 02:20;10C;clouds;E;24;95%
+Oct 20 01:50;10C;clouds;E;22;95%
+Oct 20 00:50;10C;drizzle;E;15;95%
+Oct 20 00:20;10C;cloudy;NE;15;95%
+Oct 19 23:50;10C;drizzle;E;17;95%
+Oct 19 23:20;10C;light rain;NE;24;95%
+Oct 19 22:50;10C;light rain;NE;28;95%
+Oct 19 22:20;10C;light rain;NE;30;95%
+Oct 19 21:50;10C;light rain;NE;26;95%
+Oct 19 21:20;10C;rain;NE;26;95%
+Oct 19 20:50;10C;light rain;NE;22;95%
+Oct 19 20:20;10C;light rain;NE;22;95%
+Oct 19 19:50;10C;cloudy;NE;24;85%
+Oct 19 19:20;10C;light rain;NE;20;95%
+Oct 19 18:50;10C;cloudy;NE;19;95%
+Oct 19 18:20;11C;cloudy;NE;22;85%
+Oct 19 17:50;11C;cloudy;NE;20;85%
+Oct 19 17:20;11C;cloudy;E;22;85%
+Oct 19 16:50;11C;cloudy;E;26;85%
+Oct 19 16:20;10C;cloudy;E;26;95%
+Oct 19 15:50;11C;cloudy haze;E;24;95%
+Oct 19 15:20;10C;light rain;E;22;95%
+Oct 19 14:50;11C;cloudy haze;E;22;85%
+Oct 19 14:41;11C;cloudy haze;E;19;95%
+Oct 19 14:20;11C;overcast haze;E;22;85%
+Oct 19 13:50;11C;overcast haze;E;24;85%
+Oct 19 13:20;11C;overcast haze;E;22;95%
+Oct 19 13:00;10C;cloudy;E;24;93%
+Oct 19 12:50;10C;light rain;E;22;95%
+Oct 19 12:20;10C;light rain;E;22;95%
+Oct 19 11:50;11C;drizzle;E;22;95%
+Oct 19 11:20;11C;drizzle;E;17;95%
+Oct 19 10:50;10C;overcast haze;E;15;95%
+Oct 19 10:20;11C;overcast haze;E;11;95%
+Oct 19 09:50;10C;drizzle;SE;13;95%
+Oct 19 09:20;10C;drizzle;E;11;95%
+Oct 19 08:50;10C;overcast haze;E;13;95%
+Oct 19 08:20;10C;overcast haze;E;13;95%
+Oct 19 07:50;10C;overcast;E;17;95%
+Oct 19 07:20;10C;overcast;E;17;95%
+Oct 19 06:50;10C;cloudy;E;17;95%
+Oct 19 06:20;10C;cloudy;E;17;95%
+Oct 19 05:50;10C;cloudy;SE;19;95%
+Oct 19 05:20;10C;cloudy;E;22;95%
+Oct 19 05:00;10C;cloudy;E;19;93%
+Oct 19 04:50;10C;cloudy;E;19;95%
+Oct 19 04:20;10C;cloudy;E;15;95%
+Oct 19 03:50;10C;cloudy;SE;20;95%
+Oct 19 03:20;10C;cloudy;SE;20;95%
+Oct 19 02:50;11C;cloudy;SE;20;95%
+Oct 19 02:20;11C;clouds;SE;19;95%
+Oct 19 01:50;11C;cloudy haze;SE;19;95%
+Oct 19 00:50;11C;cloudy haze;SE;17;95%
+Oct 19 00:20;11C;cloudy haze;SE;15;95%
+Oct 18 23:50;11C;cloudy;SE;17;95%
+Oct 18 23:20;11C;cloudy;SE;19;95%
+Oct 18 22:50;11C;cloudy haze;S;17;95%
+Oct 18 22:20;11C;cloudy haze;SE;11;95%
+Oct 18 22:00;10C;cloudy;SE;13;99%
+Oct 18 21:50;11C;cloudy haze;SE;17;95%
+Oct 18 21:20;11C;drizzle;SE;19;95%
+Oct 18 20:50;10C;drizzle;SE;19;95%
+Oct 18 20:20;10C;drizzle;SE;19;95%
+Oct 18 19:50;10C;drizzle;SE;17;95%
+Oct 18 19:20;10C;drizzle;SE;19;95%
+Oct 18 18:50;10C;overcast haze;SE;17;95%
+Oct 18 18:20;10C;overcast haze;SE;19;95%
+Oct 18 17:50;10C;overcast haze;SE;17;95%
+Oct 18 17:20;10C;cloudy haze;SE;15;95%
+Oct 18 16:50;10C;cloudy;SE;17;95%
+Oct 18 16:20;10C;cloudy;SE;15;95%
+Oct 18 15:50;10C;cloudy;SE;13;95%
+Oct 18 15:20;10C;cloudy;SE;13;95%
+Oct 18 14:50;10C;cloudy haze;SE;13;95%
+Oct 18 14:20;10C;cloudy haze;SE;13;95%
+Oct 18 13:50;10C;light rain;SE;13;95%
+Oct 18 13:20;10C;light rain;SE;13;95%
+Oct 18 12:50;10C;cloudy;SE;13;95%
+Oct 18 12:20;9C;cloudy haze;SE;13;95%
+Oct 18 11:50;9C;cloudy haze;S;15;95%
+Oct 18 11:20;9C;cloudy haze;SE;17;95%
+Oct 18 10:50;9C;cloudy haze;SE;17;95%
+Oct 18 10:20;9C;light rain;SE;13;95%
+Oct 18 09:50;9C;light rain;SE;13;95%
+Oct 18 09:20;9C;light rain;SE;15;95%
+Oct 18 08:50;9C;light rain;SE;13;95%
+Oct 18 08:20;9C;overcast haze;SE;17;95%
+Oct 18 07:50;9C;overcast haze;SE;13;95%
+Oct 18 07:20;9C;overcast haze;SE;13;95%
+Oct 18 06:50;9C;overcast haze;SE;13;95%
+Oct 18 06:20;9C;overcast haze;S;15;95%
+Oct 18 05:50;8C;overcast haze;S;15;95%
+Oct 18 05:20;8C;overcast haze;SE;15;95%
+Oct 18 04:50;8C;overcast haze;S;15;95%
+Oct 18 04:20;8C;overcast haze;S;15;95%
+Oct 18 03:50;9C;overcast haze;SE;17;85%
+Oct 18 03:20;9C;overcast haze;SE;17;95%
+Oct 18 02:50;9C;overcast;SE;17;85%
+Oct 18 02:20;9C;overcast;S;15;85%
+Oct 18 01:50;9C;overcast;S;19;85%
+Oct 18 00:52;9C;overcast haze;SE;24;95%
+Oct 18 00:20;9C;overcast;SE;24;95%
+Oct 17 23:50;9C;overcast;SE;20;85%
+Oct 17 23:20;9C;overcast;SE;22;85%
+Oct 17 22:20;9C;overcast;SE;24;85%
+Oct 17 21:50;9C;overcast;SE;24;85%
+Oct 17 21:20;9C;overcast;SE;26;85%
+Oct 17 20:50;9C;overcast;SE;26;85%
+Oct 17 20:20;9C;overcast;SE;26;85%
+Oct 17 19:50;9C;overcast;SE;26;85%
+Oct 17 19:20;9C;overcast;SE;26;85%
+Oct 17 18:50;9C;overcast;SE;26;85%
+Oct 17 18:20;9C;overcast;SE;26;85%
+Oct 17 18:00;9C;overcast;SE;28;87%
+Oct 17 17:50;9C;overcast;SE;28;85%
+Oct 17 17:20;9C;overcast;SE;26;85%
+Oct 17 16:50;9C;overcast;SE;30;85%
+Oct 17 16:20;9C;overcast;SE;31;85%
+Oct 17 15:50;9C;overcast;SE;31;85%
+Oct 17 15:20;9C;overcast;SE;30;85%
+Oct 17 14:50;9C;overcast;SE;30;85%
+Oct 17 14:20;9C;overcast;SE;30;85%
+Oct 17 13:50;10C;overcast;SE;28;80%
+Oct 17 13:20;10C;overcast;SE;30;85%
+Oct 17 12:50;10C;overcast;SE;26;85%
+Oct 17 12:20;10C;overcast;SE;28;85%
+Oct 17 11:50;10C;overcast;SE;30;85%
+Oct 17 11:20;10C;overcast;SE;28;85%
+Oct 17 10:50;10C;overcast;SE;31;85%
+Oct 17 10:20;10C;overcast;SE;26;85%
+Oct 17 09:50;10C;overcast;SE;26;85%
+Oct 17 09:20;10C;overcast;SE;28;85%
+Oct 17 08:50;10C;overcast;SE;30;85%
+Oct 17 08:20;10C;overcast;SE;28;85%
+Oct 17 07:50;10C;overcast;SE;28;85%
+Oct 17 07:20;10C;overcast;SE;26;85%
+Oct 17 07:00;9C;cloudy;SE;26;92%
+Oct 17 06:50;9C;overcast;SE;24;95%
+Oct 17 06:20;9C;overcast;SE;26;95%
+Oct 17 05:50;9C;overcast;SE;28;95%
+Oct 17 05:20;9C;overcast;SE;22;95%
+Oct 17 04:50;9C;overcast;SE;22;95%
+Oct 17 04:20;9C;overcast;SE;22;95%
+Oct 17 03:50;9C;overcast;SE;22;95%
+Oct 17 03:20;9C;overcast;SE;22;95%
+Oct 17 02:50;9C;overcast;SE;22;95%
+Oct 17 02:20;9C;overcast;SE;22;95%
+Oct 17 01:50;9C;overcast;SE;22;85%
+Oct 17 00:50;9C;overcast;SE;22;85%
+Oct 17 00:20;9C;overcast;SE;24;85%
+Oct 16 23:50;9C;overcast;SE;26;85%
+Oct 16 23:20;9C;overcast;SE;24;85%
+Oct 16 23:00;8C;overcast;SE;26;90%
+Oct 16 22:50;9C;overcast;SE;24;85%
+Oct 16 22:20;9C;cloudy;SE;20;85%
+Oct 16 21:50;9C;cloudy;SE;20;85%
+Oct 16 21:20;9C;cloudy;E;20;85%
+Oct 16 20:20;8C;drizzle;E;20;95%
+Oct 16 19:50;8C;drizzle;E;22;95%
+Oct 16 19:20;8C;drizzle;E;22;95%
+Oct 16 18:50;8C;cloudy;E;20;95%
+Oct 16 18:20;8C;drizzle;E;19;95%
+Oct 16 18:00;7C;overcast;E;19;94%
+Oct 16 17:50;8C;drizzle;E;19;95%
+Oct 16 17:20;8C;cloudy;E;19;95%
+Oct 16 16:50;8C;cloudy;E;20;95%
+Oct 16 16:20;8C;cloudy;E;22;95%
+Oct 16 15:50;8C;cloudy;E;20;95%
+Oct 16 15:20;8C;cloudy;E;22;95%
+Oct 16 14:50;8C;cloudy;E;20;95%
+Oct 16 14:20;8C;overcast;E;20;95%
+Oct 16 13:50;8C;light rain;E;20;95%
+Oct 16 13:20;8C;light rain;E;20;95%
+Oct 16 12:50;8C;light rain;E;24;95%
+Oct 16 12:20;8C;light rain;E;22;95%
+Oct 16 11:50;8C;light rain;E;24;95%
+Oct 16 11:20;8C;light rain;E;22;85%
+Oct 16 10:50;8C;light rain;E;20;85%
+Oct 16 10:20;8C;cloudy;E;24;85%
+Oct 16 10:00;7C;overcast;E;22;90%
+Oct 16 09:50;8C;light rain;E;24;85%
+Oct 16 09:20;8C;light rain;E;22;85%
+Oct 16 08:50;8C;light rain;E;22;85%
+Oct 16 08:20;8C;cloudy;E;22;85%
+Oct 16 07:50;8C;cloudy;E;22;85%
+Oct 16 07:20;8C;light rain;E;24;85%
+Oct 16 06:20;8C;light rain;E;20;95%
+Oct 16 05:50;8C;light rain;E;24;95%
+Oct 16 05:20;8C;light rain;E;22;95%
+Oct 16 05:00;8C;overcast;E;24;90%
+Oct 16 04:50;8C;light rain;E;26;95%
+Oct 16 04:20;8C;light rain;E;24;95%
+Oct 16 03:50;8C;light rain;E;26;95%
+Oct 16 03:20;8C;light rain;E;26;95%
+Oct 16 02:50;8C;light rain;E;24;95%
+Oct 16 02:20;8C;light rain;E;24;95%
+Oct 16 01:50;8C;light rain;E;24;95%
+Oct 16 00:50;8C;light rain;E;30;95%
+Oct 16 00:20;8C;light rain;E;28;95%
+Oct 15 23:50;9C;light rain;E;26;85%
+Oct 15 23:20;9C;light rain;E;24;85%
+Oct 15 22:50;9C;light rain;E;28;85%
+Oct 15 22:20;9C;light rain;E;24;85%
+Oct 15 21:50;9C;light rain;E;28;85%
+Oct 15 21:20;9C;light rain;E;28;85%
+Oct 15 20:50;9C;drizzle;E;28;85%
+Oct 15 20:20;9C;light rain;E;28;85%
+Oct 15 19:50;9C;light rain;E;28;85%
+Oct 15 19:20;9C;light rain;E;33;85%
+Oct 15 18:50;9C;drizzle;E;30;85%
+Oct 15 18:20;10C;drizzle;E;37;75%
+Oct 15 17:50;10C;cloudy;E;41;75%
+Oct 15 17:20;10C;cloudy;E;37;75%
+Oct 15 16:50;10C;cloudy;E;33;75%
+Oct 15 16:20;10C;cloudy;E;28;75%
+Oct 15 15:50;10C;cloudy;E;35;75%
+Oct 15 15:20;10C;cloudy;E;41;75%
+Oct 15 14:50;11C;few clouds;E;41;70%
+Oct 15 14:20;11C;few clouds;E;44;65%
+Oct 15 13:50;11C;few clouds;E;39;65%
+Oct 15 13:20;11C;few clouds;E;43;70%
+Oct 15 12:50;11C;few clouds;E;44;70%
+Oct 15 12:20;11C;few clouds;E;41;70%
+Oct 15 11:50;11C;few clouds;E;39;70%
+Oct 15 11:20;11C;few clouds;E;44;70%
+Oct 15 10:50;11C;few clouds;E;43;70%
+Oct 15 10:20;11C;few clouds;E;41;70%
+Oct 15 10:00;10C;nearly cloudless;E;41;76%
+Oct 15 09:50;10C;few clouds;E;43;75%
+Oct 15 09:20;10C;few clouds;E;43;75%
+Oct 15 08:50;10C;clouds;E;39;75%
+Oct 15 08:20;10C;clouds;E;41;75%
+Oct 15 07:50;10C;few clouds;E;39;75%
+Oct 15 07:20;10C;few clouds;E;39;75%
+Oct 15 06:50;10C;few clouds;E;41;75%
+Oct 15 06:20;10C;few clouds;E;43;75%
+Oct 15 05:50;9C;few clouds;E;39;80%
+Oct 15 05:20;10C;few clouds;E;35;75%
+Oct 15 04:50;9C;few clouds;E;33;80%
+Oct 15 04:20;10C;few clouds;E;41;75%
+Oct 15 03:50;9C;few clouds;E;33;80%
+Oct 15 03:20;10C;few clouds;E;31;75%
+Oct 15 02:50;10C;few clouds;E;30;75%
+Oct 15 02:20;10C;cloudy;E;33;75%
+Oct 15 01:50;10C;cloudy;E;33;75%
+Oct 15 00:50;10C;few clouds;E;31;75%
+Oct 15 00:20;10C;few clouds;E;31;75%
+Oct 14 23:50;10C;few clouds;E;31;75%
+Oct 14 23:20;10C;few clouds;E;31;75%
+Oct 14 22:50;10C;few clouds;E;33;80%
+Oct 14 22:20;10C;few clouds;E;31;75%
+Oct 14 21:50;10C;few clouds;E;35;75%
+Oct 14 21:20;10C;no or few clouds;E;39;75%
+Oct 14 21:00;9C;cloudy;E;35;78%
+Oct 14 20:50;10C;clouds;E;37;75%
+Oct 14 20:20;10C;no or few clouds;E;37;75%
+Oct 14 19:50;10C;clouds;E;39;75%
+Oct 14 19:20;10C;clouds;E;35;75%
+Oct 14 18:50;10C;clouds;E;33;75%
+Oct 14 18:20;10C;few clouds;E;39;75%
+Oct 14 17:50;10C;few clouds;E;35;75%
+Oct 14 17:20;11C;few clouds;E;35;65%
+Oct 14 16:50;11C;few clouds;E;39;70%
+Oct 14 16:20;11C;few clouds;E;31;65%
+Oct 14 15:50;11C;few clouds;E;33;65%
+Oct 14 15:20;11C;few clouds;E;33;60%
+Oct 14 14:50;11C;few clouds;E;33;65%
+Oct 14 14:20;11C;few clouds;E;33;65%
+Oct 14 13:50;11C;few clouds;E;35;60%
+Oct 14 13:20;11C;few clouds;E;33;65%
+Oct 14 12:50;11C;few clouds;E;37;60%
+Oct 14 12:20;11C;few clouds;E;41;65%
+Oct 14 11:50;11C;few clouds;E;35;70%
+Oct 14 11:20;11C;few clouds;E;35;70%
+Oct 14 10:50;10C;few clouds;E;35;75%
+Oct 14 10:20;10C;few clouds;E;33;75%
+Oct 14 09:50;10C;few clouds;E;30;75%
+Oct 14 09:20;10C;few clouds;E;30;75%
+Oct 14 08:50;9C;few clouds;E;30;80%
+Oct 14 08:20;9C;few clouds;E;24;80%
+Oct 14 07:50;9C;few clouds;E;26;80%
+Oct 14 07:20;9C;few clouds;E;22;75%
+Oct 14 06:50;9C;few clouds;E;22;80%
+Oct 14 06:20;9C;few clouds;E;20;80%
+Oct 14 05:50;9C;no or few clouds;E;24;80%
+Oct 14 05:20;9C;no or few clouds;E;24;80%
+Oct 14 04:50;9C;no or few clouds;E;20;80%
+Oct 14 04:20;9C;dry;E;19;80%
+Oct 14 03:50;9C;clouds;E;20;80%
+Oct 14 03:20;10C;cloudy;E;20;75%
+Oct 14 02:20;10C;cloudy;E;24;75%
+Oct 14 01:50;9C;cloudy;E;28;80%
+Oct 14 00:50;9C;cloudy;E;24;80%
+Oct 14 00:20;9C;cloudy;E;24;80%
+Oct 13 23:50;9C;cloudy;E;22;80%
+Oct 13 23:20;9C;cloudy;E;22;80%
+Oct 13 22:50;9C;cloudy;E;26;80%
+Oct 13 22:20;9C;cloudy;E;28;75%
+Oct 13 21:50;9C;cloudy;E;28;80%
+Oct 13 21:20;9C;cloudy;E;26;75%
+Oct 13 20:50;9C;cloudy;E;26;75%
+Oct 13 20:20;9C;cloudy;E;24;75%
+Oct 13 19:50;9C;cloudy;E;26;75%
+Oct 13 19:20;9C;cloudy;E;26;75%
+Oct 13 18:50;9C;cloudy;E;30;75%
+Oct 13 18:20;10C;cloudy;E;28;65%
+Oct 13 17:50;10C;cloudy;E;28;65%
+Oct 13 17:20;10C;clouds;E;22;70%
+Oct 13 16:50;10C;clouds;E;26;70%
+Oct 13 16:20;10C;clouds;E;24;70%
+Oct 13 15:50;10C;clouds;NE;24;70%
+Oct 13 15:20;10C;clouds;NE;24;75%
+Oct 13 14:50;10C;clouds;NE;24;75%
+Oct 13 14:20;10C;clouds;NE;28;75%
+Oct 13 13:50;10C;clouds;NE;30;75%
+Oct 13 13:20;10C;few clouds;E;28;75%
+Oct 13 12:50;11C;few clouds;E;28;70%
+Oct 13 12:20;11C;fair;E;28;70%
+Oct 13 11:50;10C;overcast;E;28;75%
+Oct 13 11:20;10C;clouds;E;22;75%
+Oct 13 10:50;9C;cloudy;E;24;80%
+Oct 13 10:20;9C;cloudy;E;26;80%
+Oct 13 09:50;9C;clouds;E;28;80%
+Oct 13 09:20;9C;few clouds;E;35;85%
+Oct 13 08:50;8C;clouds;E;26;85%
+Oct 13 08:20;8C;fair;E;24;85%
+Oct 13 07:50;8C;dry;E;26;85%
+Oct 13 07:20;8C;no or few clouds;E;28;85%
+Oct 13 06:50;8C;clouds;E;24;85%
+Oct 13 06:20;8C;clouds;E;24;85%
+Oct 13 05:50;8C;clouds;E;24;85%
+Oct 13 05:20;8C;clouds;E;20;85%
+Oct 13 04:50;8C;clouds;E;22;85%
+Oct 13 04:20;8C;clouds;E;24;85%
+Oct 13 03:50;8C;cloudy;E;22;85%
+Oct 13 03:20;8C;cloudy;E;26;85%
+Oct 13 02:50;8C;cloudy;E;28;85%
+Oct 13 02:20;8C;clouds;E;30;85%
+Oct 13 01:50;8C;clouds;NE;30;85%
+Oct 13 00:50;8C;cloudy;NE;30;85%
+Oct 13 00:20;8C;cloudy;NE;30;85%
+Oct 12 23:50;8C;cloudy;NE;30;85%
+Oct 12 23:20;8C;cloudy;NE;26;85%
+Oct 12 22:50;8C;cloudy;NE;24;85%
+Oct 12 22:20;8C;cloudy;NE;28;80%
+Oct 12 21:50;8C;cloudy;NE;28;85%
+Oct 12 21:20;8C;cloudy;NE;26;85%
+Oct 12 20:50;8C;drizzle;NE;24;85%
+Oct 12 20:20;9C;cloudy;NE;26;75%
+Oct 12 19:50;9C;clouds;NE;28;75%
+Oct 12 19:20;9C;clouds;NE;28;75%
+Oct 12 18:50;9C;cloudy;NE;28;80%
+Oct 12 18:20;9C;cloudy;NE;28;75%
+Oct 12 17:50;9C;cloudy;NE;28;75%
+Jan 05 10:50;-6C;few clouds;N;30;45%
+Jan 05 10:20;-6C;few clouds;NE;30;50%
+Jan 05 09:50;-6C;few clouds;NE;31;50%
+Jan 05 09:20;-6C;few clouds;NE;24;60%
+Jan 05 08:50;-6C;cloudy;NE;26;60%
+Jan 05 08:20;-6C;cloudy;NE;28;65%
+Jan 05 07:50;-6C;cloudy;NE;28;65%
+Jan 05 07:20;-5C;cloudy;N;26;65%
+Jan 05 07:00;-5C;clouds;N;26;64%
+Jan 05 06:50;-5C;few clouds;NE;26;65%
+Jan 05 06:20;-5C;few clouds;N;31;60%
+Jan 05 05:50;-5C;few clouds;N;28;65%
+Jan 05 05:20;-5C;few clouds;N;24;65%
+Jan 05 04:50;-5C;few clouds;NE;26;70%
+Jan 05 04:20;-5C;few clouds;N;26;70%
+Jan 05 03:50;-5C;few clouds;N;30;70%
+Jan 05 03:20;-5C;few clouds;N;33;70%
+Jan 05 02:50;-5C;no or few clouds;N;30;70%
+Jan 05 00:50;-4C;no or few clouds;N;30;65%
+Jan 05 00:20;-3C;few clouds;N;30;65%
+Jan 04 23:50;-3C;few clouds;N;31;65%
+Jan 04 23:20;-3C;no or few clouds;NE;31;60%
+Jan 04 22:50;-2C;no or few clouds;N;31;60%
+Jan 04 22:20;-2C;few clouds;N;31;60%
+Jan 04 21:50;-2C;few clouds;NE;31;55%
+Jan 04 21:20;-1C;few clouds;N;33;60%
+Jan 04 20:50;-1C;few clouds;NE;33;60%
+Jan 04 20:20;-1C;few clouds;N;31;65%
+Jan 04 19:50;0C;few clouds;N;37;60%
+Jan 04 19:20;0C;few clouds;N;37;60%
+Jan 04 18:50;0C;few clouds;N;31;65%
+Jan 04 18:20;1C;few clouds;N;35;55%
+Jan 04 17:50;1C;clouds;N;35;55%
+Jan 04 17:20;1C;clouds;N;37;65%
+Jan 04 16:50;2C;clouds;N;35;60%
+Jan 04 16:20;2C;clouds;N;31;65%
+Jan 04 15:50;2C;clouds;N;37;60%
+Jan 04 15:20;2C;clouds;N;33;60%
+Jan 04 14:50;2C;cloudy;N;37;60%
+Jan 04 14:20;2C;clouds;N;37;60%
+Jan 04 13:50;2C;clouds;N;39;60%
+Jan 04 13:20;2C;cloudy;N;41;65%
+Jan 04 12:50;3C;cloudy;N;46;60%
+Jan 04 12:20;2C;few clouds;N;43;65%
+Jan 04 11:50;2C;few clouds;N;46;75%
+Jan 04 11:20;2C;cloudy;N;46;75%
+Jan 04 10:50;2C;cloudy;N;44;75%
+Jan 04 10:20;2C;few clouds;N;37;70%
+Jan 04 10:00;1C;clouds;N;41;73%
+Jan 04 09:50;2C;few clouds;N;43;70%
+Jan 04 09:20;2C;few clouds;N;48;70%
+Jan 04 08:50;3C;few clouds;N;37;70%
+Jan 04 08:20;3C;few clouds;NW;39;65%
+Jan 04 07:50;4C;few clouds;N;37;60%
+Jan 04 07:20;5C;few clouds;NW;31;60%
+Jan 04 06:50;5C;few clouds;NW;31;70%
+Jan 04 06:20;5C;no or few clouds;NW;28;70%
+Jan 04 05:50;5C;clouds;NW;37;70%
+Jan 04 05:20;5C;clouds;W;39;75%
+Jan 04 04:50;4C;clouds;W;35;80%
+Jan 04 04:20;4C;clouds;W;31;80%
+Jan 04 03:50;4C;cloudy;W;33;75%
+Jan 04 03:20;3C;few clouds;W;30;80%
+Jan 04 02:50;3C;few clouds;W;33;80%
+Jan 04 00:50;4C;few clouds;W;43;70%
+Jan 04 00:20;4C;few clouds;W;35;65%
+Jan 03 23:50;4C;few clouds;W;39;65%
+Jan 03 23:20;4C;few clouds;W;35;70%
+Jan 03 22:50;5C;few clouds;W;41;65%
+Jan 03 22:20;5C;clouds;W;39;70%
+Jan 03 21:50;6C;clouds;W;39;65%
+Jan 03 21:20;6C;clouds;W;43;65%
+Jan 03 20:50;6C;clouds;W;39;70%
+Jan 03 20:20;7C;clouds;W;43;70%
+Jan 03 19:50;7C;cloudy;W;44;75%
+Jan 03 19:20;7C;clouds;W;44;80%
+Jan 03 18:50;7C;light showers;W;41;80%
+Jan 03 18:20;7C;light showers;W;33;85%
+Jan 03 17:50;7C;cloudy;W;30;85%
+Jan 03 17:20;7C;cloudy;W;28;95%
+Jan 03 16:50;7C;cloudy;W;30;85%
+Jan 03 16:20;7C;cloudy;W;31;95%
+Jan 03 15:50;7C;cloudy;W;26;85%
+Jan 03 15:20;6C;drizzle;W;31;95%
+Jan 03 14:50;5C;drizzle;SW;28;95%
+Jan 03 14:20;5C;drizzle;SW;22;95%
+Jan 03 13:50;5C;light rain;SW;24;95%
+Jan 03 13:20;5C;light showers;SW;24;95%
+Jan 03 12:50;4C;drizzle;SW;22;95%
+Jan 03 12:20;4C;drizzle;W;24;95%
+Jan 03 11:50;4C;cloudy;W;20;95%
+Jan 03 11:20;4C;cloudy;W;26;95%
+Jan 03 10:50;3C;cloudy;SW;24;95%
+Jan 03 10:20;3C;light showers;SW;22;95%
+Jan 03 09:50;3C;light showers;SW;20;95%
+Jan 03 09:20;3C;light showers;W;22;95%
+Jan 03 08:50;3C;light showers;W;24;95%
+Jan 03 08:20;2C;cloudy;W;20;95%
+Jan 03 07:50;2C;light showers;W;20;95%
+Jan 03 07:20;2C;clouds;W;19;95%
+Jan 03 06:50;1C;dry;W;19;95%
+Jan 03 06:20;1C;cloudy;SW;17;95%
+Jan 03 05:50;0C;clouds;W;11;95%
+Jan 03 05:20;0C;clouds;W;13;95%
+Jan 03 04:50;0C;cloudy;W;13;95%
+Jan 03 04:20;1C;cloudy;W;13;95%
+Jan 03 03:50;1C;cloudy;W;15;95%
+Jan 03 03:20;0C;cloudy;W;15;95%
+Jan 03 02:50;-1C;dry;W;9;95%
+Jan 03 00:50;-2C;dry;W;9;95%
+Jan 03 00:20;-2C;dry;W;11;95%
+Jan 02 23:50;-2C;dry;W;11;85%
+Jan 02 23:20;-1C;dry;W;11;85%
+Jan 02 22:50;-2C;dry;W;11;85%
+Jan 02 22:20;-1C;dry;W;9;85%
+Jan 02 21:50;-2C;dry;W;6;85%
+Jan 02 21:20;-1C;dry;W;7;85%
+Jan 02 20:50;-1C;dry;W;6;85%
+Jan 02 20:20;-1C;dry;W;11;85%
+Jan 02 19:50;0C;dry;W;13;80%
+Jan 02 19:20;0C;dry;W;11;80%
+Jan 02 18:50;0C;dry;W;11;80%
+Jan 02 18:20;0C;dry;W;13;80%
+Jan 02 17:50;-1C;dry;W;9;80%
+Jan 02 17:20;0C;dry;W;9;80%
+Jan 02 16:50;1C;dry;W;13;70%
+Jan 02 16:20;1C;few clouds;W;13;70%
+Jan 02 15:50;2C;few clouds;W;13;70%
+Jan 02 15:20;2C;few clouds;NW;11;70%
+Jan 02 14:50;3C;few clouds;VRB;9;70%
+Jan 02 14:20;3C;few clouds;NW;15;70%
+Jan 02 13:50;3C;few clouds;NW;19;70%
+Jan 02 13:20;3C;clouds;NW;19;60%
+Jan 02 13:00;2C;cloudless;NW;15;64%
+Jan 02 12:50;3C;few clouds;NW;15;65%
+Jan 02 12:20;3C;fair;NW;17;60%
+Jan 02 11:50;2C;fair;NW;19;65%
+Jan 02 11:20;2C;fair;NW;13;65%
+Jan 02 11:00;1C;cloudless;NW;13;67%
+Jan 02 10:50;2C;dry;NW;15;70%
+Jan 02 10:20;1C;dry;N;13;75%
+Jan 02 09:50;1C;few clouds;NW;13;75%
+Jan 02 09:20;1C;few clouds;NW;13;75%
+Jan 02 08:50;1C;few clouds;NW;15;75%
+Jan 02 08:20;1C;few clouds;NW;13;75%
+Jan 02 07:50;0C;few clouds;NW;13;85%
+Jan 02 07:20;0C;no or few clouds;NW;17;85%
+Jan 02 06:50;1C;dry;NW;15;80%
+Jan 02 06:20;1C;dry;NW;15;80%
+Jan 02 05:50;1C;few clouds;N;17;85%
+Jan 02 05:20;1C;few clouds;NW;15;80%
+Jan 02 04:50;1C;no or few clouds;NW;15;85%
+Jan 02 04:20;1C;dry;N;19;85%
+Jan 02 03:50;1C;dry;NW;15;85%
+Jan 02 03:20;1C;dry;NW;15;85%
+Jan 02 03:00;1C;cloudless;NW;13;90%
+Jan 02 02:50;2C;dry;NW;15;85%
+Jan 02 00:50;2C;dry;W;13;95%
+Jan 02 00:20;2C;dry;W;13;95%
+Jan 01 23:50;3C;dry;W;11;85%
+Jan 01 23:20;3C;few clouds;W;13;85%
+Jan 01 23:00;2C;cloudless;W;9;91%
+Jan 01 22:50;3C;few clouds;NW;13;95%
+Jan 01 22:20;3C;clouds;W;13;95%
+Jan 01 21:50;4C;clouds;W;11;85%
+Jan 01 21:20;4C;clouds;W;13;95%
+Jan 01 21:00;4C;cloudy;W;13;90%
+Jan 01 20:50;4C;clouds;W;13;95%
+Jan 01 20:20;4C;clouds;W;11;95%
+Jan 01 19:50;5C;clouds;W;13;85%
+Jan 01 19:20;5C;dry;W;15;85%
+Jan 01 18:50;5C;dry;W;15;85%
+Jan 01 18:20;5C;dry;W;15;85%
+Jan 01 17:50;5C;dry;W;15;85%
+Jan 01 17:20;5C;dry;W;15;85%
+Jan 01 16:50;6C;clouds;W;15;80%
+Jan 01 16:20;6C;clouds;W;19;80%
+Jan 01 15:50;6C;clouds;W;19;85%
+Jan 01 15:20;6C;cloudy;W;17;85%
+Jan 01 15:00;6C;cloudy;W;15;89%
+Jan 01 14:50;6C;clouds;W;17;95%
+Jan 01 14:20;6C;clouds;W;17;95%
+Jan 01 13:50;6C;clouds;W;15;95%
+Jan 01 13:20;6C;dry;W;15;85%
+Jan 01 12:50;6C;dry;W;15;95%
+Jan 01 12:20;7C;clouds;W;15;85%
+Jan 01 11:50;7C;light rain;NW;19;95%
+Jan 01 11:20;7C;light rain;W;13;95%
+Jan 01 10:50;7C;light rain;W;20;95%
+Jan 01 10:20;6C;light rain;SW;28;95%
+Jan 01 09:50;6C;light rain;SW;30;95%
+Jan 01 09:20;6C;drizzle;SW;24;95%
+Jan 01 08:50;6C;drizzle;SW;28;95%
+Jan 01 08:20;6C;drizzle;SW;28;95%
+Jan 01 07:50;6C;drizzle;SW;31;95%
+Jan 01 07:20;6C;drizzle;SW;30;95%
+Jan 01 06:50;6C;light rain;SW;30;95%
+Jan 01 06:20;6C;cloudy haze;SW;31;95%
+Jan 01 05:50;6C;cloudy haze;SW;31;95%
+Jan 01 05:20;6C;cloudy haze;SW;30;95%
+Jan 01 04:50;6C;cloudy haze;SW;30;95%
+Jan 01 04:20;6C;cloudy haze;SW;31;95%
+Jan 01 03:50;6C;cloudy haze;SW;33;95%
+Jan 01 03:20;7C;cloudy haze;SW;33;95%
+Jan 01 03:00;6C;overcast;SW;30;95%
+Jan 01 02:50;7C;cloudy haze;SW;28;95%
+Jan 01 00:50;6C;cloudy haze;SW;26;95%
+Jan 01 00:20;7C;cloudy haze;SW;26;95%
+Dec 31 23:50;7C;cloudy;SW;26;95%
+Dec 31 23:20;7C;cloudy;SW;28;95%
+Dec 31 22:50;7C;cloudy;SW;30;95%
+Dec 31 22:20;8C;cloudy;W;31;85%
+Dec 31 21:50;8C;cloudy;SW;28;85%
+Dec 31 21:20;8C;cloudy;W;30;85%
+Dec 31 21:00;7C;overcast;SW;30;88%
+Dec 31 20:50;8C;cloudy;SW;28;85%
+Dec 31 20:20;7C;cloudy;SW;26;95%
+Dec 31 19:50;7C;cloudy;SW;26;95%
+Dec 31 19:20;7C;cloudy;SW;26;95%
+Dec 31 18:50;7C;cloudy;SW;24;95%
+Dec 31 18:20;7C;cloudy;SW;24;95%
+Dec 31 17:50;7C;cloudy;SW;22;95%
+Dec 31 17:20;7C;overcast;SW;22;95%
+Dec 31 17:16;7C;overcast;SW;22;95%
+Dec 31 16:50;8C;overcast;SW;22;95%
+Dec 31 16:20;8C;overcast;SW;24;95%
+Dec 31 15:50;7C;overcast;SW;28;95%
+Dec 31 15:20;7C;overcast;SW;26;95%
+Dec 31 14:50;7C;overcast;SW;24;95%
+Dec 31 14:20;7C;overcast;SW;20;95%
+Dec 31 13:50;7C;overcast;SW;20;95%
+Dec 31 13:20;7C;overcast haze;SW;22;95%
+Dec 31 12:50;6C;overcast haze;SW;24;95%
+Dec 31 12:20;6C;overcast haze;SW;24;95%
+Dec 31 11:50;6C;overcast haze;SW;28;95%
+Dec 31 11:20;6C;overcast haze;SW;33;95%
+Dec 31 10:50;6C;overcast haze;SW;35;95%
+Dec 31 10:20;6C;overcast haze;SW;33;95%
+Dec 31 09:50;6C;overcast haze;SW;33;95%
+Dec 31 09:20;6C;overcast haze;SW;31;95%
+Dec 31 08:50;6C;overcast haze;SW;30;95%
+Dec 31 08:20;6C;overcast haze;SW;28;95%
+Dec 31 07:50;6C;overcast haze;SW;24;95%
+Dec 31 07:20;6C;cloudy haze;SW;24;95%
+Dec 31 06:50;6C;cloudy haze;W;26;95%
+Dec 31 06:20;6C;cloudy haze;W;26;95%
+Dec 31 05:50;6C;overcast haze;W;24;95%
+Dec 31 05:20;6C;overcast haze;W;26;95%
+Dec 31 04:50;7C;overcast haze;W;26;95%
+Dec 31 04:20;7C;overcast haze;W;24;95%
+Dec 31 03:50;6C;drizzle;W;22;95%
+Dec 31 03:20;6C;drizzle;W;22;95%
+Dec 31 03:00;6C;overcast;SW;20;99%
+Dec 31 02:50;6C;drizzle;SW;22;95%
+Dec 31 00:50;6C;drizzle;SW;24;95%
+Dec 31 00:20;6C;drizzle;SW;24;95%
+Dec 30 23:50;5C;drizzle;VRB;24;95%
+Dec 30 23:20;5C;drizzle;SW;26;95%
+Dec 30 22:50;5C;drizzle;SW;28;95%
+Dec 30 22:20;5C;drizzle;SW;24;95%
+Dec 30 21:50;5C;drizzle;SW;26;95%
+Dec 30 21:20;5C;drizzle;SW;24;95%
+Dec 30 20:50;5C;drizzle;SW;22;95%
+Dec 30 20:20;5C;drizzle;SW;19;95%
+Dec 30 19:50;5C;overcast haze;SW;17;95%
+Dec 30 19:20;5C;overcast haze;SW;17;95%
+Dec 30 18:50;5C;overcast haze;SW;17;95%
+Dec 30 18:20;5C;overcast haze;SW;19;95%
+Dec 30 17:50;5C;overcast haze;SW;20;95%
+Dec 30 17:20;5C;overcast haze;SW;19;95%
+Dec 30 16:50;5C;overcast haze;SW;19;85%
+Dec 30 16:20;4C;overcast haze;SW;19;95%
+Dec 30 15:50;4C;overcast haze;SW;19;95%
+Dec 30 15:20;4C;overcast haze;SW;22;95%
+Dec 30 14:50;4C;overcast haze;SW;22;95%
+Dec 30 14:20;4C;overcast;SW;22;85%
+Dec 30 13:50;4C;cloudy;SW;24;85%
+Dec 30 13:20;4C;cloudy;SW;22;85%
+Dec 30 12:50;4C;cloudy;W;22;95%
+Dec 30 12:20;4C;cloudy;W;20;85%
+Dec 30 11:50;3C;cloudy haze;W;17;85%
+Dec 30 11:20;3C;cloudy;W;24;95%
+Dec 30 10:50;4C;few clouds;W;22;85%
+Dec 30 10:20;3C;- haze;SW;20;95%
+Dec 30 09:50;2C;- haze;SW;17;95%
+Dec 30 09:20;2C;- haze;SW;15;95%
+Dec 30 08:50;2C;- haze;SW;17;95%
+Dec 30 08:20;2C;- haze;SW;13;95%
+Dec 30 07:50;2C;cloudless haze;SW;15;95%
+Dec 30 07:20;2C;cloudless haze;SW;13;95%
+Dec 30 06:50;2C;cloudless haze;SW;17;95%
+Dec 30 06:20;2C;cloudless;W;24;95%
+Dec 30 05:50;2C;cloudless;W;19;95%
+Dec 30 05:20;2C;cloudless;W;20;95%
+Dec 30 04:50;3C;cloudless;SW;20;95%
+Dec 30 04:20;2C;cloudless;SW;19;95%
+Dec 30 03:50;2C;cloudless;SW;19;95%
+Dec 30 03:20;2C;- haze;SW;15;95%
+Dec 30 02:50;2C;SW;13;95%
+Dec 30 00:50;2C;- haze;SW;11;95%
+Dec 30 00:20;1C;- haze;SW;11;95%
+Dec 29 23:50;2C;- haze;SW;13;95%
+Dec 29 23:20;2C;- haze;SW;11;85%
+Dec 29 22:50;2C;cloudless;W;15;95%
+Dec 29 22:20;2C;cloudless haze;SW;15;95%
+Dec 29 21:50;1C;few clouds mist;SW;13;95%
+Dec 29 21:20;2C;few clouds;SW;15;95%
+Dec 29 20:50;2C;cloudy;SW;15;95%
+Dec 29 20:20;2C;few clouds;W;17;95%
+Dec 29 19:50;2C;cloudy;SW;15;95%
+Dec 29 19:20;2C;cloudy;SW;22;95%
+Dec 29 18:50;3C;cloudy;SW;22;85%
+Dec 29 18:20;3C;cloudy;SW;19;85%
+Dec 29 17:50;3C;cloudy;W;19;85%
+Dec 29 17:20;3C;cloudy;W;20;85%
+Dec 29 16:50;3C;cloudy;W;24;85%
+Dec 29 16:20;4C;cloudy;SW;20;80%
+Dec 29 15:50;4C;cloudy;W;24;80%
+Dec 29 15:20;4C;cloudy;W;22;80%
+Dec 29 15:00;4C;overcast;SW;22;81%
+Dec 29 14:50;4C;cloudy;W;26;80%
+Dec 29 14:20;4C;cloudy;W;24;80%
+Dec 29 13:50;4C;cloudy;SW;24;80%
+Dec 29 13:20;5C;cloudy;SW;26;80%
+Dec 29 13:00;4C;cloudy;SW;24;79%
+Dec 29 12:50;5C;cloudy;W;26;75%
+Dec 29 12:20;5C;cloudy;W;22;80%
+Dec 29 11:50;5C;cloudy;W;24;80%
+Dec 29 11:20;5C;cloudy;W;26;80%
+Dec 29 10:50;5C;cloudy;W;26;80%
+Dec 29 10:20;5C;cloudy;SW;24;80%
+Dec 29 10:00;5C;cloudy;SW;22;81%
+Dec 29 09:50;5C;cloudy;SW;20;80%
+Dec 29 09:20;5C;cloudy;SW;19;80%
+Dec 29 08:50;5C;cloudy;SW;17;80%
+Dec 29 08:20;5C;overcast;SW;17;80%
+Dec 29 07:50;5C;overcast;SW;19;80%
+Dec 29 07:20;6C;overcast;W;17;70%
+Dec 29 06:50;5C;overcast;W;15;75%
+Dec 29 06:20;5C;overcast;W;11;75%
+Dec 29 05:50;5C;overcast;W;13;75%
+Dec 29 05:20;5C;overcast;W;15;75%
+Dec 29 04:50;5C;overcast;W;19;75%
+Dec 29 04:20;5C;overcast;W;19;75%
+Dec 29 03:50;5C;overcast;W;13;75%
+Dec 29 03:20;5C;overcast;W;11;75%
+Dec 29 02:50;5C;overcast;W;17;75%
+Dec 29 00:50;5C;overcast;W;17;80%
+Dec 29 00:20;5C;overcast;W;15;85%
+Dec 28 23:50;5C;overcast;W;15;85%
+Dec 28 23:20;5C;overcast;W;13;95%
+Dec 28 23:00;5C;overcast;W;11;96%
+Dec 28 22:50;5C;overcast;W;9;95%
+Dec 28 22:20;5C;overcast;W;9;95%
+Dec 28 22:00;5C;overcast;W;11;95%
+Dec 28 21:50;5C;overcast;W;7;95%
+Dec 28 21:20;5C;overcast;SW;9;95%
+Dec 28 20:50;5C;overcast;SW;7;95%
+Dec 28 20:20;5C;overcast;W;7;95%
+Dec 28 19:50;5C;overcast;W;9;95%
+Dec 28 19:20;5C;overcast;W;7;95%
+Dec 28 18:50;6C;overcast;W;7;95%
+Dec 28 18:20;6C;overcast;W;11;95%
+Dec 28 17:50;6C;overcast;W;6;95%
+Dec 28 17:20;6C;overcast;NW;11;95%
+Dec 28 16:50;6C;overcast;W;7;95%
+Dec 28 16:20;6C;overcast;NW;6;95%
+Dec 28 15:50;6C;cloudy;N;6;95%
+Dec 28 15:20;6C;overcast;NW;4;95%
+Dec 28 14:50;6C;overcast;NW;7;95%
+Dec 28 14:20;6C;cloudy;VRB;2;95%
+Dec 28 13:50;6C;cloudy;NW;6;95%
+Dec 28 13:20;6C;cloudy;NW;6;95%
+Dec 28 12:50;5C;cloudy haze;NW;13;95%
+Dec 28 12:20;5C;cloudy haze;NW;13;95%
+Dec 28 11:50;5C;cloudy haze;NW;15;95%
+Dec 28 11:20;5C;cloudy haze;NW;9;95%
+Dec 28 10:50;5C;fog;NW;13;100%
+Dec 28 10:20;4C;cloudy haze;NW;6;95%
+Dec 28 09:50;4C;fog;NW;11;100%
+Dec 28 09:20;2C;fog;W;13;100%
+Dec 28 08:50;3C;fog;NW;9;100%
+Dec 28 08:20;2C;fog;NW;7;100%
+Dec 28 07:50;0C;cloudless;W;2;100%
+Dec 28 07:20;0C;freezing fog;100%
+Dec 28 06:50;0C;freezing fog;100%
+Dec 28 06:20;0C;freezing fog;W;9;100%
+Dec 28 06:00;0C;cloudless;NW;9;99%
+Dec 28 05:50;0C;freezing fog;W;11;100%
+Dec 28 05:20;-1C;fog in patches;W;4;95%
+Dec 28 04:50;0C;fog in patches;NW;9;95%
+Dec 28 04:20;0C;fog in patches;W;9;95%
+Dec 28 03:50;1C;W;7;95%
+Dec 28 03:20;2C;W;11;95%
+Dec 28 02:50;1C;W;13;95%
+Dec 28 00:50;3C;no or few clouds;W;11;95%
+Dec 28 00:20;3C;no or few clouds;W;11;95%
+Dec 27 23:50;3C;no or few clouds;NW;11;95%
+Dec 27 23:20;3C;no or few clouds;NW;11;95%
+Dec 27 22:50;4C;no or few clouds;NW;11;85%
+Dec 27 22:20;3C;no or few clouds;NW;11;95%
+Dec 27 21:50;1C;no or few clouds;W;11;95%
+Dec 27 21:20;3C;no or few clouds;W;6;80%
+Dec 27 21:00;3C;cloudless;W;13;78%
+Dec 27 20:50;4C;no or few clouds;W;15;75%
+Dec 27 20:20;3C;no or few clouds;NW;13;75%
+Dec 27 19:50;3C;no or few clouds;W;11;75%
+Dec 27 19:20;3C;no or few clouds;W;11;75%
+Dec 27 18:50;5C;no or few clouds;N;17;65%
+Dec 27 18:20;5C;no or few clouds;NW;19;70%
+Dec 27 17:50;6C;no or few clouds;NW;26;60%
+Dec 27 17:20;6C;no or few clouds;NW;28;60%
+Dec 27 16:50;6C;fair;NW;26;55%
+Dec 27 16:20;6C;fair;NW;26;55%
+Dec 27 15:50;6C;fair;NW;30;55%
+Dec 27 15:20;6C;fair;NW;33;55%
+Dec 27 14:50;7C;fair;NW;35;55%
+Dec 27 14:20;7C;fair;NW;37;55%
+Dec 27 13:50;7C;fair;NW;39;55%
+Dec 27 13:20;7C;fair;NW;39;55%
+Dec 27 12:50;7C;fair;NW;43;55%
+Dec 27 12:20;7C;fair;NW;39;55%
+Dec 27 11:50;7C;fair;NW;37;55%
+Dec 27 11:20;7C;fair;NW;41;55%
+Dec 27 10:50;7C;fair;NW;44;55%
+Dec 27 10:20;7C;fair;NW;41;55%
+Dec 27 09:50;7C;fair;NW;44;55%
+Dec 27 09:20;7C;fair;NW;39;55%
+Dec 27 08:50;6C;fair;NW;43;60%
+Dec 27 08:20;6C;fair;NW;41;60%
+Dec 27 07:50;7C;no or few clouds;NW;44;55%
+Dec 27 07:20;7C;no or few clouds;NW;43;60%
+Dec 27 06:50;7C;no or few clouds;NW;43;65%
+Dec 27 06:20;7C;no or few clouds;NW;50;60%
+Dec 27 05:50;7C;no or few clouds;NW;44;60%
+Dec 27 05:20;7C;no or few clouds;NW;44;60%
+Dec 27 04:50;7C;few clouds;NW;46;60%
+Dec 27 04:20;7C;clouds;NW;46;65%
+Dec 27 03:50;7C;clouds;NW;48;60%
+Dec 27 03:20;7C;clouds;W;54;65%
+Dec 27 02:50;7C;clouds;W;52;70%
+Dec 27 00:50;8C;clouds;W;65;65%
+Dec 27 00:20;7C;cloudy;W;67;70%
+Dec 26 23:50;7C;cloudy;W;63;70%
+Dec 26 23:20;6C;cloudy;W;52;75%
+Dec 26 22:50;5C;drizzle;W;56;80%
+Dec 26 22:20;5C;cloudy;W;61;75%
+Dec 26 21:50;5C;cloudy;W;50;75%
+Dec 26 21:20;5C;clouds;W;50;75%
+Dec 26 21:00;4C;cloudy;W;44;75%
+Dec 26 20:50;4C;dry;W;41;80%
+Dec 26 20:20;4C;few clouds;W;43;75%
+Dec 26 19:50;4C;few clouds;W;37;75%
+Dec 26 19:20;4C;few clouds;W;33;75%
+Dec 26 18:50;4C;few clouds;W;33;75%
+Dec 26 18:20;3C;few clouds;W;33;80%
+Dec 26 17:50;4C;few clouds;W;43;80%
+Dec 26 17:20;3C;no or few clouds;W;31;80%
+Dec 26 16:50;3C;clouds;W;35;80%
+Dec 26 16:20;4C;clouds;W;37;80%
+Dec 26 15:50;3C;clouds;W;30;85%
+Dec 26 15:20;3C;thunderstorm;W;46;80%
+Dec 26 14:50;5C;light showers;W;44;80%
+Dec 26 14:20;6C;clouds;W;28;75%
+Dec 26 13:50;5C;light showers;W;33;80%
+Dec 26 13:20;7C;few clouds;W;39;75%
+Dec 26 12:50;7C;few clouds;W;43;75%
+Dec 26 12:20;7C;light showers;W;41;80%
+Dec 26 11:50;8C;cloudy;W;35;75%
+Dec 26 11:20;7C;few clouds;W;31;80%
+Dec 26 10:50;8C;few clouds;W;30;80%
+Dec 26 10:20;7C;cloudy;W;28;85%
+Dec 26 09:50;7C;cloudy;W;26;85%
+Dec 26 09:20;8C;clouds;W;26;80%
+Dec 26 08:50;8C;clouds;W;24;85%
+Dec 26 08:20;8C;clouds;W;24;85%
+Dec 26 07:50;8C;clouds;W;26;85%
+Dec 26 07:20;8C;clouds;W;26;85%
+Dec 26 06:50;9C;clouds;W;28;80%
+Dec 26 06:20;9C;cloudy;W;30;85%
+Dec 26 06:05;9C;rain;W;31;95%
+Dec 26 05:55;9C;rain;W;31;95%
+Dec 26 05:20;9C;light rain;W;28;95%
+Dec 26 05:13;9C;drizzle;SW;30;95%
+Dec 26 04:50;9C;cloudy;SW;30;95%
+Dec 26 04:20;9C;cloudy;SW;26;95%
+Dec 26 03:50;9C;cloudy haze;SW;26;95%
+Dec 26 03:20;9C;cloudy;SW;30;95%
+Dec 26 03:00;9C;overcast;SW;30;95%
+Dec 26 02:50;9C;cloudy;SW;30;95%
+Dec 26 00:50;10C;cloudy;W;24;85%
+Dec 26 00:20;10C;cloudy;W;28;95%
+Dec 25 23:50;10C;cloudy;W;30;95%
+Dec 25 23:20;9C;cloudy;W;33;95%
+Dec 25 22:50;9C;light rain;W;28;95%
+Dec 25 22:20;10C;cloudy;W;28;95%
+Dec 25 21:50;10C;cloudy;W;31;95%
+Dec 25 21:20;10C;cloudy;W;31;85%
+Dec 25 20:50;10C;cloudy;W;33;85%
+Dec 25 20:20;10C;cloudy;W;31;85%
+Dec 25 19:50;10C;cloudy;W;31;85%
+Dec 25 19:20;10C;cloudy;W;30;95%
+Dec 25 19:00;9C;overcast;W;33;91%
+Dec 25 18:50;10C;cloudy;W;31;95%
+Dec 25 18:20;10C;cloudy;W;30;95%
+Dec 25 17:50;10C;cloudy;W;30;95%
+Dec 25 17:20;10C;cloudy;W;28;85%
+Dec 25 16:50;10C;cloudy;W;26;95%
+Dec 25 16:20;10C;cloudy;W;26;95%
+Dec 25 15:50;10C;cloudy;W;22;85%
+Dec 25 15:20;10C;cloudy;W;20;95%
+Dec 25 15:00;8C;overcast;SW;19;95%
+Dec 25 14:50;9C;cloudy;SW;17;95%
+Dec 25 14:20;8C;cloudy;SW;20;95%
+Dec 25 13:50;8C;drizzle;SW;24;95%
+Dec 25 13:20;7C;drizzle;SW;24;95%
+Dec 25 12:50;7C;overcast;SW;22;95%
+Dec 25 12:20;7C;overcast;SW;17;95%
+Dec 25 12:00;6C;overcast;SW;15;97%
+Dec 25 11:50;6C;light rain;SW;19;95%
+Dec 25 11:20;6C;light rain;SW;19;95%
+Dec 25 10:50;6C;light rain;SW;20;95%
+Dec 25 10:20;6C;light rain;SW;22;85%
+Dec 25 09:50;6C;clouds;SW;20;85%
+Dec 25 09:20;5C;clouds;SW;19;95%
+Dec 25 08:50;4C;clouds;SW;17;95%
+Dec 25 08:20;4C;dry;SW;19;95%
+Dec 25 07:50;4C;dry;SW;20;95%
+Dec 25 07:20;4C;clouds;SW;20;85%
+Dec 25 06:50;4C;clouds;SW;22;85%
+Dec 25 06:20;3C;dry;W;24;95%
+Dec 25 05:50;3C;dry;W;24;95%
+Dec 25 05:20;3C;dry;W;26;85%
+Dec 25 04:50;3C;dry;W;28;85%
+Dec 25 04:20;3C;no or few clouds;W;28;85%
+Dec 25 03:50;3C;dry;W;22;85%
+Dec 25 03:20;3C;dry;W;24;85%
+Dec 25 03:00;2C;cloudless;W;28;89%
+Dec 25 02:50;3C;dry;W;28;85%
+Dec 25 02:20;3C;dry;W;24;85%
+Dec 25 01:50;3C;dry;W;26;85%
+Dec 25 01:20;3C;dry;W;26;85%
+Dec 25 00:20;3C;few clouds;W;20;85%
+Dec 24 23:50;3C;few clouds;W;26;85%
+Dec 24 23:20;3C;cloudy;W;28;95%
+Dec 24 22:50;3C;few clouds;W;22;95%
+Dec 24 22:20;3C;cloudy;W;22;95%
+Dec 24 21:50;3C;dry;SW;24;95%
+Dec 24 21:20;3C;heavy rain;W;37;95%
+Dec 24 20:50;5C;light rain;SW;31;85%
+Dec 24 20:20;5C;light rain;SW;24;85%
+Dec 24 20:00;3C;nearly cloudless;SW;17;91%
+Dec 24 19:50;4C;light rain;SW;19;85%
+Dec 24 19:20;3C;clouds;W;26;95%
+Dec 24 18:50;4C;rain;SW;22;85%
+Dec 24 18:20;4C;rain;W;26;80%
+Dec 24 17:50;4C;rain;W;50;95%
+Dec 24 17:42;4C;rain;SW;39;95%
+Dec 24 17:20;5C;few clouds;SW;33;85%
+Dec 24 16:50;5C;few clouds;SW;30;85%
+Dec 24 16:20;5C;few clouds;SW;30;85%
+Dec 24 15:50;5C;few clouds;SW;30;80%
+Dec 24 15:20;5C;few clouds;SW;31;85%
+Dec 24 14:50;5C;few clouds;SW;30;85%
+Dec 24 14:20;6C;light showers;W;43;80%
+Dec 24 13:50;6C;cloudy;SW;33;80%
+Dec 24 13:20;7C;clouds;SW;28;75%
+Dec 24 12:50;7C;few clouds;SW;30;75%
+Dec 24 12:20;7C;few clouds;SW;31;75%
+Dec 24 11:50;7C;dry;SW;28;80%
+Dec 24 11:20;6C;few clouds;SW;28;85%
+Dec 24 10:50;6C;dry;SW;26;80%
+Dec 24 10:20;6C;dry;SW;24;80%
+Dec 24 09:50;6C;dry;W;22;80%
+Dec 24 09:20;6C;few clouds;W;24;80%
+Dec 24 08:50;6C;few clouds;SW;24;85%
+Dec 24 08:20;6C;few clouds;SW;22;85%
+Dec 24 07:50;6C;cloudy;SW;26;95%
+Dec 24 07:20;6C;cloudy;SW;30;95%
+Dec 24 06:50;6C;cloudy;SW;31;95%
+Dec 24 06:20;6C;cloudy;SW;35;95%
+Dec 24 05:50;6C;cloudy;SW;35;95%
+Dec 24 05:20;6C;cloudy;SW;37;95%
+Dec 24 04:50;6C;overcast;SW;37;95%
+Dec 24 04:20;6C;overcast;SW;43;95%
+Dec 24 03:50;6C;overcast;SW;43;85%
+Dec 24 03:20;6C;overcast;SW;41;85%
+Dec 24 02:50;6C;overcast;SW;41;85%
+Dec 24 00:50;6C;clouds;S;41;85%
+Dec 24 00:20;6C;clouds;S;39;85%
+Dec 23 23:50;6C;clouds;S;41;85%
+Dec 23 23:20;6C;cloudy;S;35;95%
+Dec 23 22:50;6C;cloudy;S;33;95%
+Dec 23 22:20;6C;cloudy;S;30;95%
+Dec 23 21:50;6C;overcast;S;31;85%
+Dec 23 21:20;6C;overcast;S;28;85%
+Dec 23 20:58;6C;cloudy;S;31;85%
+Dec 23 20:20;6C;cloudy;S;31;85%
+Dec 23 19:50;5C;cloudy;S;26;95%
+Dec 23 19:20;6C;cloudy;S;26;80%
+Dec 23 18:50;6C;cloudy;S;26;80%
+Dec 23 18:20;6C;cloudy;SW;22;85%
+Dec 23 17:50;6C;cloudy;SW;28;85%
+Dec 23 17:20;6C;overcast;SW;28;85%
+Dec 23 16:50;6C;overcast;SW;28;95%
+Dec 23 16:20;6C;cloudy;SW;24;95%
+Dec 23 15:50;6C;cloudy;SW;24;95%
+Dec 23 15:20;6C;clouds;SW;22;95%
+Dec 23 14:50;6C;fair;SW;17;95%
+Dec 23 14:20;6C;fair;SW;15;85%
+Dec 23 13:50;6C;fair;SW;15;85%
+Dec 23 13:00;6C;cloudless;SW;22;86%
+Dec 23 12:50;6C;dry;W;22;85%
+Dec 23 12:20;6C;fair;SW;22;85%
+Dec 23 11:50;6C;fair;SW;22;80%
+Dec 23 11:20;5C;fair;W;22;85%
+Dec 23 11:00;5C;cloudless;SW;19;88%
+Dec 23 10:50;5C;fair;W;19;85%
+Dec 23 10:20;5C;fair;W;20;85%
+Dec 23 09:50;5C;fair;W;22;85%
+Dec 23 09:20;4C;fair;W;24;95%
+Dec 23 09:00;4C;cloudless;W;24;90%
+Dec 23 08:50;4C;few clouds;W;22;85%
+Dec 23 08:20;4C;few clouds;W;24;85%
+Dec 23 07:50;5C;light showers;W;28;80%
+Dec 23 07:20;5C;light showers;W;24;85%
+Dec 23 06:50;5C;clouds;W;24;95%
+Dec 23 06:20;6C;light showers;W;31;85%
+Dec 23 05:50;6C;light showers;SW;30;85%
+Dec 23 05:20;5C;few clouds;SW;28;95%
+Dec 23 04:50;6C;cloudy;SW;28;85%
+Dec 23 04:20;6C;cloudy;SW;28;95%
+Dec 23 03:50;6C;clouds;SW;30;85%
+Dec 23 03:20;6C;cloudy;SW;28;85%
+Dec 23 02:50;6C;cloudy;SW;26;95%
+Dec 23 00:50;6C;clouds;SW;28;85%
+Dec 23 00:20;6C;cloudy;SW;28;85%
+Dec 22 23:50;6C;cloudy;SW;26;85%
+Dec 22 23:20;6C;cloudy;SW;24;85%
+Dec 22 22:50;5C;cloudy;SW;26;95%
+Dec 22 22:20;6C;cloudy;SW;26;85%
+Dec 22 21:50;6C;cloudy;SW;26;85%
+Dec 22 21:20;6C;cloudy;SW;24;85%
+Dec 22 20:50;5C;cloudy;SW;26;95%
+Dec 22 20:20;5C;cloudy;SW;22;85%
+Dec 22 19:50;5C;cloudy;SW;22;85%
+Dec 22 19:20;5C;cloudy;SW;24;95%
+Dec 22 18:50;5C;few clouds;SW;20;95%
+Dec 22 18:20;5C;cloudy;SW;22;85%
+Dec 22 17:50;5C;cloudy;SW;26;95%
+Dec 22 17:20;5C;cloudy;SW;22;85%
+Dec 22 16:50;5C;cloudy;SW;24;95%
+Dec 22 16:20;5C;cloudy;SW;22;95%
+Dec 22 15:50;5C;cloudy;SW;22;95%
+Dec 22 15:20;5C;cloudy;SW;19;95%
+Dec 22 14:50;6C;cloudy;SW;22;95%
+Dec 22 14:20;6C;cloudy haze;SW;20;95%
+Dec 22 13:50;6C;cloudy haze;SW;20;95%
+Dec 22 13:20;5C;overcast haze;W;22;95%
+Dec 22 12:50;5C;overcast haze;SW;22;95%
+Dec 22 12:20;5C;overcast haze;SW;24;95%
+Dec 22 12:00;5C;overcast;SW;22;99%
+Dec 22 11:50;5C;overcast haze;SW;26;95%
+Dec 22 11:20;5C;overcast haze;SW;22;95%
+Dec 22 10:50;5C;light rain;SW;22;95%
+Dec 22 10:20;5C;overcast haze;SW;22;95%
+Dec 22 09:50;5C;overcast haze;SW;20;95%
+Dec 22 09:20;5C;overcast haze;SW;22;95%
+Dec 22 08:50;5C;cloudy;SW;20;95%
+Dec 22 08:20;5C;cloudy;SW;19;95%
+Dec 22 07:50;5C;drizzle;SW;20;95%
+Dec 22 07:20;5C;drizzle;SW;20;95%
+Dec 22 06:50;5C;drizzle;SW;20;95%
+Dec 22 06:20;5C;drizzle;SW;19;95%
+Dec 22 05:50;5C;cloudy haze;SW;19;95%
+Dec 22 05:20;5C;cloudy haze;SW;19;95%
+Dec 22 04:50;5C;cloudy haze;SW;19;95%
+Dec 22 04:20;5C;cloudy haze;SW;20;95%
+Dec 22 04:00;5C;overcast;SW;20;92%
+Dec 22 03:50;5C;cloudy;SW;20;95%
+Dec 22 03:20;5C;cloudy;SW;22;95%
+Dec 22 02:50;5C;cloudy;SW;22;95%
+Dec 22 00:50;5C;cloudy;SW;26;95%
+Dec 22 00:20;5C;cloudy;SW;24;95%
+Dec 21 23:50;5C;cloudy;SW;22;85%
+Dec 21 23:20;5C;cloudy;SW;24;95%
+Dec 21 22:50;5C;cloudy;SW;26;95%
+Dec 21 22:20;5C;cloudy;SW;26;85%
+Dec 21 21:50;5C;cloudy;SW;28;95%
+Dec 21 21:20;5C;cloudy;SW;26;85%
+Dec 21 20:50;5C;cloudy;SW;28;85%
+Dec 21 20:20;5C;overcast;SW;26;85%
+Dec 21 19:50;5C;overcast;SW;26;85%
+Dec 21 19:20;5C;overcast;SW;30;85%
+Dec 21 18:50;5C;overcast;SW;26;85%
+Dec 21 18:20;5C;overcast;SW;20;85%
+Dec 21 17:50;4C;overcast;SW;24;85%
+Dec 21 17:20;4C;overcast;S;20;85%
+Dec 21 16:50;3C;cloudy;S;20;95%

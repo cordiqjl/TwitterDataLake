@@ -1,12 +1,12 @@
 file = open("/Users/JanLukes/Documents/GitHub/TwitterDataLake/TwitterDataLake/twitter_output.txt")
 
-columns = []
+columns = [['Date', 'Temperature', 'Weather', 'Wind direction', 'Wind speed', 'Humidity']]
 for line in file:
     pom = line.split(' ')
     for i, each in enumerate(pom):
         pom[i] = each.strip()
     
-    pom2 = pom[1:4]
+    pom2 = [' '.join(pom[1:4]).strip()]
     for i, each in enumerate(pom):
         if each == 'Error':
             pom2 = []
@@ -19,6 +19,7 @@ for line in file:
                 pom3 += pom[i+j] + ' '
                 j += 1
             if pom3:
+                pom3 = ' '.join(pom3.split(', ')).lower()
                 pom2.append(pom3.strip())
         if each == 'Wind':
             pom2.append(pom[i+1])
@@ -28,4 +29,10 @@ for line in file:
     columns.append(pom2)
 
 columns = [x for x in columns if x]
-print(columns[0:30])
+
+filename = 'parsed_tweets.txt'
+
+with open(filename, 'w') as f:
+    for each in columns:
+        pom = ';'.join(each)
+        f.write(pom + '\n')
