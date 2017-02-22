@@ -15,13 +15,13 @@ from azure.datalake.store import core, lib, multithread
 import logging, getpass, pprint, uuid, time
 
 tenant_id = 'https://login.windows.net/813cc00d-e1b3-40a5-8feb-ff4c58aca686/oauth2/token'
-client_id = '1ba35efe-1d42-44f6-9301-12a567c9e122'
+client_id = 'b1909523-915b-4a66-b603-1d5902f59872'
 user = input('Enter the user to authenticate with that has permission to subscription: ')
 password = getpass.getpass()
 
 token = lib.auth(tenant_id, user, password)
 
-# Tenant ID: 813cc00d-e1b3-40a5-8feb-ff4c58aca686  or f8617dfa-75de-4bb9-861b-d18b5953ac1f
+# Some ID: 813cc00d-e1b3-40a5-8feb-ff4c58aca686  or f8617dfa-75de-4bb9-861b-d18b5953ac1f
 # Object id: 02072a0e-b748-4763-a563-7018bb24fd60
 # App id: b1909523-915b-4a66-b603-1d5902f59872
 # Endpoint: https://login.windows.net/813cc00d-e1b3-40a5-8feb-ff4c58aca686/oauth2/token

@@ -3246,3 +3246,1341 @@
 #Copenhagen Oct 12 18:50 Temperature 9C cloudy Wind NE 28 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
 #Copenhagen Oct 12 18:20 Temperature 9C cloudy Wind NE 28 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
 #Copenhagen Oct 12 17:50 Temperature 9C cloudy Wind NE 28 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 10:50 Temperature -6C few clouds Wind N 30 km/h  Humidity 45% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 10:20 Temperature -6C few clouds Wind NE 30 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 09:50 Temperature -6C few clouds Wind NE 31 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 09:20 Temperature -6C few clouds Wind NE 24 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 08:50 Temperature -6C cloudy Wind NE 26 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 08:20 Temperature -6C cloudy Wind NE 28 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 07:50 Temperature -6C cloudy Wind NE 28 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 07:20 Temperature -5C cloudy Wind N 26 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 07:00 Temperature -5C clouds Wind N 26 km/h  Humidity 64% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 06:50 Temperature -5C few clouds Wind NE 26 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 06:20 Temperature -5C few clouds Wind N 31 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 05:50 Temperature -5C few clouds Wind N 28 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 05:20 Temperature -5C few clouds Wind N 24 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 04:50 Temperature -5C few clouds Wind NE 26 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 04:20 Temperature -5C few clouds Wind N 26 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 03:50 Temperature -5C few clouds Wind N 30 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 03:20 Temperature -5C few clouds Wind N 33 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 02:50 Temperature -5C no or few clouds Wind N 30 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 00:50 Temperature -4C no or few clouds Wind N 30 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 00:20 Temperature -3C few clouds Wind N 30 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 23:50 Temperature -3C few clouds Wind N 31 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 23:20 Temperature -3C no or few clouds Wind NE 31 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 22:50 Temperature -2C no or few clouds Wind N 31 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 22:20 Temperature -2C few clouds Wind N 31 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 21:50 Temperature -2C few clouds Wind NE 31 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 21:20 Temperature -1C few clouds Wind N 33 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 20:50 Temperature -1C few clouds Wind NE 33 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 20:20 Temperature -1C few clouds Wind N 31 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 19:50 Temperature 0C few clouds Wind N 37 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 19:20 Temperature 0C few clouds Wind N 37 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 18:50 Temperature 0C few clouds Wind N 31 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 18:20 Temperature 1C few clouds Wind N 35 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 17:50 Temperature 1C clouds Wind N 35 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 17:20 Temperature 1C clouds Wind N 37 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 16:50 Temperature 2C clouds Wind N 35 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 16:20 Temperature 2C clouds Wind N 31 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 15:50 Temperature 2C clouds Wind N 37 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 15:20 Temperature 2C clouds Wind N 33 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 14:50 Temperature 2C cloudy Wind N 37 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 14:20 Temperature 2C clouds Wind N 37 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 13:50 Temperature 2C clouds Wind N 39 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 13:20 Temperature 2C cloudy Wind N 41 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 12:50 Temperature 3C cloudy Wind N 46 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 12:20 Temperature 2C few clouds Wind N 43 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 11:50 Temperature 2C few clouds Wind N 46 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 11:20 Temperature 2C cloudy Wind N 46 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 10:50 Temperature 2C cloudy Wind N 44 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 10:20 Temperature 2C few clouds Wind N 37 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 10:00 Temperature 1C clouds Wind N 41 km/h  Humidity 73% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 09:50 Temperature 2C few clouds Wind N 43 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 09:20 Temperature 2C few clouds Wind N 48 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 08:50 Temperature 3C few clouds Wind N 37 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 08:20 Temperature 3C few clouds Wind NW 39 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 07:50 Temperature 4C few clouds Wind N 37 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 07:20 Temperature 5C few clouds Wind NW 31 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 06:50 Temperature 5C few clouds Wind NW 31 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 06:20 Temperature 5C no or few clouds Wind NW 28 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 05:50 Temperature 5C clouds Wind NW 37 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 05:20 Temperature 5C clouds Wind W 39 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 04:50 Temperature 4C clouds Wind W 35 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 04:20 Temperature 4C clouds Wind W 31 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 03:50 Temperature 4C cloudy Wind W 33 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 03:20 Temperature 3C few clouds Wind W 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 02:50 Temperature 3C few clouds Wind W 33 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 00:50 Temperature 4C few clouds Wind W 43 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 04 00:20 Temperature 4C few clouds Wind W 35 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 23:50 Temperature 4C few clouds Wind W 39 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 23:20 Temperature 4C few clouds Wind W 35 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 22:50 Temperature 5C few clouds Wind W 41 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 22:20 Temperature 5C clouds Wind W 39 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 21:50 Temperature 6C clouds Wind W 39 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 21:20 Temperature 6C clouds Wind W 43 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 03 20:50 Temperature 6C clouds Wind W 39 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 03 20:20 Temperature 7C clouds Wind W 43 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 19:50 Temperature 7C cloudy Wind W 44 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 19:20 Temperature 7C clouds Wind W 44 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 18:50 Temperature 7C light showers Wind W 41 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 18:20 Temperature 7C light showers Wind W 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 17:50 Temperature 7C cloudy Wind W 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 17:20 Temperature 7C cloudy Wind W 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 16:50 Temperature 7C cloudy Wind W 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 16:20 Temperature 7C cloudy Wind W 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 15:50 Temperature 7C cloudy Wind W 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 15:20 Temperature 6C drizzle Wind W 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 14:50 Temperature 5C drizzle Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 14:20 Temperature 5C drizzle Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 13:50 Temperature 5C light rain Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 13:20 Temperature 5C light showers Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 12:50 Temperature 4C drizzle Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 12:20 Temperature 4C drizzle Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 11:50 Temperature 4C cloudy Wind W 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 11:20 Temperature 4C cloudy Wind W 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 10:50 Temperature 3C cloudy Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 10:20 Temperature 3C light showers Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 09:50 Temperature 3C light showers Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 09:20 Temperature 3C light showers Wind W 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 08:50 Temperature 3C light showers Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 08:20 Temperature 2C cloudy Wind W 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 07:50 Temperature 2C light showers Wind W 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 07:20 Temperature 2C clouds Wind W 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 06:50 Temperature 1C dry Wind W 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 06:20 Temperature 1C cloudy Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 05:50 Temperature 0C clouds Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 05:20 Temperature 0C clouds Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 04:50 Temperature 0C cloudy Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 04:20 Temperature 1C cloudy Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 03:50 Temperature 1C cloudy Wind W 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 03:20 Temperature 0C cloudy Wind W 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 02:50 Temperature -1C dry Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 00:50 Temperature -2C dry Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 03 00:20 Temperature -2C dry Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 23:50 Temperature -2C dry Wind W 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 23:20 Temperature -1C dry Wind W 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 22:50 Temperature -2C dry Wind W 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 22:20 Temperature -1C dry Wind W 9 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 21:50 Temperature -2C dry Wind W 6 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 21:20 Temperature -1C dry Wind W 7 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 20:50 Temperature -1C dry Wind W 6 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 20:20 Temperature -1C dry Wind W 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 19:50 Temperature 0C dry Wind W 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 19:20 Temperature 0C dry Wind W 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 18:50 Temperature 0C dry Wind W 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 18:20 Temperature 0C dry Wind W 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 17:50 Temperature -1C dry Wind W 9 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 17:20 Temperature 0C dry Wind W 9 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 16:50 Temperature 1C dry Wind W 13 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 16:20 Temperature 1C few clouds Wind W 13 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 15:50 Temperature 2C few clouds Wind W 13 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 15:20 Temperature 2C few clouds Wind NW 11 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 14:50 Temperature 3C few clouds Wind VRB 9 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 14:20 Temperature 3C few clouds Wind NW 15 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 13:50 Temperature 3C few clouds Wind NW 19 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 13:20 Temperature 3C clouds Wind NW 19 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 13:00 Temperature 2C cloudless Wind NW 15 km/h  Humidity 64% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 12:50 Temperature 3C few clouds Wind NW 15 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 12:20 Temperature 3C fair Wind NW 17 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 11:50 Temperature 2C fair Wind NW 19 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 11:20 Temperature 2C fair Wind NW 13 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 11:00 Temperature 1C cloudless Wind NW 13 km/h  Humidity 67% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 10:50 Temperature 2C dry Wind NW 15 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 10:20 Temperature 1C dry Wind N 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 09:50 Temperature 1C few clouds Wind NW 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 09:20 Temperature 1C few clouds Wind NW 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 08:50 Temperature 1C few clouds Wind NW 15 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 08:20 Temperature 1C few clouds Wind NW 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 07:50 Temperature 0C few clouds Wind NW 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 07:20 Temperature 0C no or few clouds Wind NW 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 06:50 Temperature 1C dry Wind NW 15 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 06:20 Temperature 1C dry Wind NW 15 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 05:50 Temperature 1C few clouds Wind N 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 05:20 Temperature 1C few clouds Wind NW 15 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 02 04:50 Temperature 1C no or few clouds Wind NW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 04:20 Temperature 1C dry Wind N 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 03:50 Temperature 1C dry Wind NW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 03:20 Temperature 1C dry Wind NW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 03:00 Temperature 1C cloudless Wind NW 13 km/h  Humidity 90% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 02:50 Temperature 2C dry Wind NW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 00:50 Temperature 2C dry Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 02 00:20 Temperature 2C dry Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 23:50 Temperature 3C dry Wind W 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 23:20 Temperature 3C few clouds Wind W 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 23:00 Temperature 2C cloudless Wind W 9 km/h  Humidity 91% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 22:50 Temperature 3C few clouds Wind NW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 22:20 Temperature 3C clouds Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 21:50 Temperature 4C clouds Wind W 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 21:20 Temperature 4C clouds Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 21:00 Temperature 4C cloudy Wind W 13 km/h  Humidity 90% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 20:50 Temperature 4C clouds Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 20:20 Temperature 4C clouds Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 19:50 Temperature 5C clouds Wind W 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 19:20 Temperature 5C dry Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 18:50 Temperature 5C dry Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 18:20 Temperature 5C dry Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 17:50 Temperature 5C dry Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 17:20 Temperature 5C dry Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 16:50 Temperature 6C clouds Wind W 15 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 16:20 Temperature 6C clouds Wind W 19 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 15:50 Temperature 6C clouds Wind W 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 15:20 Temperature 6C cloudy Wind W 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 15:00 Temperature 6C cloudy Wind W 15 km/h  Humidity 89% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 14:50 Temperature 6C clouds Wind W 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 14:20 Temperature 6C clouds Wind W 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 13:50 Temperature 6C clouds Wind W 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 13:20 Temperature 6C dry Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 12:50 Temperature 6C dry Wind W 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 12:20 Temperature 7C clouds Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 11:50 Temperature 7C light rain Wind NW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 11:20 Temperature 7C light rain Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 10:50 Temperature 7C light rain Wind W 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 10:20 Temperature 6C light rain Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 09:50 Temperature 6C light rain Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 09:20 Temperature 6C drizzle Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 08:50 Temperature 6C drizzle Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 08:20 Temperature 6C drizzle Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 07:50 Temperature 6C drizzle Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 07:20 Temperature 6C drizzle Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 06:50 Temperature 6C light rain Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 06:20 Temperature 6C cloudy, Haze Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 05:50 Temperature 6C cloudy, Haze Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 05:20 Temperature 6C cloudy, Haze Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 04:50 Temperature 6C cloudy, Haze Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 04:20 Temperature 6C cloudy, Haze Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 03:50 Temperature 6C cloudy, Haze Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 01 03:20 Temperature 7C cloudy, Haze Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 01 03:00 Temperature 6C overcast Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 02:50 Temperature 7C cloudy, Haze Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 01:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 00:50 Temperature 6C cloudy, Haze Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 01 00:20 Temperature 7C cloudy, Haze Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 23:50 Temperature 7C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 23:20 Temperature 7C cloudy Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 22:50 Temperature 7C cloudy Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 22:20 Temperature 8C cloudy Wind W 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 21:50 Temperature 8C cloudy Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 21:20 Temperature 8C cloudy Wind W 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 21:00 Temperature 7C overcast Wind SW 30 km/h  Humidity 88% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 20:50 Temperature 8C cloudy Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 20:20 Temperature 7C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 19:50 Temperature 7C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 19:20 Temperature 7C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 18:50 Temperature 7C cloudy Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 18:20 Temperature 7C cloudy Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 17:50 Temperature 7C cloudy Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 17:20 Temperature 7C overcast Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 17:16 Temperature 7C overcast Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 16:50 Temperature 8C overcast Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 16:20 Temperature 8C overcast Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 15:50 Temperature 7C overcast Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 15:20 Temperature 7C overcast Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 14:50 Temperature 7C overcast Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 14:20 Temperature 7C overcast Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 13:50 Temperature 7C overcast Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 13:20 Temperature 7C overcast, Haze Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 12:50 Temperature 6C overcast, Haze Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 12:20 Temperature 6C overcast, Haze Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 11:50 Temperature 6C overcast, Haze Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 11:20 Temperature 6C overcast, Haze Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 10:50 Temperature 6C overcast, Haze Wind SW 35 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 10:20 Temperature 6C overcast, Haze Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 09:50 Temperature 6C overcast, Haze Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 09:20 Temperature 6C overcast, Haze Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 08:50 Temperature 6C overcast, Haze Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 08:20 Temperature 6C overcast, Haze Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 07:50 Temperature 6C overcast, Haze Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 07:20 Temperature 6C cloudy, Haze Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 06:50 Temperature 6C cloudy, Haze Wind W 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 06:20 Temperature 6C cloudy, Haze Wind W 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 05:50 Temperature 6C overcast, Haze Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 05:20 Temperature 6C overcast, Haze Wind W 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 04:50 Temperature 7C overcast, Haze Wind W 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 04:20 Temperature 7C overcast, Haze Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 03:50 Temperature 6C drizzle Wind W 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 03:20 Temperature 6C drizzle Wind W 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 03:00 Temperature 6C overcast Wind SW 20 km/h  Humidity 99% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 02:50 Temperature 6C drizzle Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 00:50 Temperature 6C drizzle Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 31 00:20 Temperature 6C drizzle Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 23:50 Temperature 5C drizzle Wind VRB 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 23:20 Temperature 5C drizzle Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 22:50 Temperature 5C drizzle Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 22:20 Temperature 5C drizzle Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 21:50 Temperature 5C drizzle Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 21:20 Temperature 5C drizzle Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 20:50 Temperature 5C drizzle Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 20:20 Temperature 5C drizzle Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 19:50 Temperature 5C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 19:20 Temperature 5C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 18:50 Temperature 5C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 18:20 Temperature 5C overcast, Haze Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 17:50 Temperature 5C overcast, Haze Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 17:20 Temperature 5C overcast, Haze Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 16:50 Temperature 5C overcast, Haze Wind SW 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 16:20 Temperature 4C overcast, Haze Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 15:50 Temperature 4C overcast, Haze Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 15:20 Temperature 4C overcast, Haze Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 14:50 Temperature 4C overcast, Haze Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 14:20 Temperature 4C overcast Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 13:50 Temperature 4C cloudy Wind SW 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 13:20 Temperature 4C cloudy Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 12:50 Temperature 4C cloudy Wind W 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 12:20 Temperature 4C cloudy Wind W 20 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 11:50 Temperature 3C cloudy, Haze Wind W 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 11:20 Temperature 3C cloudy Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 10:50 Temperature 4C few clouds Wind W 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 10:20 Temperature 3C -, Haze Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 09:50 Temperature 2C -, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 09:20 Temperature 2C -, Haze Wind SW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 08:50 Temperature 2C -, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 08:20 Temperature 2C -, Haze Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 07:50 Temperature 2C cloudless, Haze Wind SW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 07:20 Temperature 2C cloudless, Haze Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 06:50 Temperature 2C cloudless, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 06:20 Temperature 2C cloudless Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 05:50 Temperature 2C cloudless Wind W 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 05:20 Temperature 2C cloudless Wind W 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 04:50 Temperature 3C cloudless Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 04:20 Temperature 2C cloudless Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 03:50 Temperature 2C cloudless Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 03:20 Temperature 2C -, Haze Wind SW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 02:50 Temperature 2C Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 00:50 Temperature 2C -, Haze Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 30 00:20 Temperature 1C -, Haze Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 23:50 Temperature 2C -, Haze Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 23:20 Temperature 2C -, Haze Wind SW 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 22:50 Temperature 2C cloudless Wind W 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 22:20 Temperature 2C cloudless, Haze Wind SW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 21:50 Temperature 1C few clouds, mist Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 21:20 Temperature 2C few clouds Wind SW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 20:50 Temperature 2C cloudy Wind SW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 20:20 Temperature 2C few clouds Wind W 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 19:50 Temperature 2C cloudy Wind SW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 19:20 Temperature 2C cloudy Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 18:50 Temperature 3C cloudy Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 18:20 Temperature 3C cloudy Wind SW 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 17:50 Temperature 3C cloudy Wind W 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 17:20 Temperature 3C cloudy Wind W 20 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 16:50 Temperature 3C cloudy Wind W 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 16:20 Temperature 4C cloudy Wind SW 20 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 15:50 Temperature 4C cloudy Wind W 24 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 15:20 Temperature 4C cloudy Wind W 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 15:00 Temperature 4C overcast Wind SW 22 km/h  Humidity 81% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 14:50 Temperature 4C cloudy Wind W 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 14:20 Temperature 4C cloudy Wind W 24 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 13:50 Temperature 4C cloudy Wind SW 24 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 13:20 Temperature 5C cloudy Wind SW 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 13:00 Temperature 4C cloudy Wind SW 24 km/h  Humidity 79% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 12:50 Temperature 5C cloudy Wind W 26 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 12:20 Temperature 5C cloudy Wind W 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Dec 29 11:50 Temperature 5C cloudy Wind W 24 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 11:20 Temperature 5C cloudy Wind W 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 10:50 Temperature 5C cloudy Wind W 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 10:20 Temperature 5C cloudy Wind SW 24 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 10:00 Temperature 5C cloudy Wind SW 22 km/h  Humidity 81% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 09:50 Temperature 5C cloudy Wind SW 20 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 09:20 Temperature 5C cloudy Wind SW 19 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 08:50 Temperature 5C cloudy Wind SW 17 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 08:20 Temperature 5C overcast Wind SW 17 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 07:50 Temperature 5C overcast Wind SW 19 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 07:20 Temperature 6C overcast Wind W 17 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 06:50 Temperature 5C overcast Wind W 15 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 06:20 Temperature 5C overcast Wind W 11 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 05:50 Temperature 5C overcast Wind W 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 05:20 Temperature 5C overcast Wind W 15 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 04:50 Temperature 5C overcast Wind W 19 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 04:20 Temperature 5C overcast Wind W 19 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 03:50 Temperature 5C overcast Wind W 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 03:20 Temperature 5C overcast Wind W 11 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 02:50 Temperature 5C overcast Wind W 17 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 00:50 Temperature 5C overcast Wind W 17 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 29 00:20 Temperature 5C overcast Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 23:50 Temperature 5C overcast Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 23:20 Temperature 5C overcast Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 23:00 Temperature 5C overcast Wind W 11 km/h  Humidity 96% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 22:50 Temperature 5C overcast Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 22:20 Temperature 5C overcast Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 22:00 Temperature 5C overcast Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 21:50 Temperature 5C overcast Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 21:20 Temperature 5C overcast Wind SW 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 20:50 Temperature 5C overcast Wind SW 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 20:20 Temperature 5C overcast Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 19:50 Temperature 5C overcast Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 19:20 Temperature 5C overcast Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 18:50 Temperature 6C overcast Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 18:20 Temperature 6C overcast Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 17:50 Temperature 6C overcast Wind W 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 17:20 Temperature 6C overcast Wind NW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 16:50 Temperature 6C overcast Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 16:20 Temperature 6C overcast Wind NW 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 15:50 Temperature 6C cloudy Wind N 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 15:20 Temperature 6C overcast Wind NW 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 14:50 Temperature 6C overcast Wind NW 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 14:20 Temperature 6C cloudy Wind VRB 2 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 13:50 Temperature 6C cloudy Wind NW 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 13:20 Temperature 6C cloudy Wind NW 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 12:50 Temperature 5C cloudy, Haze Wind NW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 12:20 Temperature 5C cloudy, Haze Wind NW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 11:50 Temperature 5C cloudy, Haze Wind NW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 11:20 Temperature 5C cloudy, Haze Wind NW 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 10:50 Temperature 5C Fog Wind NW 13 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 10:20 Temperature 4C cloudy, Haze Wind NW 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 09:50 Temperature 4C Fog Wind NW 11 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 09:20 Temperature 2C Fog Wind W 13 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 08:50 Temperature 3C Fog Wind NW 9 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 08:20 Temperature 2C Fog Wind NW 7 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 07:50 Temperature 0C cloudless Wind W 2 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 07:20 Temperature 0C freezing fog Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 06:50 Temperature 0C freezing fog Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 06:20 Temperature 0C freezing fog Wind W 9 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 06:00 Temperature 0C cloudless Wind NW 9 km/h  Humidity 99% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 05:50 Temperature 0C freezing fog Wind W 11 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 05:20 Temperature -1C fog in patches Wind W 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 04:50 Temperature 0C fog in patches Wind NW 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 04:20 Temperature 0C fog in patches Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 03:50 Temperature 1C Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 03:20 Temperature 2C Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 02:50 Temperature 1C Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 00:50 Temperature 3C no or few clouds Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 28 00:20 Temperature 3C no or few clouds Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 23:50 Temperature 3C no or few clouds Wind NW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 23:20 Temperature 3C no or few clouds Wind NW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 22:50 Temperature 4C no or few clouds Wind NW 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 22:20 Temperature 3C no or few clouds Wind NW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 21:50 Temperature 1C no or few clouds Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 21:20 Temperature 3C no or few clouds Wind W 6 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 21:00 Temperature 3C cloudless Wind W 13 km/h  Humidity 78% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 20:50 Temperature 4C no or few clouds Wind W 15 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 20:20 Temperature 3C no or few clouds Wind NW 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 19:50 Temperature 3C no or few clouds Wind W 11 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 19:20 Temperature 3C no or few clouds Wind W 11 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 18:50 Temperature 5C no or few clouds Wind N 17 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 18:20 Temperature 5C no or few clouds Wind NW 19 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 17:50 Temperature 6C no or few clouds Wind NW 26 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 17:20 Temperature 6C no or few clouds Wind NW 28 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 16:50 Temperature 6C fair Wind NW 26 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 16:20 Temperature 6C fair Wind NW 26 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 15:50 Temperature 6C fair Wind NW 30 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 15:20 Temperature 6C fair Wind NW 33 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 14:50 Temperature 7C fair Wind NW 35 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 14:20 Temperature 7C fair Wind NW 37 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 13:50 Temperature 7C fair Wind NW 39 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 13:20 Temperature 7C fair Wind NW 39 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 12:50 Temperature 7C fair Wind NW 43 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 12:20 Temperature 7C fair Wind NW 39 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 11:50 Temperature 7C fair Wind NW 37 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 11:20 Temperature 7C fair Wind NW 41 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 10:50 Temperature 7C fair Wind NW 44 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 10:20 Temperature 7C fair Wind NW 41 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 09:50 Temperature 7C fair Wind NW 44 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 09:20 Temperature 7C fair Wind NW 39 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 08:50 Temperature 6C fair Wind NW 43 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 08:20 Temperature 6C fair Wind NW 41 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 07:50 Temperature 7C no or few clouds Wind NW 44 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 07:20 Temperature 7C no or few clouds Wind NW 43 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 06:50 Temperature 7C no or few clouds Wind NW 43 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 06:20 Temperature 7C no or few clouds Wind NW 50 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 05:50 Temperature 7C no or few clouds Wind NW 44 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 05:20 Temperature 7C no or few clouds Wind NW 44 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 04:50 Temperature 7C few clouds Wind NW 46 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 04:20 Temperature 7C clouds Wind NW 46 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 03:50 Temperature 7C clouds Wind NW 48 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 03:20 Temperature 7C clouds Wind W 54 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 02:50 Temperature 7C clouds Wind W 52 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 00:50 Temperature 8C clouds Wind W 65 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 27 00:20 Temperature 7C cloudy Wind W 67 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 23:50 Temperature 7C cloudy Wind W 63 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 23:20 Temperature 6C cloudy Wind W 52 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 22:50 Temperature 5C drizzle Wind W 56 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 22:20 Temperature 5C cloudy Wind W 61 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 21:50 Temperature 5C cloudy Wind W 50 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 21:20 Temperature 5C clouds Wind W 50 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 21:00 Temperature 4C cloudy Wind W 44 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 20:50 Temperature 4C dry Wind W 41 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 20:20 Temperature 4C few clouds Wind W 43 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 19:50 Temperature 4C few clouds Wind W 37 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 19:20 Temperature 4C few clouds Wind W 33 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 18:50 Temperature 4C few clouds Wind W 33 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 18:20 Temperature 3C few clouds Wind W 33 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 17:50 Temperature 4C few clouds Wind W 43 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 17:20 Temperature 3C no or few clouds Wind W 31 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 16:50 Temperature 3C clouds Wind W 35 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 16:20 Temperature 4C clouds Wind W 37 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 15:50 Temperature 3C clouds Wind W 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 15:20 Temperature 3C thunderstorm Wind W 46 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 14:50 Temperature 5C light showers Wind W 44 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 14:20 Temperature 6C clouds Wind W 28 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 13:50 Temperature 5C light showers Wind W 33 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 13:20 Temperature 7C few clouds Wind W 39 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 12:50 Temperature 7C few clouds Wind W 43 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 12:20 Temperature 7C light showers Wind W 41 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 11:50 Temperature 8C cloudy Wind W 35 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 11:20 Temperature 7C few clouds Wind W 31 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 10:50 Temperature 8C few clouds Wind W 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 10:20 Temperature 7C cloudy Wind W 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 09:50 Temperature 7C cloudy Wind W 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 09:20 Temperature 8C clouds Wind W 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 08:50 Temperature 8C clouds Wind W 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 08:20 Temperature 8C clouds Wind W 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 07:50 Temperature 8C clouds Wind W 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 07:20 Temperature 8C clouds Wind W 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 06:50 Temperature 9C clouds Wind W 28 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 06:20 Temperature 9C cloudy Wind W 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 06:05 Temperature 9C Rain Wind W 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 05:55 Temperature 9C Rain Wind W 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 05:20 Temperature 9C light rain Wind W 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 05:13 Temperature 9C drizzle Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 04:50 Temperature 9C cloudy Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 04:20 Temperature 9C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 03:50 Temperature 9C cloudy, Haze Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 03:20 Temperature 9C cloudy Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 03:00 Temperature 9C overcast Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 02:50 Temperature 9C cloudy Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 00:50 Temperature 10C cloudy Wind W 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 26 00:20 Temperature 10C cloudy Wind W 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 23:50 Temperature 10C cloudy Wind W 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 23:20 Temperature 9C cloudy Wind W 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 22:50 Temperature 9C light rain Wind W 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 22:20 Temperature 10C cloudy Wind W 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 21:50 Temperature 10C cloudy Wind W 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 21:20 Temperature 10C cloudy Wind W 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 20:50 Temperature 10C cloudy Wind W 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 20:20 Temperature 10C cloudy Wind W 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 19:50 Temperature 10C cloudy Wind W 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 19:20 Temperature 10C cloudy Wind W 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 19:00 Temperature 9C overcast Wind W 33 km/h  Humidity 91% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 18:50 Temperature 10C cloudy Wind W 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 18:20 Temperature 10C cloudy Wind W 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 17:50 Temperature 10C cloudy Wind W 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 17:20 Temperature 10C cloudy Wind W 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 16:50 Temperature 10C cloudy Wind W 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 16:20 Temperature 10C cloudy Wind W 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 15:50 Temperature 10C cloudy Wind W 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 15:20 Temperature 10C cloudy Wind W 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 15:00 Temperature 8C overcast Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 14:50 Temperature 9C cloudy Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 14:20 Temperature 8C cloudy Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 13:50 Temperature 8C drizzle Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 13:20 Temperature 7C drizzle Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 12:50 Temperature 7C overcast Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 12:20 Temperature 7C overcast Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 12:00 Temperature 6C overcast Wind SW 15 km/h  Humidity 97% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 11:50 Temperature 6C light rain Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 11:20 Temperature 6C light rain Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 10:50 Temperature 6C light rain Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 10:20 Temperature 6C light rain Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 09:50 Temperature 6C clouds Wind SW 20 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 09:20 Temperature 5C clouds Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 08:50 Temperature 4C clouds Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 08:20 Temperature 4C dry Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 07:50 Temperature 4C dry Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 07:20 Temperature 4C clouds Wind SW 20 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 06:50 Temperature 4C clouds Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 06:20 Temperature 3C dry Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 05:50 Temperature 3C dry Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 05:20 Temperature 3C dry Wind W 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 04:50 Temperature 3C dry Wind W 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 04:20 Temperature 3C no or few clouds Wind W 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 03:50 Temperature 3C dry Wind W 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 03:20 Temperature 3C dry Wind W 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 03:00 Temperature 2C cloudless Wind W 28 km/h  Humidity 89% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 02:50 Temperature 3C dry Wind W 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 02:20 Temperature 3C dry Wind W 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 01:50 Temperature 3C dry Wind W 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 01:20 Temperature 3C dry Wind W 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 25 00:20 Temperature 3C few clouds Wind W 20 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 23:50 Temperature 3C few clouds Wind W 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 23:20 Temperature 3C cloudy Wind W 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 22:50 Temperature 3C few clouds Wind W 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 22:20 Temperature 3C cloudy Wind W 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 21:50 Temperature 3C dry Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 21:20 Temperature 3C heavy rain Wind W 37 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 20:50 Temperature 5C light rain Wind SW 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 20:20 Temperature 5C light rain Wind SW 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 20:00 Temperature 3C nearly cloudless Wind SW 17 km/h  Humidity 91% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 19:50 Temperature 4C light rain Wind SW 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 19:20 Temperature 3C clouds Wind W 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 18:50 Temperature 4C Rain Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 18:20 Temperature 4C Rain Wind W 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 17:50 Temperature 4C Rain Wind W 50 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 17:42 Temperature 4C Rain Wind SW 39 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 17:20 Temperature 5C few clouds Wind SW 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 16:50 Temperature 5C few clouds Wind SW 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 16:20 Temperature 5C few clouds Wind SW 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 15:50 Temperature 5C few clouds Wind SW 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 15:20 Temperature 5C few clouds Wind SW 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 14:50 Temperature 5C few clouds Wind SW 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 14:20 Temperature 6C light showers Wind W 43 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 13:50 Temperature 6C cloudy Wind SW 33 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 13:20 Temperature 7C clouds Wind SW 28 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 12:50 Temperature 7C few clouds Wind SW 30 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 12:20 Temperature 7C few clouds Wind SW 31 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 11:50 Temperature 7C dry Wind SW 28 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 11:20 Temperature 6C few clouds Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 10:50 Temperature 6C dry Wind SW 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 10:20 Temperature 6C dry Wind SW 24 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 09:50 Temperature 6C dry Wind W 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 09:20 Temperature 6C few clouds Wind W 24 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 08:50 Temperature 6C few clouds Wind SW 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 08:20 Temperature 6C few clouds Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 07:50 Temperature 6C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 07:20 Temperature 6C cloudy Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 06:50 Temperature 6C cloudy Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 06:20 Temperature 6C cloudy Wind SW 35 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 05:50 Temperature 6C cloudy Wind SW 35 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 05:20 Temperature 6C cloudy Wind SW 37 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 04:50 Temperature 6C overcast Wind SW 37 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 04:20 Temperature 6C overcast Wind SW 43 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 03:50 Temperature 6C overcast Wind SW 43 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 03:20 Temperature 6C overcast Wind SW 41 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 02:50 Temperature 6C overcast Wind SW 41 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 00:50 Temperature 6C clouds Wind S 41 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 24 00:20 Temperature 6C clouds Wind S 39 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 23:50 Temperature 6C clouds Wind S 41 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 23:20 Temperature 6C cloudy Wind S 35 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 22:50 Temperature 6C cloudy Wind S 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 22:20 Temperature 6C cloudy Wind S 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 21:50 Temperature 6C overcast Wind S 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 21:20 Temperature 6C overcast Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 20:58 Temperature 6C cloudy Wind S 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 20:20 Temperature 6C cloudy Wind S 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 19:50 Temperature 5C cloudy Wind S 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 19:20 Temperature 6C cloudy Wind S 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 18:50 Temperature 6C cloudy Wind S 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 18:20 Temperature 6C cloudy Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 17:50 Temperature 6C cloudy Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 17:20 Temperature 6C overcast Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 16:50 Temperature 6C overcast Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 16:20 Temperature 6C cloudy Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 15:50 Temperature 6C cloudy Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 15:20 Temperature 6C clouds Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 14:50 Temperature 6C fair Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 14:20 Temperature 6C fair Wind SW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 13:50 Temperature 6C fair Wind SW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 13:00 Temperature 6C cloudless Wind SW 22 km/h  Humidity 86% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 12:50 Temperature 6C dry Wind W 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 12:20 Temperature 6C fair Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 11:50 Temperature 6C fair Wind SW 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 11:20 Temperature 5C fair Wind W 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 11:00 Temperature 5C cloudless Wind SW 19 km/h  Humidity 88% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 10:50 Temperature 5C fair Wind W 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 10:20 Temperature 5C fair Wind W 20 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 09:50 Temperature 5C fair Wind W 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 09:20 Temperature 4C fair Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 09:00 Temperature 4C cloudless Wind W 24 km/h  Humidity 90% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 08:50 Temperature 4C few clouds Wind W 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 08:20 Temperature 4C few clouds Wind W 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 07:50 Temperature 5C light showers Wind W 28 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 07:20 Temperature 5C light showers Wind W 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 06:50 Temperature 5C clouds Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 06:20 Temperature 6C light showers Wind W 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 05:50 Temperature 6C light showers Wind SW 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 05:20 Temperature 5C few clouds Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 04:50 Temperature 6C cloudy Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 04:20 Temperature 6C cloudy Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 03:50 Temperature 6C clouds Wind SW 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 03:20 Temperature 6C cloudy Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 02:50 Temperature 6C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 00:50 Temperature 6C clouds Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 23 00:20 Temperature 6C cloudy Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 23:50 Temperature 6C cloudy Wind SW 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 23:20 Temperature 6C cloudy Wind SW 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 22:50 Temperature 5C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 22:20 Temperature 6C cloudy Wind SW 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 21:50 Temperature 6C cloudy Wind SW 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 21:20 Temperature 6C cloudy Wind SW 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 20:50 Temperature 5C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 20:20 Temperature 5C cloudy Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 19:50 Temperature 5C cloudy Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 19:20 Temperature 5C cloudy Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 18:50 Temperature 5C few clouds Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 18:20 Temperature 5C cloudy Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 17:50 Temperature 5C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 17:20 Temperature 5C cloudy Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 16:50 Temperature 5C cloudy Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 16:20 Temperature 5C cloudy Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 15:50 Temperature 5C cloudy Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 15:20 Temperature 5C cloudy Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 14:50 Temperature 6C cloudy Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 14:20 Temperature 6C cloudy, Haze Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 13:50 Temperature 6C cloudy, Haze Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 13:20 Temperature 5C overcast, Haze Wind W 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 12:50 Temperature 5C overcast, Haze Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 12:20 Temperature 5C overcast, Haze Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 12:00 Temperature 5C overcast Wind SW 22 km/h  Humidity 99% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 11:50 Temperature 5C overcast, Haze Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 11:20 Temperature 5C overcast, Haze Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 10:50 Temperature 5C light rain Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 10:20 Temperature 5C overcast, Haze Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 09:50 Temperature 5C overcast, Haze Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 09:20 Temperature 5C overcast, Haze Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 08:50 Temperature 5C cloudy Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 08:20 Temperature 5C cloudy Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 07:50 Temperature 5C drizzle Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 07:20 Temperature 5C drizzle Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 06:50 Temperature 5C drizzle Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 06:20 Temperature 5C drizzle Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 05:50 Temperature 5C cloudy, Haze Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 05:20 Temperature 5C cloudy, Haze Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 04:50 Temperature 5C cloudy, Haze Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 04:20 Temperature 5C cloudy, Haze Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 04:00 Temperature 5C overcast Wind SW 20 km/h  Humidity 92% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 03:50 Temperature 5C cloudy Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 03:20 Temperature 5C cloudy Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 02:50 Temperature 5C cloudy Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 00:50 Temperature 5C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 22 00:20 Temperature 5C cloudy Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 23:50 Temperature 5C cloudy Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 23:20 Temperature 5C cloudy Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 22:50 Temperature 5C cloudy Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 22:20 Temperature 5C cloudy Wind SW 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 21:50 Temperature 5C cloudy Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 21:20 Temperature 5C cloudy Wind SW 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 20:50 Temperature 5C cloudy Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 20:20 Temperature 5C overcast Wind SW 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 19:50 Temperature 5C overcast Wind SW 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 19:20 Temperature 5C overcast Wind SW 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 18:50 Temperature 5C overcast Wind SW 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 18:20 Temperature 5C overcast Wind SW 20 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 17:50 Temperature 4C overcast Wind SW 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 17:20 Temperature 4C overcast Wind S 20 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Dec 21 16:50 Temperature 3C cloudy Wind S 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 12:20 Temperature -6C few clouds Wind NE 31 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 11:50 Temperature -6C few clouds Wind N 30 km/h  Humidity 45% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 11:20 Temperature -6C few clouds Wind NE 26 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 10:50 Temperature 2C light rain Wind W 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 10:20 Temperature 2C clouds Wind W 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 09:50 Temperature 2C clouds Wind W 24 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 09:20 Temperature 2C clouds Wind SW 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 08:50 Temperature 2C clouds Wind SW 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 08:20 Temperature 2C cloudy Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 07:50 Temperature 2C cloudy Wind SW 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 07:20 Temperature 2C cloudy Wind SW 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 06:50 Temperature 1C cloudy Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 06:20 Temperature 2C clouds Wind SW 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 05:50 Temperature 1C clouds Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 05:20 Temperature 1C clouds Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 04:50 Temperature 1C light rain Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 04:20 Temperature 1C light rain Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 03:50 Temperature 1C light rain Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 03:20 Temperature 1C light rain Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 03:00 Temperature 1C cloudy Wind SW 15 km/h  Humidity 88% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 02:50 Temperature 1C snowy rain Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 00:50 Temperature 1C dry Wind W 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 18 00:20 Temperature 1C no or few clouds Wind SW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 23:50 Temperature 1C no or few clouds Wind SW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 23:20 Temperature 1C clouds Wind SW 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 22:50 Temperature 1C clouds Wind SW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 22:20 Temperature 1C clouds Wind SW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 21:50 Temperature 0C clouds Wind W 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 21:20 Temperature 0C clouds Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 21:00 Temperature 0C overcast Wind SW 15 km/h  Humidity 87% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 20:50 Temperature 0C clouds Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 20:20 Temperature 0C clouds Wind W 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 19:50 Temperature 0C clouds Wind SW 17 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 19:20 Temperature 0C clouds Wind SW 19 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 18:50 Temperature 0C clouds Wind SW 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 18:20 Temperature 0C clouds Wind SW 17 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 17:50 Temperature -1C clouds Wind SW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 17:20 Temperature -1C clouds Wind SW 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 16:50 Temperature -1C clouds Wind SW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 16:20 Temperature -1C clouds Wind W 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 15:50 Temperature -1C clouds Wind SW 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 15:20 Temperature 0C few clouds Wind SW 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 14:50 Temperature 0C fair Wind SW 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 14:20 Temperature -1C fair Wind SW 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 14:19 Temperature -1C fair Wind SW 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 13:50 Temperature 0C few clouds Wind SW 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 13:20 Temperature -1C few clouds Wind W 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 12:50 Temperature 0C clouds Wind W 9 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 12:20 Temperature -1C clouds Wind SW 7 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 11:50 Temperature -1C clouds Wind SW 6 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 11:20 Temperature -1C clouds Wind SW 4 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 10:50 Temperature -1C few clouds Wind W 7 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 10:20 Temperature -1C cloudy Wind W 7 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 09:50 Temperature -1C overcast Wind SW 4 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 09:20 Temperature -1C overcast Wind SE 2 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 08:50 Temperature -1C overcast Wind NE 2 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 08:20 Temperature -2C overcast Wind VRB 2 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 07:50 Temperature -2C overcast Wind VRB 2 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 07:20 Temperature -2C overcast Wind N 7 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 06:50 Temperature -2C overcast Wind NE 4 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 06:20 Temperature -2C cloudy Wind E 7 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 05:50 Temperature -2C cloudy Wind N 7 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 05:20 Temperature -2C cloudy Wind NE 9 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 04:50 Temperature -2C cloudy Wind NE 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 04:20 Temperature -2C cloudy Wind NE 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 03:50 Temperature -2C cloudy Wind NE 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 03:00 Temperature -1C overcast Wind N 13 km/h  Humidity 82% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 02:50 Temperature -2C cloudy Wind N 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 00:50 Temperature -2C cloudy Wind NE 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 17 00:20 Temperature -2C cloudy Wind N 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 23:50 Temperature -2C cloudy Wind N 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 23:20 Temperature -2C cloudy Wind N 9 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 22:50 Temperature -3C cloudy Wind NE 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 22:20 Temperature -3C cloudy Wind NE 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 21:50 Temperature -3C few clouds Wind NE 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 21:20 Temperature -2C few clouds Wind NE 15 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 20:50 Temperature -1C few clouds Wind N 20 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 20:20 Temperature -1C few clouds Wind N 20 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 19:50 Temperature -1C few clouds Wind N 17 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 19:20 Temperature -1C few clouds Wind N 15 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 19:00 Temperature -1C few clouds Wind NW 17 km/h  Humidity 78% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 18:50 Temperature -1C no or few clouds Wind N 17 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 18:20 Temperature 0C no or few clouds Wind N 20 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 17:50 Temperature 0C clouds Wind N 17 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 17:20 Temperature 0C clouds Wind N 15 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 16:50 Temperature 0C clouds Wind N 19 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 16:20 Temperature 0C clouds Wind N 20 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 15:50 Temperature 0C few clouds Wind N 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 15:20 Temperature 1C few clouds Wind N 28 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 14:50 Temperature 1C few clouds Wind N 22 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 14:20 Temperature 2C few clouds Wind N 24 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 13:50 Temperature 2C few clouds Wind N 17 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 13:20 Temperature 1C few clouds Wind N 13 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 13:00 Temperature 1C cloudless Wind N 15 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 12:50 Temperature 1C fair Wind N 13 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 12:20 Temperature 1C fair Wind N 17 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 11:50 Temperature 0C fair Wind N 19 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 11:20 Temperature 0C few clouds Wind N 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 10:50 Temperature 0C few clouds Wind N 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 10:20 Temperature -1C fair Wind NW 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 09:50 Temperature -2C fair Wind N 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 09:20 Temperature -2C fair Wind N 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 08:50 Temperature -2C fair Wind NW 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 08:00 Temperature -2C cloudless Wind NW 11 km/h  Humidity 84% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 07:50 Temperature -2C no or few clouds Wind NW 15 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 07:20 Temperature -2C no or few clouds Wind NW 19 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 06:50 Temperature -3C no or few clouds Wind NW 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 06:20 Temperature -3C no or few clouds Wind N 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 05:50 Temperature -3C no or few clouds Wind NW 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 05:20 Temperature -3C no or few clouds Wind NW 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 04:50 Temperature -4C no or few clouds Wind NW 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 04:20 Temperature -5C no or few clouds Wind NW 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 03:50 Temperature -3C no or few clouds Wind NW 9 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 03:38 Temperature -3C no or few clouds Wind NW 7 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 03:20 Temperature -3C no or few clouds Wind NW 9 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 02:50 Temperature -2C no or few clouds Wind NW 7 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 00:50 Temperature -3C no or few clouds Wind NW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 16 00:20 Temperature -3C no or few clouds Wind N 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 23:59 Temperature -3C no or few clouds Wind NW 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 23:50 Temperature -3C no or few clouds Wind NW 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 23:20 Temperature -3C no or few clouds Wind NW 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 22:50 Temperature -3C no or few clouds Wind NW 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 22:20 Temperature -3C no or few clouds Wind N 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 21:50 Temperature -2C no or few clouds Wind N 19 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 21:20 Temperature -1C no or few clouds Wind N 19 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 20:50 Temperature -1C no or few clouds Wind N 17 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 20:20 Temperature -1C no or few clouds Wind N 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 19:50 Temperature -1C no or few clouds Wind N 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 19:20 Temperature -2C no or few clouds Wind N 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 18:50 Temperature -2C no or few clouds Wind N 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 18:20 Temperature -1C no or few clouds Wind N 9 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 17:50 Temperature -1C no or few clouds Wind NW 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 17:20 Temperature -1C no or few clouds Wind NW 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 16:50 Temperature -1C fair Wind NW 15 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 16:20 Temperature -1C fair Wind NW 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 15:50 Temperature 0C fair Wind N 17 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 15:20 Temperature 1C fair Wind N 22 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 14:50 Temperature 1C few clouds Wind N 24 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 14:20 Temperature 1C fair Wind N 24 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 13:50 Temperature 1C few clouds Wind N 24 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 13:20 Temperature 1C few clouds Wind N 28 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 12:50 Temperature 1C few clouds Wind N 20 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 12:20 Temperature 1C few clouds Wind N 17 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 11:50 Temperature 0C few clouds Wind N 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 11:20 Temperature 0C clouds Wind N 19 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 10:50 Temperature 0C cloudy Wind N 24 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 10:20 Temperature -1C clouds Wind N 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 09:50 Temperature 0C cloudy Wind N 20 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 09:20 Temperature -1C cloudy Wind N 20 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 08:50 Temperature -1C cloudy Wind N 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 08:20 Temperature -1C cloudy Wind N 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 07:50 Temperature -1C cloudy Wind N 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 07:20 Temperature -1C cloudy Wind N 31 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 06:50 Temperature -1C cloudy Wind N 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 06:22 Temperature -1C clouds Wind N 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 05:50 Temperature 0C cloudy Wind N 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 05:20 Temperature 0C cloudy Wind N 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 04:50 Temperature 1C cloudy Wind N 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 04:20 Temperature 1C cloudy Wind N 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 04:00 Temperature 1C cloudy Wind N 22 km/h  Humidity 90% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 03:50 Temperature 2C cloudy Wind N 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 03:20 Temperature 1C cloudy Wind N 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 03:00 Temperature 1C cloudy Wind N 15 km/h  Humidity 90% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 02:50 Temperature 2C cloudy Wind N 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 00:50 Temperature 1C clouds Wind N 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 15 00:20 Temperature 1C clouds Wind N 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 23:50 Temperature 0C clouds Wind N 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 23:20 Temperature 0C clouds Wind W 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 22:50 Temperature -1C few clouds Wind NW 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 22:20 Temperature 1C few clouds Wind NW 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 21:50 Temperature 1C few clouds Wind NW 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 21:20 Temperature 0C clouds Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 20:50 Temperature 1C clouds Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 20:20 Temperature 0C clouds Wind SW 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 19:50 Temperature 0C snowy rain Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 19:20 Temperature 1C snowy rain Wind W 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 18:50 Temperature 1C clouds Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 18:20 Temperature 1C clouds Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 18:00 Temperature 0C cloudy Wind W 13 km/h  Humidity 96% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 17:50 Temperature 1C clouds Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 17:20 Temperature 1C cloudy Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 16:50 Temperature 1C cloudy Wind SW 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 14 16:20 Temperature 1C clouds Wind SW 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 14 15:50 Temperature 1C clouds Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 15:20 Temperature 2C clouds Wind W 11 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 14:50 Temperature 2C clouds Wind W 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 14:20 Temperature 3C cloudy Wind W 13 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 13:50 Temperature 3C clouds Wind W 17 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 13:20 Temperature 3C clouds Wind W 19 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 12:50 Temperature 3C clouds Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 12:20 Temperature 2C clouds Wind W 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 11:50 Temperature 2C few clouds Wind W 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 11:20 Temperature 2C few clouds Wind W 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 10:50 Temperature 1C clouds Wind SW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 10:20 Temperature 0C light snow Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 09:50 Temperature 0C cloudy Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 09:20 Temperature 1C snowy rain showers Wind SW 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 08:50 Temperature 0C clouds Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 08:20 Temperature 0C cloudy, Haze Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 07:50 Temperature -2C cloudy, Haze Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 07:20 Temperature -3C -, Haze Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 06:50 Temperature -3C -, Haze Wind SW 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 06:20 Temperature -3C -, Haze Wind S 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 05:50 Temperature -3C Wind SW 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 05:20 Temperature -3C Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 05:00 Temperature -3C cloudless Wind W 9 km/h  Humidity 98% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 04:50 Temperature -3C Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 04:20 Temperature -3C Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 03:50 Temperature -2C Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 03:20 Temperature -2C Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 02:50 Temperature -3C Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 00:50 Temperature -1C Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 14 00:20 Temperature -1C Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 23:50 Temperature -2C -, Haze Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 23:20 Temperature -1C -, Haze Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 22:50 Temperature -2C few clouds, mist Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 22:20 Temperature 0C Wind W 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 21:50 Temperature 0C -, Haze Wind W 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 21:20 Temperature -1C few clouds, mist Wind SW 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 20:50 Temperature -1C cloudless, Haze Wind W 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 20:20 Temperature 0C cloudless Wind SW 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 19:50 Temperature 1C cloudy Wind SW 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 19:20 Temperature 1C cloudy Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 18:50 Temperature 1C cloudy Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 18:20 Temperature 1C cloudy Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 17:50 Temperature 0C cloudy Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 17:20 Temperature 0C cloudy Wind SW 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 16:50 Temperature 0C cloudy Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 16:20 Temperature 0C cloudy Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 15:50 Temperature 0C cloudy Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 15:20 Temperature 0C cloudy Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 14:50 Temperature 1C cloudy Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 14:20 Temperature 1C cloudy Wind NW 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 13:50 Temperature 1C cloudy Wind NW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 13:20 Temperature 2C cloudy Wind N 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 12:50 Temperature 2C cloudy Wind VRB 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 12:20 Temperature 2C cloudy Wind N 9 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 11:50 Temperature 2C cloudy Wind N 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 11:20 Temperature 2C cloudy Wind N 4 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 10:50 Temperature 2C cloudy Wind NE 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 10:20 Temperature 1C cloudy, Haze Wind N 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 09:50 Temperature 1C cloudy, Haze Wind N 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 09:20 Temperature 1C cloudy, Haze Wind N 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 08:50 Temperature 1C fog in patches Wind N 9 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 13 08:20 Temperature -1C freezing fog Wind N 2 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 13 07:50 Temperature 1C cloudy Wind N 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 13 07:20 Temperature 1C cloudy Wind N 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 13 06:50 Temperature 1C cloudy Wind NW 2 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 13 06:20 Temperature 1C overcast, Haze Wind S 2 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 13 05:50 Temperature 1C overcast, Haze Wind S 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 13 05:20 Temperature 1C overcast, Haze Wind W 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 13 04:50 Temperature 1C overcast, Haze Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 04:20 Temperature 1C overcast, Haze Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 03:50 Temperature 1C cloudy Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 03:20 Temperature 0C cloudy Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 02:50 Temperature 1C cloudy Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 00:50 Temperature 1C cloudy Wind SW 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 00:25 Temperature 1C clouds Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 13 00:20 Temperature 1C clouds Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 23:50 Temperature 1C clouds Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 23:20 Temperature 1C clouds Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 22:50 Temperature 1C clouds Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 22:20 Temperature 2C clouds Wind SW 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 22:00 Temperature 1C cloudless Wind SW 20 km/h  Humidity 91% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 21:50 Temperature 1C clouds Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 21:20 Temperature 2C clouds Wind SW 19 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 20:50 Temperature 1C dry Wind SW 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 20:20 Temperature 2C dry Wind SW 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 19:50 Temperature 2C dry Wind W 22 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 19:20 Temperature 2C dry Wind W 24 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 18:50 Temperature 2C dry Wind SW 28 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 18:20 Temperature 2C dry Wind W 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 17:50 Temperature 3C dry Wind W 31 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 17:20 Temperature 2C few clouds Wind W 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 16:50 Temperature 2C few clouds Wind W 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 16:20 Temperature 2C light showers Wind W 35 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 15:50 Temperature 3C few clouds Wind W 35 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 15:20 Temperature 3C few clouds Wind W 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 15:00 Temperature 3C cloudless Wind W 31 km/h  Humidity 82% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 14:50 Temperature 3C few clouds Wind W 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 14:20 Temperature 4C few clouds Wind W 39 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 13:50 Temperature 5C few clouds Wind W 39 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 12 13:20 Temperature 4C few clouds Wind W 41 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 12:50 Temperature 4C few clouds Wind W 39 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 12:20 Temperature 4C few clouds Wind W 43 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 11:50 Temperature 4C few clouds Wind W 37 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 11:20 Temperature 4C few clouds Wind W 37 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 10:50 Temperature 3C few clouds Wind SW 35 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 10:20 Temperature 3C few clouds Wind SW 37 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 09:50 Temperature 3C snowy rain showers Wind SW 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 09:20 Temperature 3C light showers Wind W 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 08:50 Temperature 3C light showers Wind W 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 08:20 Temperature 3C few clouds Wind W 39 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 07:50 Temperature 3C few clouds Wind W 35 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 07:20 Temperature 3C few clouds Wind W 31 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 06:50 Temperature 3C clouds Wind W 31 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 06:20 Temperature 3C cloudy Wind W 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 05:50 Temperature 3C few clouds Wind W 31 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 05:20 Temperature 3C few clouds Wind W 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 04:50 Temperature 3C few clouds Wind W 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 04:20 Temperature 3C few clouds Wind W 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 03:50 Temperature 3C few clouds Wind W 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 03:20 Temperature 3C clouds Wind W 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 02:50 Temperature 3C cloudy Wind W 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 00:50 Temperature 4C few clouds Wind W 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 12 00:20 Temperature 4C cloudy Wind W 33 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 23:50 Temperature 4C cloudy Wind W 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 23:20 Temperature 4C cloudy Wind W 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 22:50 Temperature 4C few clouds Wind W 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 22:20 Temperature 4C few clouds Wind W 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 21:50 Temperature 4C few clouds Wind W 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 21:20 Temperature 4C clouds Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 21:00 Temperature 4C cloudy Wind SW 31 km/h  Humidity 89% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 20:50 Temperature 4C clouds Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 20:20 Temperature 4C few clouds Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 19:50 Temperature 5C few clouds Wind SW 35 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 19:20 Temperature 4C clouds Wind SW 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 18:50 Temperature 4C few clouds Wind SW 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 18:20 Temperature 4C few clouds Wind SW 35 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 17:50 Temperature 4C cloudy Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 17:20 Temperature 4C cloudy Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 17:00 Temperature 4C overcast Wind SW 28 km/h  Humidity 93% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 16:50 Temperature 4C light showers Wind SW 26 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 16:20 Temperature 4C light showers Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 15:50 Temperature 3C light showers Wind SW 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 15:20 Temperature 3C light showers Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 14:50 Temperature 2C light snow Wind SW 37 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 14:20 Temperature 2C light snow Wind SW 43 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 13:50 Temperature 2C light snow Wind S 52 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 13:20 Temperature 1C light snow Wind S 54 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 12:50 Temperature 1C light snow Wind S 57 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 12:20 Temperature 1C Snow Wind S 52 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 11:50 Temperature 2C light snow Wind S 54 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 11:20 Temperature 2C light snow Wind S 50 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 10:50 Temperature 1C snowy rain Wind S 50 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 10:20 Temperature 2C cloudy Wind S 54 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 09:50 Temperature 2C cloudy Wind S 48 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 11 09:20 Temperature 2C cloudy Wind S 50 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 08:50 Temperature 2C cloudy Wind S 48 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 08:20 Temperature 2C cloudy Wind S 46 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 07:50 Temperature 2C cloudy Wind S 43 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 07:21 Temperature 2C cloudy Wind S 41 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 06:50 Temperature 2C clouds Wind S 37 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 06:20 Temperature 2C clouds Wind S 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 06:00 Temperature 2C cloudy Wind S 35 km/h  Humidity 91% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 05:50 Temperature 2C cloudy Wind S 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 05:20 Temperature 2C cloudy Wind S 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 04:50 Temperature 2C cloudy Wind S 37 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 04:20 Temperature 2C cloudy Wind S 37 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 03:50 Temperature 2C cloudy Wind S 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 03:20 Temperature 2C cloudy Wind S 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 03:00 Temperature 2C cloudy Wind S 31 km/h  Humidity 88% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 02:50 Temperature 2C clouds Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 00:50 Temperature 2C cloudy Wind S 28 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 11 00:20 Temperature 2C cloudy Wind S 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 23:50 Temperature 2C cloudy Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 23:20 Temperature 2C cloudy Wind S 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 22:50 Temperature 2C cloudy Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 22:20 Temperature 2C cloudy Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 10 21:50 Temperature 2C light rain Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 21:20 Temperature 2C cloudy Wind S 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 21:00 Temperature 1C cloudy Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 20:50 Temperature 2C cloudy Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 20:20 Temperature 2C overcast Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 19:50 Temperature 2C overcast Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 19:20 Temperature 2C cloudy Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 19:00 Temperature 2C overcast Wind S 28 km/h  Humidity 84% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 18:50 Temperature 2C overcast Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 18:20 Temperature 2C cloudy Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 17:50 Temperature 2C cloudy Wind S 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 17:20 Temperature 2C cloudy Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 16:50 Temperature 2C cloudy Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 16:20 Temperature 2C cloudy Wind S 28 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 15:50 Temperature 1C cloudy Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 15:20 Temperature 1C overcast Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 14:50 Temperature 1C cloudy Wind S 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 14:20 Temperature 2C cloudy Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 13:50 Temperature 1C cloudy Wind S 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 13:20 Temperature 2C cloudy Wind S 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 12:50 Temperature 2C cloudy Wind S 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 12:20 Temperature 2C cloudy Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 11:50 Temperature 1C cloudy Wind S 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 11:20 Temperature 1C cloudy Wind S 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 10:50 Temperature 1C cloudy Wind S 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 10:20 Temperature 1C cloudy Wind S 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 09:50 Temperature 2C cloudy Wind S 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 09:20 Temperature 1C cloudy Wind S 37 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 08:50 Temperature 1C cloudy Wind S 37 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 08:20 Temperature 2C cloudy Wind S 37 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 07:50 Temperature 2C cloudy Wind S 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 07:20 Temperature 2C cloudy Wind S 31 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 06:50 Temperature 2C cloudy Wind S 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 06:20 Temperature 1C light snow Wind S 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 06:00 Temperature 1C overcast Wind S 31 km/h  Humidity 91% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 05:50 Temperature 1C cloudy Wind S 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 05:20 Temperature 1C cloudy Wind S 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 04:50 Temperature 2C cloudy Wind S 35 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 04:20 Temperature 1C cloudy Wind S 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 03:50 Temperature 1C cloudy Wind S 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 03:20 Temperature 1C cloudy Wind S 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 02:50 Temperature 1C cloudy Wind S 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 00:50 Temperature 1C cloudy Wind S 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 10 00:20 Temperature 1C cloudy Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 23:50 Temperature 1C cloudy Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 23:20 Temperature 1C cloudy Wind S 33 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 22:50 Temperature 2C cloudy Wind S 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 22:20 Temperature 2C cloudy Wind S 26 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 21:50 Temperature 2C few clouds Wind S 28 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 21:20 Temperature 2C few clouds Wind S 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 20:50 Temperature 2C cloudy Wind S 30 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 20:20 Temperature 2C cloudy Wind S 28 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 19:50 Temperature 2C cloudy Wind S 26 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 19:20 Temperature 2C cloudy Wind S 22 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 19:00 Temperature 2C cloudy Wind S 19 km/h  Humidity 90% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 18:50 Temperature 2C cloudy Wind S 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 18:00 Temperature 2C cloudy Wind S 17 km/h  Humidity 94% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 17:50 Temperature 2C cloudy Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 17:20 Temperature 3C cloudy Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 16:50 Temperature 3C cloudy Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 16:20 Temperature 3C cloudy Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 15:50 Temperature 3C cloudy Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 15:20 Temperature 3C cloudy Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 15:00 Temperature 3C overcast Wind SW 17 km/h  Humidity 98% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 14:50 Temperature 3C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 14:20 Temperature 3C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 13:50 Temperature 3C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 13:20 Temperature 3C overcast Wind SW 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 12:50 Temperature 3C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 12:20 Temperature 3C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 11:50 Temperature 3C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 11:20 Temperature 3C drizzle Wind W 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 10:50 Temperature 3C drizzle Wind W 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 10:20 Temperature 3C overcast, Haze Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 09:50 Temperature 3C overcast, Haze Wind SW 22 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 09:20 Temperature 3C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 08:50 Temperature 3C overcast, Haze Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 08:20 Temperature 3C overcast, Haze Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 07:50 Temperature 2C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 07:20 Temperature 2C drizzle Wind SW 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 06:50 Temperature 2C drizzle Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 06:20 Temperature 2C overcast, Haze Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 05:50 Temperature 2C drizzle Wind SW 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 05:20 Temperature 2C drizzle Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 04:50 Temperature 2C overcast, Haze Wind SW 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 04:20 Temperature 2C overcast Wind SW 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 03:50 Temperature 2C cloudy Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 03:20 Temperature 1C cloudy Wind SW 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 03:00 Temperature 1C overcast Wind SW 11 km/h  Humidity 92% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 02:20 Temperature 1C cloudy Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 01:00 Temperature 0C overcast Wind SW 15 km/h  Humidity 90% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 00:50 Temperature 1C cloudy Wind W 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 09 00:20 Temperature 1C cloudy Wind W 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 23:50 Temperature 1C cloudy Wind W 19 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 23:20 Temperature 1C clouds Wind W 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 22:50 Temperature 1C clouds Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 22:20 Temperature 1C cloudy Wind W 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 21:50 Temperature 1C overcast Wind W 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 21:20 Temperature 1C overcast Wind W 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 20:50 Temperature 0C overcast Wind SW 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 20:20 Temperature -1C cloudy, Haze Wind W 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 19:50 Temperature -1C cloudy, Haze Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 08 19:20 Temperature -1C overcast, Haze Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 18:50 Temperature -1C cloudy, Haze Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 18:20 Temperature -1C cloudy, Haze Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 17:50 Temperature -1C cloudy, Haze Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 17:21 Temperature -1C overcast, Haze Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 16:50 Temperature -1C cloudy, Haze Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 16:20 Temperature -1C overcast, Haze Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 15:50 Temperature -1C cloudy, Haze Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 15:20 Temperature -1C cloudy, Haze Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 14:50 Temperature -1C cloudy, Haze Wind W 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 14:20 Temperature -1C cloudy, Haze Wind W 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 13:50 Temperature -1C cloudy, Haze Wind W 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 13:20 Temperature -1C cloudy Wind W 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 12:50 Temperature -1C cloudy Wind W 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 12:20 Temperature 0C cloudy Wind W 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 11:50 Temperature -1C cloudy Wind W 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 11:20 Temperature -1C cloudy Wind NW 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 10:50 Temperature -1C cloudy Wind N 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 10:20 Temperature -1C cloudy Wind N 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 09:50 Temperature -1C cloudy Wind N 4 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 09:20 Temperature -1C cloudy Wind N 6 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 09:00 Temperature -1C overcast Wind E 7 km/h  Humidity 94% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 08:50 Temperature -1C cloudy Wind NE 7 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 08:20 Temperature -1C cloudy Wind E 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 08 07:50 Temperature -1C cloudy Wind NE 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 07:20 Temperature -1C cloudy Wind NE 9 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 06:50 Temperature -1C cloudy Wind NE 11 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 06:20 Temperature -1C cloudy Wind NE 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 05:50 Temperature -1C cloudy Wind NE 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 05:20 Temperature -1C cloudy Wind NE 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 04:50 Temperature 0C cloudy Wind NE 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 04:20 Temperature 0C cloudy Wind NE 13 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 03:50 Temperature 0C cloudy Wind NE 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 03:20 Temperature 0C cloudy Wind NE 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 02:50 Temperature 0C cloudy Wind NE 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 01:00 Temperature 0C overcast Wind NE 13 km/h  Humidity 90% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 00:50 Temperature 0C cloudy Wind NE 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 08 00:20 Temperature 0C cloudy Wind NE 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 23:50 Temperature 0C cloudy Wind NE 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 23:20 Temperature 1C cloudy Wind NE 17 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 22:50 Temperature 1C cloudy Wind NE 15 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 22:20 Temperature 1C cloudy Wind NE 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 21:50 Temperature 1C cloudy Wind NE 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 21:20 Temperature 1C cloudy, Haze Wind NE 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 20:50 Temperature 1C cloudy, Haze Wind NE 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 20:20 Temperature 1C cloudy, Haze Wind NE 15 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 19:50 Temperature 2C overcast Wind NE 9 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 19:20 Temperature 2C overcast Wind NE 13 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 18:50 Temperature 3C overcast Wind N 11 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 18:20 Temperature 2C Fog Wind NW 6 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 17:50 Temperature 2C overcast Wind NW 9 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 17:20 Temperature 2C Fog Wind W 13 km/h  Humidity 100% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 16:50 Temperature 2C cloudy Wind W 13 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 16:20 Temperature 2C cloudy, Haze Wind W 19 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 15:50 Temperature 2C drizzle Wind W 17 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 15:20 Temperature 2C drizzle Wind W 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 14:50 Temperature 2C drizzle Wind W 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 14:20 Temperature 2C drizzle Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 13:50 Temperature 1C drizzle Wind W 24 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 13:20 Temperature 1C drizzle Wind W 20 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 12:50 Temperature 1C drizzle Wind W 30 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 12:20 Temperature 1C drizzle Wind W 28 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 11:50 Temperature 0C drizzle Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 11:20 Temperature 0C freezing drizzle Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 10:50 Temperature 0C freezing drizzle Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 10:20 Temperature -1C freezing drizzle Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 09:50 Temperature -1C freezing drizzle Wind SW 33 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 09:20 Temperature -1C freezing drizzle Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 09:00 Temperature -2C overcast Wind SW 33 km/h  Humidity 94% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 08:50 Temperature -2C light snow Wind SW 31 km/h  Humidity 95% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 08:20 Temperature -2C light snow Wind SW 28 km/h  Humidity 85% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 07:50 Temperature -2C light snow Wind SW 28 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 07:20 Temperature -2C light snow Wind SW 30 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 06:50 Temperature -2C overcast Wind SW 30 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 06:20 Temperature -2C overcast Wind SW 33 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 05:50 Temperature -2C overcast Wind SW 30 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 05:20 Temperature -2C overcast Wind SW 28 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 04:50 Temperature -3C clouds Wind SW 24 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 04:20 Temperature -3C clouds Wind SW 28 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 03:50 Temperature -3C light snow Wind SW 26 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 03:20 Temperature -3C light snow Wind SW 24 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 02:50 Temperature -3C light snow Wind SW 24 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 00:50 Temperature -3C dry Wind SW 26 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 07 00:20 Temperature -3C no or few clouds Wind SW 24 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 23:50 Temperature -3C dry Wind SW 24 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 06 23:20 Temperature -3C no or few clouds Wind SW 19 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 22:50 Temperature -3C dry Wind SW 22 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 22:20 Temperature -3C clouds Wind SW 22 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 21:50 Temperature -3C clouds Wind SW 22 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 21:20 Temperature -3C clouds Wind SW 20 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 20:50 Temperature -3C no or few clouds Wind SW 20 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 20:20 Temperature -3C no or few clouds Wind SW 19 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 19:50 Temperature -4C clouds Wind SW 15 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 19:20 Temperature -4C clouds Wind SW 15 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 18:50 Temperature -4C clouds Wind SW 15 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 18:20 Temperature -5C few clouds Wind SW 15 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 17:50 Temperature -5C few clouds Wind SW 13 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 17:20 Temperature -6C few clouds Wind SW 11 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 16:50 Temperature -6C few clouds Wind SW 11 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 16:20 Temperature -7C few clouds Wind SW 9 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 15:50 Temperature -6C few clouds Wind SW 9 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 15:20 Temperature -5C few clouds Wind SW 6 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 14:50 Temperature -4C few clouds Wind S 6 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 14:39 Temperature -4C few clouds Wind SW 6 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 14:20 Temperature -4C few clouds Wind S 4 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 13:50 Temperature -4C few clouds Wind SW 4 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 13:20 Temperature -4C few clouds Wind S 6 km/h  Humidity 45% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 12:50 Temperature -4C few clouds Wind SW 4 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 12:21 Temperature -4C few clouds Wind VRB 2 km/h  Humidity 45% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 11:50 Temperature -5C few clouds Wind W 4 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 11:20 Temperature -5C few clouds Wind VRB 2 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 10:50 Temperature -6C fair Wind E 4 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 10:20 Temperature -6C fair Wind NE 4 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 09:50 Temperature -7C fair Wind NE 4 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 09:20 Temperature -7C fair Wind NE 7 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 08:50 Temperature -9C fair Wind NE 7 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 08:20 Temperature -8C fair Wind NE 6 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 07:50 Temperature -8C no or few clouds Wind NE 6 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 07:20 Temperature -8C no or few clouds Wind N 6 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 06 06:50 Temperature -7C no or few clouds Wind NE 6 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVCBPm
+#Copenhagen Jan 06 06:20 Temperature -9C no or few clouds Wind NE 6 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 05:50 Temperature -8C no or few clouds Wind NE 6 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 05:20 Temperature -9C no or few clouds Wind NE 6 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 04:50 Temperature -9C no or few clouds Wind NE 7 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 04:20 Temperature -9C no or few clouds Wind NE 9 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 03:50 Temperature -9C no or few clouds Wind NE 9 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 03:20 Temperature -9C no or few clouds Wind NE 11 km/h  Humidity 75% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 02:50 Temperature -9C no or few clouds Wind NE 9 km/h  Humidity 80% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 00:50 Temperature 0C Report Error Humidity 0% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 00:50 Temperature -8C no or few clouds Wind NE 15 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 06 00:20 Temperature -8C no or few clouds Wind NE 19 km/h  Humidity 70% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 23:50 Temperature -8C no or few clouds Wind NE 20 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 23:20 Temperature -8C no or few clouds Wind NE 20 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 22:50 Temperature -7C no or few clouds Wind NE 19 km/h  Humidity 65% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 22:20 Temperature -7C no or few clouds Wind NE 20 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 21:50 Temperature -7C no or few clouds Wind NE 22 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 21:20 Temperature -7C no or few clouds Wind N 24 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 20:50 Temperature -7C no or few clouds Wind N 24 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 20:20 Temperature -7C no or few clouds Wind NE 24 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 19:50 Temperature -7C no or few clouds Wind NE 22 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 19:20 Temperature -6C no or few clouds Wind N 24 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 18:50 Temperature -6C few clouds Wind NE 24 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 18:20 Temperature -6C few clouds Wind NE 26 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 17:50 Temperature -6C few clouds Wind NE 24 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 17:20 Temperature -6C few clouds Wind N 24 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 16:50 Temperature -6C few clouds Wind N 26 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 16:20 Temperature -6C few clouds Wind N 24 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 15:50 Temperature -6C few clouds Wind N 26 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 15:20 Temperature -6C few clouds Wind N 28 km/h  Humidity 60% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 14:50 Temperature -6C few clouds Wind N 26 km/h  Humidity 55% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 14:20 Temperature -5C few clouds Wind N 28 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 13:50 Temperature -6C few clouds Wind N 26 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 13:20 Temperature -5C few clouds Wind N 31 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
+#Copenhagen Jan 05 12:50 Temperature -5C few clouds Wind N 31 km/h  Humidity 50% Denmark .. https://t.co/j6bfeVl0XO
